@@ -4,9 +4,9 @@ title: Úspěšný lov
 
 ### 1/
 
-Být na horách sám, bez společnosti, je horší než kancelář.
+> Být na horách sám, bez společnosti, je horší než kancelář.
 
-— Zweig
+> — Zweig
 
 Srub Oskarova přítele stál zcela osamoceně na samém úpatí hory, jejíž jméno Oskar stále zapomínal, přestože je měl už několik dní před očima na jednom z oněch zelených lístečků s Robertovými instrukcemi, kterými byla polepená celá místnost – kromě klíčových informací týkajících se odběru vody z potoční nádrže, poměrně složitého otevírání dřevěných okenic či doplňování petroleje do lamp tu byly i nejrůznější pokyny typu _Tu šunku sežer co nejdřív, nebo se zkazí_ (na lednici) nebo _Fernet a to červený víno klidně vypij, ale chraň tě noha otevřít tu šestnáctiletou skotskou!_ (na baru). Pod oknem na psacím stole ležel lovecký dalekohled opatřený pro změnu lístečkem _Kamzíci tu sice nejsou, ale u tý chaty dole v údolí jsem minulej tejden viděl parádní kozy!_ (Oskarovi se mimochodem nic podobného nepodařilo: v uplynulých dvou slunečných dnech sice v přestávkách mezi psaním občas pozoroval jakousi trojici žen či dívek, které se na louce před zmíněnou chatou opalovaly, ale ke svému zklamání na tu dálku nedokázal ani pořádně rozpoznat, zda mají či nemají plavky.)
 
@@ -18,11 +18,11 @@ S nepředstíraným úlekem, který musel nutně působit poněkud komicky, se 
 
 ### 2/
 
-Chtěl se k tomuto novému přátelství stavět naoko lhostejným,  
-chtěl, aby se o něho ucházela ona… Umínil si, že bude předstírat  
-do jisté míry pýchu…
+> Chtěl se k tomuto novému přátelství stavět naoko lhostejným,  
+> chtěl, aby se o něho ucházela ona… Umínil si, že bude předstírat  
+> do jisté míry pýchu…
 
-— Zweig
+> — Zweig
 
 Zůstala stát asi metr ode dveří. Vzlykala, drkotala zuby a bezkrevnými rty Oskarovi přerývaně sdělovala, že na hřebenech zabloudila. Říkala ještě cosi, ale tomu už Oskar neporozuměl. – A ostatní? Kde jsou ostatní? chtěl pouze vědět. Nyní nerozuměla dívka. – Chce snad říct, že si vyrazila na túru úplně sama? Dívka přikývla a její pláč zesílil. – Klid, ať se ničeho nebojí, teď už bude všechno v pořádku, promluvil znovu Oskar. Teď se především potřebuje převléknout a zahřát. Pokoušel se o maximálně chlácholivý tón, ale dívka začala být paradoxně poněkud hysterická: v předklonu se schoulila do jakési téměř prenatální polohy, hlasitě sténala, a když ji chtěl Oskar pro začátek alespoň posadit na nejbližší židli, polekaně před ním uskočila.
 
@@ -86,10 +86,10 @@ Nakonec dívce pomohl s oblékáním – i nadále si připadal tak trochu ja
 
 ### 3/
 
-Byl jako každý silně eroticky založený člověk dvojnásob skvělý,  
-když viděl, že se líbí ženám.
+> Byl jako každý silně eroticky založený člověk dvojnásob skvělý,  
+> když viděl, že se líbí ženám.
 
-— Zweig
+> — Zweig
 
 Probudila se po necelé hodině a mžouravě se kolem sebe rozhlížela.
 
@@ -183,9 +183,9 @@ Ta šestnáctiletá skotská, shodli se s Monikou, byla přímo neuvěřitelně
 
 ### 4/
 
-Netrpělivému lovci se nyní zdálo, že je na čase přiblížit se ke zvěři.
+> Netrpělivému lovci se nyní zdálo, že je na čase přiblížit se ke zvěři.
 
-— Zweig
+> — Zweig
 
 Asi po půldruhé hodině, kterou strávili ve velmi příjemném rozhovoru, se k ní naklonil a zkoumavě ji políbil.
 
