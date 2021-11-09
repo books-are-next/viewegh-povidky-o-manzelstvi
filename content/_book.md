@@ -7,8 +7,7 @@ meta:
   author: Michal Viewegh
   publisher: Městská knihovna v Praze
   modified: '2021-11-09T12:57:34.236Z'
-chapters:
-  - povidky_o_manzelstvi_a_o_sexu_001.html
+chapters: []
 tocBase: []
 static:
   - style
