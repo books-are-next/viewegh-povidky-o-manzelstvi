@@ -4,6 +4,8 @@ title: Představivost intelektuálů po Osvětimi
 
 Byl pátek večer a v hospodě nebyla volná už ani jediná židle, ale Oskarovi, který jako obvykle strávil celý den v samotě a tichu své pracovny, přišel všechen ten hluk docela vhod. Vrchní zrovna sbíral prázdné půllitry.
 
+  
+
 „Ještě tři?“ zeptal se.
 
 Byl to zavalitý, zhruba padesátiletý muž s prošedivělými skráněmi; kolem zarudlých koutků nápadně světlých očí měl celé vějíře hlubokých vrásek.
@@ -32,7 +34,7 @@ Zdálo se, že vrchní o jeho otázce vážně přemýšlí.
 
 „Ale v zimě zas patřej punčochy tak nějak k věci, ne?“ uvažoval hlasitě vrchní. „V zimě taková ta bílá, neopálená noha vypadá bez punčocháčů blbě – jestli teda, pánové, souhlasíte?“
 
-„Já jo,“ řekl Oskar. „V zimě to vypadá vulgárně.“
+„Já jo,“ řekl Oskar. „V zimě to vypadá _vulgárně_.“
 
 „Já taky,“ připustil Martin.
 
@@ -52,19 +54,19 @@ Vrchní mu spokojeně zasalutoval ukazováčkem a odběhl k výčepu.
 
 „To je snad probůh jenom otázka správný velikosti, ne?“ namítl logicky Martin, ale Helmuta to nepřesvědčilo.
 
-„Jednou jsem na náměstí Míru spatřil mladou ženu, kterak si vyklepává drobný kamínek z lodičky,“ řekl Oskar. „Umíte si to představit, že? Jak balancuje na jedný noze, botu v ruce, a jak si mne chodidlo… Chodidlo v punčocháčích, samozřejmě,“ obrátil se na Helmuta. „A bylo v tom víc sexu než v deseti penthousech dohromady!“
+„Jednou jsem na náměstí Míru spatřil mladou ženu, kterak si vyklepává drobný kamínek z lodičky,“ řekl Oskar. „Umíte si to představit, že? Jak balancuje na jedný noze, botu v ruce, a jak si mne chodidlo… Chodidlo v _punčocháčích_, samozřejmě,“ obrátil se na Helmuta. „A bylo v tom víc sexu než v deseti penthousech dohromady!“
 
 Záměrně přeháněl, aby dostatečně zdůraznil, co chtěl říct.
 
 „Blbost,“ řekl Helmut.
 
-„Já ti něco řeknu,“ hájil svou pravdu Oskar, „punčocháče, myslím pochopitelně padnoucí, neshrnující se punčocháče bez vzduchové kapsy, jsou pro mě něco jako esence ženství!“
+„Já ti něco řeknu,“ hájil svou pravdu Oskar, „punčocháče, myslím pochopitelně padnoucí, neshrnující se punčocháče bez vzduchové kapsy, jsou pro mě něco jako _esence ženství_!“
 
 „Hm,“ vrtěl Helmut hlavou a potom k Oskarovi vzhlédl: „Esence jakožto podstata, nebo esence jako výtažek čili tresť?“
 
-„Jakožto podstata, samozřejmě.“
+„Jakožto _podstata_, samozřejmě.“
 
-„Chm, a víš, co je… ehm… tresť z dámskej punčoch?“ usmíval se Helmut. „Zaschlej pot!“
+„Chm, a víš, co je… ehm… _tresť_ z dámskej punčoch?“ usmíval se Helmut. „Zaschlej pot!“
 
 Oskar se znechuceně obrátil k Martinovi.
 
@@ -82,11 +84,11 @@ Oskar si povzdychl. Dvojice u malého sousedního stolu odcházela, ale uvolně
 
 Helmut se oběma rukama chytil za holou hlavu a nesouhlasně zachrochtal – jako ostatně pokaždé, kdykoli byl svědkem Oskarovy podobné zaslepeně spokojené zabydlenosti v tomto strašlivém světě (například když mu Oskar ukazoval fotografie z dovolené nebo když mu předváděl zrekonstruovaný byt, ale třeba i tehdy, když se víceméně náhodně zmínil, že si k večeři telefonicky objednal pizzu s tuňákem – to všechno byly důkazy, které Oskara v očích Helmuta usvědčovaly z jakési blíže neurčené zrady, ne-li dokonce z korupce).
 
-„No,“ usmál se Oskar rezignovaně, neboť dnes opravdu nehodlal Helmuta přesvědčovat, že žít v pravdě a nechat si zabalit dárek v dárkové službě se kupodivu tak úplně nevylučuje, „a přede mnou ve frontě stála asi pětatřicetiletá žena – zajímá tě to, i když měla punčocháče?“ obrátil se na Helmuta.
+„No,“ usmál se Oskar rezignovaně, neboť dnes opravdu nehodlal Helmuta přesvědčovat, že _žít v pravdě_ a nechat si zabalit dárek v dárkové službě se kupodivu tak úplně nevylučuje, „a přede mnou ve frontě stála asi pětatřicetiletá žena – zajímá tě to, i když měla punčocháče?“ obrátil se na Helmuta.
 
 „Ne,“ řekl Helmut.
 
-„Ona si taky nechávala zabalit dárek. Byla poněkud nevkusně oblečená a zmíněný dárek byl rovněž nevkusný – jakási skutečně příšerná pánská kosmetická souprava. Uvěříte-li mi to, nebudu vaši už beztak unavenou pozornost zatěžovat podrobným popisem.“
+„Ona si _taky_ nechávala zabalit dárek. Byla poněkud nevkusně oblečená a zmíněný dárek byl rovněž nevkusný – jakási skutečně příšerná pánská kosmetická souprava. Uvěříte-li mi to, nebudu vaši už beztak unavenou pozornost zatěžovat podrobným popisem.“
 
 „Věříme ti to,“ pravil Martin a znovu se podíval směrem k dívkám.
 
@@ -94,11 +96,11 @@ Helmut se oběma rukama chytil za holou hlavu a nesouhlasně zachrochtal – j
 
 „Hm,“ řekl Helmut. „A jaká je pointa?“
 
-„Žádná. Přemýšlel jsem ale o jejím manželovi – uvědomte si, že bude zhruba stejně tak starý jako my, mohli bychom být klidně na jeho místě… Utěšoval jsem se tím, že on celou tu hrůzu patrně nevnímá – ale co když to vidí? Co když taky ví? Umíte si to představit?“
+„Žádná. Přemýšlel jsem ale o jejím manželovi – uvědomte si, že bude zhruba stejně tak starý jako my, mohli bychom být klidně na jeho místě… Utěšoval jsem se tím, že on celou tu hrůzu patrně nevnímá – ale co když to _vidí_? Co když taky _ví_? Umíte si to představit?“
 
 Martin pokýval hlavou, což byla bohužel jediná odezva, které se Oskarovu krátkému příběhu dostalo. Helmut byl už nějakou chvíli očividně duchem jinde – zdálo se, že se k čemusi odhodlává.
 
-„Chcete něco říct?“ řekl a překotně vzhlédl k oběma přátelům. „Ale přísahejte, přísahejte, že to nikomu neřeknete!“
+„Chcete něco říct?“ řekl a překotně vzhlédl k oběma přátelům. „Ale _přísahejte_, přísahejte, že to nikomu neřeknete!“
 
 „Vsadím se, že neměla punčocháče,“ řekl Martin.
 
@@ -110,29 +112,29 @@ Martin pokýval hlavou, což byla bohužel jediná odezva, které se Oskarovu kr
 
 Sepnuté ruce měl položené na desce stolu, a jak se k nim rytmicky skláněl, působil poněkud orientálně.
 
-„Poslouchejte: před měsícem jsem poznal… ehm… krásnou mladou dívku. Skutečnou krasavici!“ zdůraznil se zdviženým prstem, hledě na své přátele vážnýma očima.
+„Poslouchejte: před měsícem jsem poznal… ehm… krásnou mladou dívku. Skutečnou _krasavici_!“ zdůraznil se zdviženým prstem, hledě na své přátele vážnýma očima.
 
 „A o čem jste si, Helmut, s tou krasavicí povídali?“ řekl Martin. „O Benešových dekretech – nebo snad o Osvětimi?“
 
 „Nebo o útěku pana Glazara z Treblinky?“ řekl Oskar.
 
-„Hm,“ ušklíbl se Helmut, pokyvuje přitom hlavou. „Jasně. Jenomže… ehm… holocaust je pro mě naprosto základní, základní –“
+„Hm,“ ušklíbl se Helmut, pokyvuje přitom hlavou. „Jasně. Jenomže… ehm… holocaust je pro mě naprosto základní, _základní_ –“
 
 „Konverzační okruh,“ řekl Martin. „To všichni víme.“
 
-„Nikdo, kdo se… ehm… narodil v tomto století, nemůže přece nevědět o holocaustu!“ pravil Helmut nanejvýš naléhavě a výhružně své přátele pozoroval.
+„Nikdo, kdo se… ehm… narodil v tomto století, nemůže přece _nevědět_ o holocaustu!“ pravil Helmut nanejvýš naléhavě a výhružně své přátele pozoroval.
 
 „O tom se ale nikdo nepře,“ řekl klidně Oskar. „Lišíme se jen v názoru na to, zda je opravdu nevyhnutelné mluvit o hrůzách holocaustu na prvním rande.“
 
 „To je pravda,“ připustil nečekaně Helmut. „To máš pravdu.“
 
-„Možná by ses mohl, Helmute, občas chovat trochu účelově,“ radil mu Oskar přátelsky. „Můžeš přece tu klíčovou informaci o pár dní odložit… Mám jakýsi neurčitý pocit, že by to tvé šance na seznámení s mladými dívkami dost významně zvýšilo.“
+„Možná by ses mohl, Helmute, občas chovat trochu _účelově_,“ radil mu Oskar přátelsky. „Můžeš přece tu klíčovou informaci o pár dní odložit… Mám jakýsi neurčitý pocit, že by to tvé šance na seznámení s mladými dívkami dost významně zvýšilo.“
 
 „Jasně,“ smál se Martin. „Možná by pak některá byla ochotná sejít se s tebou ještě jednou…“
 
 V očích Helmuta významně zablýsklo.
 
-„Sešla se se mnou,“ řekl. „Byla u mě.“
+„_Sešla_ se se mnou,“ řekl. „_Byla_ u mě.“
 
 „Vážně?“ řekl Martin s nelíčeným překvapením.
 
@@ -156,17 +158,17 @@ Helmut zdvihl hlavu.
 
 „Co ti řekla, Helmute?“ řekl Oskar. „Co ti ta krásná dívka při penetraci řekla?“
 
-„Víš, co mi řekla?“ zvyšoval hlas Helmut. „Víš, co mi řekla? Jestli prej nechci počůrat?!“
+„Víš, co mi řekla?“ zvyšoval hlas Helmut. „Víš, co mi řekla? Jestli prej nechci _počůrat_?!“
 
 Dramaticky se odmlčel.
 
 Oskar i Martin se zamysleli.
 
-„Jestli nechci počůrat!“ úpěl Helmut.
+„Jestli nechci _počůrat_!“ úpěl Helmut.
 
 „Kolik že jí je? Osmnáct?“ řekl pochybovačně Oskar.
 
-„Osmnáct! Je jí osmnáct let!“
+„Osmnáct! Je jí _osmnáct_ let!“
 
 „A nechal ses?“ řekl po chvíli naoko lhostejně Martin.
 
@@ -192,7 +194,7 @@ Dostavil se vrchní s pivem a stavěl půllitry na stůl.
 
 „Ale leží ti to v hlavě, co? Přiznej si, že ti ten její nápad s čůráním dodneška leží v hlavě?“ řekl Oskar nahlas.
 
-„A tebe by to nerajcovalo?“ řekl Martin a vesele na vrchního mrkl. „Když si nad tebe přidřepne osmnáctiletá holčička s takovým tím ještě dětským ksichtíkem a plaše se tě zeptá, jestli nechceš počůrat – tebe by to ani trochu nerajcovalo?“
+„A tebe by to nerajcovalo?“ řekl Martin a vesele na vrchního mrkl. „Když si nad tebe přidřepne osmnáctiletá holčička s takovým tím ještě dětským ksichtíkem a plaše se tě zeptá, jestli nechceš _počůrat_ – tebe by to ani trochu nerajcovalo?“
 
 Vrchní ukázal na Helmuta prstem.
 
@@ -216,7 +218,7 @@ Vrchní na chvíli přivřel oči.
 
 Všichni tři uchopili půllitry a přiťukli si.
 
-„Kdyby jí nebylo těch osmnáct,“ přemítal Helmut. „Od zralé ženy bych se… ehm… patrně pomočit nenechal, ale takhle? V osmnácti to ještě ani není skutečné močení – to je spíše takové… ehm… lulání.“
+„Kdyby jí nebylo těch osmnáct,“ přemítal Helmut. „Od _zralé_ ženy bych se… ehm… patrně pomočit nenechal, ale takhle? V osmnácti to ještě ani není skutečné močení – to je spíše takové… ehm… _lulání_.“
 
 „Lulání!“ vykřikl posměšně Martin. „Já se z něj jednou poseru – prej lulání!“
 
@@ -224,7 +226,7 @@ Všichni tři uchopili půllitry a přiťukli si.
 
 Prodlevy v konverzaci u sousedního stolu byly stále delší.
 
-„Pissing!“ zdůraznil Martin. „Viděls vůbec někdy, Helmut, nějakej pornofilm? Říká se tomu pissing – tak si to hlavně neidealizuj.“
+„_Pissing_!“ zdůraznil Martin. „Viděls vůbec někdy, Helmut, nějakej pornofilm? Říká se tomu _pissing_ – tak si to hlavně neidealizuj.“
 
 „Je mi úplně jedno, jak se tomu říká,“ řekl Helmut.
 
@@ -234,13 +236,13 @@ U stolu se znovu zastavil vrchní s tácem plným piv, třebaže ještě zdale
 
 Helmut znovu upadl do rozpaků.
 
-„Nenechal!“ smál se Martin. „Bál se o… ehm… manželčiny peřiny!“
+„Nenechal!“ smál se Martin. „Bál se o… _ehm_… manželčiny peřiny!“
 
 „Neřvi,“ tišil ho Oskar.
 
 „A teď to mrzí, co?“ řekl vrchní Helmutovi a chápavě pokýval hlavou.
 
-„Mrzí?“ řekl pochmurně Helmut. „Mrzí? Drásám se tou promarněnou příležitostí! Trýzním se jí!“
+„Mrzí?“ řekl pochmurně Helmut. „Mrzí? _Drásám_ se tou promarněnou příležitostí! _Trýzním_ se jí!“
 
 „No,“ řekl vrchní a pokrčil rameny, „tak jedině že by snad příště…“
 
@@ -248,7 +250,7 @@ Helmut znovu upadl do rozpaků.
 
 „Máš pravdu,“ řekl Oskar a pohlédl na Martina. „Kdo ví, jak by se tenhle chlap zachoval po nástupu Hitlera k moci.“
 
-„Vypadá jako latentní katan,“ souhlasil Martin.
+„_Vypadá_ jako latentní katan,“ souhlasil Martin.
 
 „Chm,“ odfrkl si nesouhlasně Helmut. „Víte, co je ale opravdu strašný? Jak se člověku s věkem posouvají hranice sexuální představivosti.“
 
@@ -260,7 +262,7 @@ Opět ke svým kamarádům vzhlédl.
 
 Helmut ho nedůvěřivě pozoroval.
 
-„Když mi bylo patnáct,“ pokračoval potom ponuře, „snil jsem výlučně o polibcích a o ňadrech. Na vagínu jsem se neodvážil ani podívat! Naprosto mě to děsilo! Ten pach, ta horká vlhkost…“
+„Když mi bylo patnáct,“ pokračoval potom ponuře, „snil jsem výlučně o polibcích a o ňadrech. Na vagínu jsem se neodvážil ani _podívat_! Naprosto mě to _děsilo_! Ten pach, ta horká vlhkost…“
 
 „Zkrátka to zapařený teplíčko…,“ doplnil Martin.
 
@@ -270,9 +272,9 @@ Helmut ho nedůvěřivě pozoroval.
 
 „Děsilo,“ souhlasil Oskar.
 
-„Tady to máš,“ řekl Helmut. „A dneska to původně naprosto děsivé místo s gustem olizujeme!“
+„Tady to máš,“ řekl Helmut. „A dneska to původně naprosto děsivé místo s gustem _olizujeme_!“
 
-„To je normální,“ řekl Oskar. „Když se mě ještě před pár lety na besedě někdo zeptal, čím chci být v posmrtném životě – umíte si představit, jaké tam občas padají otázky – vždycky jsem říkal, že kachlíčkem ve sprše dívčího internátu.“
+„To je normální,“ řekl Oskar. „Když se mě ještě před pár lety na besedě někdo zeptal, čím chci být v posmrtném životě – umíte si představit, jaké tam občas padají otázky – vždycky jsem říkal, že _kachlíčkem_ ve sprše dívčího internátu.“
 
 Udělal pauzu.
 
@@ -280,7 +282,7 @@ Udělal pauzu.
 
 „Dlaždičkou.“
 
-„Hele,“ zasmál se Martin, „vsaďte se, že uhádnu, jakym druhem sanitární keramiky by chtěl bejt v posmrtným životě tady Helmut…“
+„Hele,“ zasmál se Martin, „vsaďte se, že uhádnu, jakym druhem _sanitární keramiky_ by chtěl bejt v posmrtným životě tady Helmut…“
 
 Jedna z dívek náhle přistoupila k jejich stolu; kamarádka s rozpačitým úsměvem přešlapovala opodál. Oskar si s jistým zklamáním všiml, že už drží v rukou kabáty.
 
@@ -290,7 +292,7 @@ Jedna z dívek náhle přistoupila k jejich stolu; kamarádka s rozpačitým 
 
 Oskar se ho po krátkém zaváhání rozhodl podpořit.
 
-„Jakže, vy odcházíte?“ řekl konsternovaně. „Právě teď, když se okvětní lístečky našeho přátelství začínají tak slibně pootvírat?“
+„Jakže, vy _odcházíte_?“ řekl konsternovaně. „Právě teď, když se okvětní lístečky našeho přátelství začínají tak slibně pootvírat?“
 
 Helmut celý výjev sledoval s okázalým odporem.
 
@@ -298,7 +300,7 @@ Helmut celý výjev sledoval s okázalým odporem.
 
 „V tom případě…,“ pokrčil rameny Oskar a poněkud rozmáchle se podepsal. „Nějaké věnování?“
 
-„Lídě – jestli můžu? To jsem já. Lída.“
+„_Lídě_ – jestli můžu? To jsem já. Lída.“
 
 Oskar doplnil dedikaci a potom ukázal na Martina.
 
@@ -340,7 +342,7 @@ Navzdory jeho divoké gestikulaci se ale zdálo, že je nečekanou publicitou sv
 
 „Ty mrcho,“ řekl Oskarovi přátelsky Martin, když dívky odešly.
 
-„Voba jste mrchy,“ kvílel Helmut. „Teda vy jste takový mrchy!“
+„_Voba_ jste mrchy,“ kvílel Helmut. „Teda vy jste takový mrchy!“
 
 Oskar s Martinem se samolibě uculovali.
 
@@ -352,7 +354,7 @@ Helmut se zamračil.
 
 „Ne,“ řekl Martin. „Je to hotová tragédie.“
 
-„Tragédie to samozřejmě není,“ řekl Helmut. „Je pouze poněkud tristní, že doopravdy, chápete, doopravdy se v posledních dnech… ehm… vzruším jenom tehdy, když si představím, jak na mě ona… ehm… mladá bytost neřestně spouští ten svůj… ehm… průzračný pramínek.“
+„Tragédie to samozřejmě není,“ řekl Helmut. „Je pouze poněkud tristní, že _doopravdy_, chápete, doopravdy se v posledních dnech… ehm… vzruším jenom tehdy, když si představím, jak na mě ona… ehm… mladá bytost neřestně spouští ten svůj… ehm… průzračný pramínek.“
 
 Zdálo se, že Martin s Oskarem tentokrát nevědí, co na to říct.
 

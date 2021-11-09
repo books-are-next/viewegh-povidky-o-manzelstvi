@@ -4,6 +4,8 @@ title: "Pejskové a\_kočičky"
 
 Byly zhruba dvě hodiny po půlnoci a v podniku zůstalo už jen několik hostů. Oskar a jeho nakladatel seděli se dvěma dívkami v křeslech přímo naproti baru. Vládlo tu spíše přítmí, což Oskarovi vyhovovalo; někde blízko na stropě musela být ultrafialová zářivka, protože bílý lem šatů jeho sousedky doslova zářil. Barmance bylo něco ke čtyřiceti; na nose měla velké dioptrické brýle s masivními obroučkami z červeného plastu, díky kterým působila už na pohled sebevědomě. Když před chvílí přinesla dvě irské whisky, minerálku a dva vysoké koktejly s papírovými paraplíčky, povzbudivě na Oskara mrkla. Vypadala, že ji v životě už nemůže nic překvapit. Vrátila se za bar a ztlumila hudbu, protože na vyvýšeném podiu stejně nikdo netančil.
 
+  
+
 „Ještě jste nám pořád neřekli, co děláte,“ řekla bruneta, která seděla po pravici Oskarova nakladatele. Postavu měla velmi dobrou, ale její obličej působil trochu tupě.
 
 „My jsme převaděči,“ odpověděl Oskar téměř okamžitě.
@@ -30,7 +32,7 @@ Blondýna vedle Oskara se zatvářila zklamaně. Na rozdíl od druhé dívky byl
 
 „Manželky čekaj, co?“ řekla bruneta.
 
-„Manželky ne,“ zívl nakladatel. „Albánci. Seděj tam v oboře, nožky maj nahoře a volaj Hilfe!“
+„Manželky ne,“ zívl nakladatel. „Albánci. Seděj tam v oboře, nožky maj nahoře a volaj _Hilfe_!“
 
 „Rozvedený?“ zapochybovala bruneta. „A voba, jo?“
 
@@ -54,11 +56,11 @@ Blondýna potřásla hlavou a jakoby trucovitě se napila.
 
 „Nejlepší zvířata jsou lidi,“ řekl Oskar.
 
-„Morální zvířata,“ zdůraznil nakladatel.
+„_Morální_ zvířata,“ zdůraznil nakladatel.
 
 „Spíš nemorální,“ řekla blondýna smutně a znovu pokývala hlavou.
 
-„Hele, víte, co je napsáno na jedný zdi na vršovickým nádraží?“ vzpomněl si Oskar. „Liška je prase.“
+„Hele, víte, co je napsáno na jedný zdi na vršovickým nádraží?“ vzpomněl si Oskar. „_Liška je prase_.“
 
 Zasmáli se.
 
@@ -116,7 +118,7 @@ Oskar pohlédl na nakladatele, který stále mlčel.
 
 „Ty seš na řadě,“ řekl nakladatel. „Já jsem mluvil před chvílí – řekl jsem, že kočky smrděj.“
 
-„Ale já jsem potom řek pohlcujou.“
+„Ale já jsem potom řek _pohlcujou_.“
 
 Nakladatel kývl, ale nadále mlčel. Oskar na něho ukázal prstem.
 
@@ -124,7 +126,7 @@ Nakladatel kývl, ale nadále mlčel. Oskar na něho ukázal prstem.
 
 Dívky se smály hlasitěji a déle, než by si přál. Barmanka k nim zalétla zkoumavýma očima. Nakladatel se předklonil, promnul si dlaněmi obličej, natáhl se pro svou sklenici a naráz ji vypil.
 
-„Mno,“ řekl a podíval se na Oskara, „takže to zase my jsme doma měli kokršpaněla.“
+„Mno,“ řekl a podíval se na Oskara, „takže to zase my jsme doma měli _kokršpaněla_.“
 
 „Kokršpaněla?“ zajásala blondýna. „Ty jsou sladký!“
 
@@ -162,7 +164,7 @@ Barmanku jeho sdělení ani v nejmenším nevyvedlo z míry. Blondýnka se př
 
 „To po tobě taky nikdo nechce,“ řekl nakladatel.
 
-„Ale já s ním kamarádím,“ řekla bruneta a položila mu ruku do klína. „Mně se líbí.“
+„Ale _já_ s ním kamarádím,“ řekla bruneta a položila mu ruku do klína. „Mně se líbí.“
 
 „Co jinýho ti taky zbejvá?“ řekl nakladatel.
 

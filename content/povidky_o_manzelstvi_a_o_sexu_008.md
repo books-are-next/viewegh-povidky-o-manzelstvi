@@ -4,13 +4,15 @@ title: "Jeden z\_posledních hezkých dní"
 
 Léto prakticky skončilo. Oskar se Zuzanou byli na jezu úplně sami. Zuzana ležela na zádech; oči měla zavřené. Jez hučel.
 
+  
+
 Oskar se obrátil na břicho, ruce si založil pod bradou a čekal, kdy se v ohybu řeky objeví některá z posledních letošních lodí. Hladina se stříbřitě leskla, takže musel mhouřit oči. Slunce už ale ztrácelo sílu, i když vůni pryskyřice z Oskarova kajaku ještě pořád uvolnit dokázalo.
 
 „Namažeš mě?“ řekla Zuzana, aniž otevřela oči.
 
 Vstal a spustil kajak na vodu. Rukama se vzepřel o borty a obratně vklouzl dovnitř. Kajak se pod jeho váhou zavrtěl a pár malých vlnek zapleskalo o betonovou hranu jezu. Zatímco si natahoval šprycdeku, proud loď stočil a začal ji unášet do hučící průrvy. Počkal, a když ucítil, že se záď zhoupla na první dlouhé vlně, předklonil se a několika mohutnými záběry vyvedl loď do klidné vody nad jez. Udělal v rychlém sledu několik eskymáků a potom jen tak otálel u břehu a zajížděl do řídkého rákosí; líbilo se mu jeho suché šustění. Z mokrých vlasů mu stále ještě stékala na obličej voda. Všiml si, že Zuzana se posadila a že ho pozoruje, ale vyhýbal se jejímu pohledu. Měl pocit, že by jej nesnesl.
 
-Za pět let jejich manželství to bylo poprvé, co ho podvedla. On měl za sebou několik víceméně bezvýznamných nevěr, ale Zuzana mu nikdy na žádnou nepřišla – spokojila se s každou jen trochu rafinovanější výmluvou. Oskar nikoliv – ten to chtěl vědět s naprostou jistotou. Zuzaně očividně chyběla Oskarova trpělivá, cílevědomá metodičnost, díky které ji včera večer přivedl ke kajícnému doznání. Nyní to tedy věděl jistě, jenže to neustupující svírání kolem žaludku, které pociťoval, kdykoli si vybavil některé konkrétní detaily její zrady, bylo překvapivě mnohem silnější než onen příjemný pocit ublíženosti a morální převahy, kvůli kterému celý ten hodinový výslech vedl. Kdyby však nyní někdo položil pár podobně důsledných otázek jemu, Oskar by patrně záhy přiznal, že to, co ještě včera s takovou naléhavostí toužil zjistit, by dnes raději vůbec nevěděl.
+Za pět let jejich manželství to bylo poprvé, co ho podvedla. On měl za sebou několik víceméně bezvýznamných nevěr, ale Zuzana mu nikdy na žádnou nepřišla – spokojila se s každou jen trochu rafinovanější výmluvou. Oskar nikoliv – ten to chtěl vědět s naprostou jistotou. Zuzaně očividně chyběla Oskarova trpělivá, cílevědomá metodičnost, díky které ji včera večer přivedl ke kajícnému doznání. Nyní to tedy věděl _jistě_, jenže to neustupující svírání kolem žaludku, které pociťoval, kdykoli si vybavil některé konkrétní detaily její zrady, bylo překvapivě mnohem silnější než onen příjemný pocit ublíženosti a morální převahy, kvůli kterému celý ten hodinový výslech vedl. Kdyby však nyní někdo položil pár podobně důsledných otázek jemu, Oskar by patrně záhy přiznal, že to, co ještě včera s takovou naléhavostí toužil zjistit, by dnes raději vůbec nevěděl.
 
 Vrátil se na jez a vytáhl kajak z vody; Zuzana mu chtěla pomoct, ale prudkým pohybem ji předešel. Dno kajaku bylo polepené mokrým listím; řeka už ho byla plná. Za chvíli začne podzim, uvědomil si Oskar. Všechno se zdálo být v prdeli.
 
@@ -51,6 +53,8 @@ Okamžitě odvrátil hlavu, ale přesto cítil její pohled. Zamrzelo ho, že j�
 Naházela své věci do proutěné tašky a nahněvaně odběhla.
 
 Asi o půl hodiny později přirazila k jezu modrá kánoe; dívka sedící na háčku neměla podprsenku. Vystoupila z lodi a protahovala se. Zadák, sotva dvacetiletý hubený blonďák, vytáhl loď z vody a šel se podívat na hučící peřej. Dívka si mezitím roztírala po hezkých nohách opalovací krém.
+
+  
 
 „Přenášíme,“ přišel jí oznámit kluk.
 

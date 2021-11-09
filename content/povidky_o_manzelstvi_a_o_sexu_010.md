@@ -4,6 +4,8 @@ title: Nos
 
 Když se Oskar jednoho časného červnového sobotního rána obracel v posteli a spánkem opuchlýma očima krátce pohlédl na svou dosud spící manželku, na okamžik mu blesklo hlavou, že její obličej je spíše ošklivý, ačkoli jej vždycky považoval za docela hezký. Proboha, ten nos! Jak to, že si nikdy nevšiml, jak veliký a špičatý má jeho žena nos?! Zavřel raději oči, zabořil tvář do polštáře a zkoušel ještě na chvíli usnout, ale to, co před okamžikem zahlédl, mu stále vrtalo hlavou. Snažil se ten téměř krutý obraz považovat pouze za další z oněch běžných ranních nepříjemností, jako jsou přeleželé vlasy, špatný dech nebo ospalky v očích, zkrátka věcí, které člověka sice občas iritují, ale které po deseti minutách strávených v koupelně víceméně spolehlivě zmizí – ale cítil, že obelhává sám sebe. Tušil už, že tohle nebude ten případ.
 
+  
+
 Nazdvihl se na loktech a zadíval se na Zuzanin nos ještě jednou, tentokrát pozorněji. To, co spatřil, ho definitivně probudilo: nos byl neuvěřitelně veliký a špičatý, s obrovskými tmavými dírkami, a nehezky dominoval celému obličeji. Oskar byl zděšen. Sotva mohl předpokládat, že jí ten strašlivý frňák narostl přes noc – tak jak to, že si toho nevšiml dříve? Copak byl úplně slepý?
 
 Nechápal to. Úplně mu to zkazilo náladu. Ležel bez hnutí, pozoroval střídavě strop a manželčin nos a děsil se okamžiku, kdy se to nosaté stvoření vedle něj probudí. Cítil odpor, nechuť, ale i lásku a lítost. Měl svou ženu upřímně rád – a teď tohle.
@@ -15,6 +17,8 @@ Byl tam.
 Od začátku. Na každé fotce. Velký a špičatý. Nepřehlédnutelný pro každého kromě Oskara. Úsměvy některých svatebčanů byly neskrývaně zlomyslné. K Oskarovým ranním pocitům přibyl jeden nový: nyní si navíc připadal podvedený.
 
 U snídaně se před synem nutil k obvyklému vtipkování, ale Zuzanin nos stále přitahoval jeho pohled. Nemohl si pomoct.
+
+  
 
 „Co je? Na co koukáš?“ otázala se ho nakonec manželka podezíravě.
 
@@ -32,19 +36,23 @@ Syn se uchechtl.
 
 Původně chtěli jet tuto sobotu na prodejní výstavu výpočetní techniky, což byla synova vášeň (a Oskar už také uvažoval o koupi nového počítače), ale představa, jak se se svou nosatou manželkou prodírá mezi všemi těmi lidmi, byla nad jeho síly.
 
+  
+
 „Chce se vám tam? Mezi ty šílený davy?“ pravil na konci snídaně.
 
 Syn se otráveně podíval na matku.
 
 „Takže nejedem, co?“ protáhl obličej.
 
-„Nám? Tys to navrhl, nevzpomínáš si?“ namítla Zuzana logicky.
+„_Nám?_ Tys to navrhl, nevzpomínáš si?“ namítla Zuzana logicky.
 
 Pokrčil rameny a unikl na záchod.
 
-Seděl na míse a přinutil se vzpomínat na všechny ty pěkné věci, které se Zuzanou za oněch devět let, co byli spolu, prožili. Přece tohle všechno jen tak nezmizelo… Rozhodl se, že přece jen pojedou. Vymyslel si taktiku, jak všem těm posměšným pohledům, kterých se obával, čelit: Nesmí se nechat zatlačit do defenzívy. Nesmí se tvářit poraženecky, jako oběť. Musí se naopak tvářit vesele, spokojeně, dokonce vítězně – a zpochybnit tak jejich názory. Jejich estetické žebříčky. Oni sami si musí klást otázku, proč se on, Oskar, dobrovolně připoutal k takovéto ženě…
+Seděl na míse a přinutil se vzpomínat na všechny ty pěkné věci, které se Zuzanou za oněch devět let, co byli spolu, prožili. Přece tohle všechno jen tak nezmizelo… Rozhodl se, že přece jen pojedou. Vymyslel si taktiku, jak všem těm posměšným pohledům, kterých se obával, čelit: Nesmí se nechat zatlačit do defenzívy. Nesmí se tvářit poraženecky, jako oběť. Musí se naopak tvářit vesele, spokojeně, dokonce vítězně – a zpochybnit tak _jejich_ názory. Jejich estetické žebříčky. Oni sami si musí klást otázku, proč se on, Oskar, dobrovolně připoutal k takovéto ženě…
 
 Během cesty mohl Oskar snadno předstírat, že se soustředí na poměrně hustý sobotní provoz, a na Zuzaniny poznámky a otázky odpovídat sice mile, ale se zrakem upřeným na silnici před sebou, nicméně každá křižovatka se světly, na které musel zastavit, představovala pro jeho náhle tak křehkou lásku k manželce doslova zatěžkávací zkoušku. Při čekání na zelenou se pohledům na její profil při nejlepší vůli vyhnout nemohl, a co bylo horší, občas měl dojem, že si manželčin obří nos s pobaveným zájmem prohlíží i osádky vozů v sousedním pruhu.
+
+  
 
 Poslední zbytky svých ranních předsevzetí pozbyl pak u benzínové pumpy. Zatímco tankoval, Zuzana naštěstí zůstala sedět v autě, ale když se chystal jít platit, nečekaně vystoupila a hodlala se k němu připojit.
 
@@ -86,11 +94,13 @@ Manželka vzala pro syna Corneto a sama si vybrala Magnum v bílé čokoládě
 
 „Rozbalím si ho hned. Už to nemůžu vydržet!“ hlaholila koketně, napůl k Oskarovi, napůl k prodavači. Byl to zavalitý, ale sympatický vousatý padesátník v bavlněném tričku a modrých pracovních kalhotách s laclem. Krátce k ní vzhlédl.
 
-„Klidně, mladá pani, klidně. Tohle jsou věci, který se prostě nedaj odkládat, že jo?“ usmíval se, ale Oskar si dobře všiml, kde se zarazil jeho pohled. To, že prodavač je ochoten předstírat flirt, přikládal pouze jeho profesionální zdvořilosti – nebo se možná po dlouhé službě natolik nudí, že vezme zavděk jakýmkoli rozptýlením, klidně i ženskou s takovým frňákem, říkal si. Platil s úsměvem ve tváři, ale zároveň pozorně pátral v obličeji prodavače. Vzápětí vyšel zpoza závěsu za pultem prodavačův kolega, mladý blondýn v týchž pracovních kalhotách, který měl ovšem namísto trička černou džínovou košili s ohrnutými rukávy. Vousatý prodavač ho za svými zády koutkem oka zaznamenal a nadále se věnoval vracení peněz Oskarovi – ale do jeho původně pouze bodrého výrazu náhle přibyl jemný, ale postřehnutelný ironický úšklebek.
+„Klidně, mladá pani, klidně. Tohle jsou věci, který se prostě _nedaj_ odkládat, že jo?“ usmíval se, ale Oskar si dobře všiml, _kde_ se zarazil jeho pohled. To, že prodavač je ochoten předstírat flirt, přikládal pouze jeho profesionální zdvořilosti – nebo se možná po dlouhé službě natolik nudí, že vezme zavděk jakýmkoli rozptýlením, klidně i ženskou s takovým frňákem, říkal si. Platil s úsměvem ve tváři, ale zároveň pozorně pátral v obličeji prodavače. Vzápětí vyšel zpoza závěsu za pultem prodavačův kolega, mladý blondýn v týchž pracovních kalhotách, který měl ovšem namísto trička černou džínovou košili s ohrnutými rukávy. Vousatý prodavač ho za svými zády koutkem oka zaznamenal a nadále se věnoval vracení peněz Oskarovi – ale do jeho původně pouze bodrého výrazu náhle přibyl jemný, ale postřehnutelný ironický úšklebek.
 
-Oskara to zasáhlo jako ledová sprcha. Pokoušel se zmobilizovat síly a zviklat prodavačův názor svým nevysvětlitelným sebevědomím, svou tajuplnou spokojeností, ale místo toho cítil, jak se proti své vůli s každou další vteřinou ocitá stále více tam, kde se podle svého ranního plánu v žádném případě ocitnout neměl: v defenzívě. Bankovky do peněženky zastrkával už jako opovrženíhodný chudák, který se nezmohl na hezčí ženskou, než je tahle… Nemohl to dokázat, ale byl si naprosto jist, že jakmile se za ním a za Zuzanou zavřou ty automatické posuvné dveře, oba prodavači se už nadobro přestanou ovládat: Všim sis toho frňáku? Hele, Karle, vysvětli mi jedno: Jak tě takováhle ženská vlastně kouří?
+Oskara to zasáhlo jako ledová sprcha. Pokoušel se zmobilizovat síly a zviklat prodavačův názor svým _nevysvětlitelným sebevědomím_, svou _tajuplnou spokojeností_, ale místo toho cítil, jak se proti své vůli s každou další vteřinou ocitá stále více tam, kde se podle svého ranního plánu v žádném případě ocitnout neměl: v defenzívě. Bankovky do peněženky zastrkával už jako opovrženíhodný chudák, který se nezmohl na hezčí ženskou, než je tahle… Nemohl to dokázat, ale byl si naprosto jist, že jakmile se za ním a za Zuzanou zavřou ty automatické posuvné dveře, oba prodavači se už nadobro přestanou ovládat: _Všim sis toho frňáku? Hele, Karle, vysvětli mi jedno: Jak tě takováhle ženská vlastně kouří?_
 
 Potřeboval čas, a tak uprchl na toaletu vzadu za čerpací stanicí, kde si dlouze myl ruce a pozoroval se v zrcadle.
+
+  
 
 „Jsi v pořádku, miláčku?“ chtěla vědět Zuzana, když se vrátil do auta.
 
@@ -108,7 +118,7 @@ Oskar odpovídal co možná neurčitě. Přemýšlel. Po chvíli se krátce oto�
 
 V zrcátku si všiml synova zklamání – ale byl na ně připraven.
 
-„Mám návrh: půjdeš tam sám, dostaneš nějaký peníze na součástky, my s mámou se půjdeme projít do Stromovky, když je tak krásně – a potom se pro tebe vrátíme. Vyhovuje?“
+„Mám návrh: půjdeš tam _sám_, dostaneš nějaký peníze na součástky, my s mámou se půjdeme projít do Stromovky, když je tak krásně – a potom se pro tebe vrátíme. Vyhovuje?“
 
 Synova tvář se rozjasnila.
 
@@ -126,9 +136,11 @@ Umínil si, že bude celý ten pseudoproblém ignorovat. Nenápadně se rozhléd
 
 „Máš babu!“ vykřikl a prchal mezi mohutné kmeny.
 
-Zuzana se zprvu něčeho tak dětinského, jako je hra Na babu, odmítala zúčastnit, ale Oskar tak dlouho přecházel v těsné blízkosti kolem ní, až ji vyprovokoval a ona se za ním prudce rozběhla. Honička jim vydržela déle, než by byl čekal, a v oněch zadýchaných vteřinách, kdy se oba zastavili, aby si odpočali před novým útokem, si ji několikrát důkladně prohlédl: svetr si ovázala kolem pasu, takže byla jen v červeném tričku, pod nímž neměla podprsenku; ňadra měla dosud pěkná. Tváře jí pohybem zrudly, což její nos – alespoň Oskar měl ten pocit – opticky přece jen trochu zmenšilo. Nechal se chytit, přitáhl si ji k sobě a pravačkou jí zajel pod tričko.
+Zuzana se zprvu něčeho tak dětinského, jako je hra _Na babu_, odmítala zúčastnit, ale Oskar tak dlouho přecházel v těsné blízkosti kolem ní, až ji vyprovokoval a ona se za ním prudce rozběhla. Honička jim vydržela déle, než by byl čekal, a v oněch zadýchaných vteřinách, kdy se oba zastavili, aby si odpočali před novým útokem, si ji několikrát důkladně prohlédl: svetr si ovázala kolem pasu, takže byla jen v červeném tričku, pod nímž neměla podprsenku; ňadra měla dosud pěkná. Tváře jí pohybem zrudly, což její nos – alespoň Oskar měl ten pocit – opticky přece jen trochu zmenšilo. Nechal se chytit, přitáhl si ji k sobě a pravačkou jí zajel pod tričko.
 
 Večer se milovali. Oskar zhasl. Zprvu bylo všechno v pořádku, ale když si Zuzana navzdory Oskarovým poněkud neurčitým protestům vzala jeho penis do úst, ztratil erekci.
+
+  
 
 I ve tmě cítil její pohled.
 
@@ -158,7 +170,7 @@ Manželka to po krátkém zaváhání zkusila po dobrém; měli před sebou kone
 
 Hlavně mi nevypíchni voko! pomyslel si Oskar.
 
-„Nikdy jsem si nevšimla, že by ti vadila zrovna Helena. Neříkals sám, že je to – cituju – výjimečně pěkná ženská?“
+„Nikdy jsem si nevšimla, že by ti vadila zrovna Helena. Neříkals sám, že je to – cituju – _výjimečně pěkná ženská_?“
 
 Oskar se chabě chopil příležitosti.
 
@@ -182,7 +194,7 @@ Zuzana se kupodivu smála; Oskar nebyl schopen rozpoznat, zda je to spontánní,
 
 Oskar to odmítal obrátit v žert a nějakou chvíli snídali mlčky.
 
-„Mimochodem,“ promluvil posléze, „když už o tom mluvíme: existuje v mém chování nebo zevnějšku něco, co bych měl nějak změnit?“
+„Mimochodem,“ promluvil posléze, „když už o tom mluvíme: existuje v _mém_ chování nebo zevnějšku něco, co bych měl nějak změnit?“
 
 Řekl to bez jediného zaváhání, ale dobře věděl, že s každým slovem zachází stále hlouběji do mrazivých končin, z kterých se možná už nikdy nebude moci vrátit. Přesto dokončil, co chtěl říct.
 
@@ -224,7 +236,7 @@ Snažil se ji zatlačit nazpět do koupelny.
 
 „Zalez!“ houkl na syna, který se chystal vyjít z pokoje.
 
-„A víš proč? Protože já nejsem taková svině! Protože já tě mám ráda!“
+„A víš proč? Protože _já_ nejsem taková svině! Protože _já_ tě mám ráda!“
 
 Oskar se už už chystal využít Zuzaniny nadávky jako vděčné záminky pro to, aby se mohl po právu urazit, když náhle v jediné vteřině pochopil, co to všechno vlastně znamená: minulou sobotu začal ztrácet svou lásku k ženě.
 

@@ -2,7 +2,9 @@
 title: Běž si klidně sám!
 ---
 
-Jednoho sobotního květnového večera někdy v polovině osmdesátých let navrhla Zuzana Oskarovi, že by se snad alespoň dneska nemuseli dívat jako obvykle celý večer na televizi; řekla to s podivně naléhavým důrazem, a navíc právě ve chvíli, kdy televizní hlasatelka Marie Tomsová seznamovala diváky s přehledem večerních pořadů.
+Jednoho sobotního květnového večera někdy v polovině osmdesátých let navrhla Zuzana Oskarovi, že by se snad _alespoň dneska_ nemuseli dívat jako obvykle celý večer na televizi; řekla to s podivně naléhavým důrazem, a navíc právě ve chvíli, kdy televizní hlasatelka Marie Tomsová seznamovala diváky s přehledem večerních pořadů.
+
+  
 
 „A co chceš dělat ?“ otázal se Oskar celkem logicky – v místním kině promítali jen ve středu a v neděli, na vinárnu neměli peníze (Oskar ještě studoval, takže museli vystačit se Zuzaniným malým platem) a žádné jiné možnosti zábavy v jejich rodném městečku neexistovaly.
 
@@ -22,7 +24,7 @@ Zuzana na kratičký okamžik zaváhala, ale potom skutečně stiskla vypínač 
 
 „A je to!“ řekla Zuzana.
 
-Při pohledu na náhle potemnělou obrazovku ale jak ona, tak i Oskar o svém rozhodnutí na pár vteřin v duchu zapochybovali, byť každý z trochu jiného důvodu – Zuzana si připomněla, že jde o sobotní, a tudíž relativně atraktivní program, zahrnující mimo jiné i další díl italského kriminálního seriálu Chobotnice, který s Oskarem až dosud pokaždé sledovali, zatímco Oskar uvažoval spíše o tom, jaký postoj zaujmout k oněm několika úplně volným hodinám, které se před nimi tak nečekaně objevily; nebyl si úplně jistý, zda se jimi cítí být mile překvapen, nebo spíše nepříjemně zaskočen.
+Při pohledu na náhle potemnělou obrazovku ale jak ona, tak i Oskar o svém rozhodnutí na pár vteřin v duchu zapochybovali, byť každý z trochu jiného důvodu – Zuzana si připomněla, že jde o sobotní, a tudíž relativně atraktivní program, zahrnující mimo jiné i další díl italského kriminálního seriálu _Chobotnice_, který s Oskarem až dosud pokaždé sledovali, zatímco Oskar uvažoval spíše o tom, jaký postoj zaujmout k oněm několika úplně volným hodinám, které se před nimi tak nečekaně objevily; nebyl si úplně jistý, zda se jimi cítí být mile překvapen, nebo spíše nepříjemně zaskočen.
 
 „Nebo se chceš koukat?“ řekla Zuzana. „Mně je to jedno.“
 
@@ -30,7 +32,7 @@ Oskar si uvědomil, že tohle je patrně poslední okamžik, kdy je ještě mož
 
 „Ne,“ řekl důrazně, zaháněje tak vlastní pochyby. „Řeklo se, že se jde ven, ne?“
 
-S hranou, skoro chlapeckou dychtivostí sešlapal domácí kalhoty na koberec (dobře věděl, že za daných okolností mu to bude prominuto) a šel do ložnice, odkud se po pár minutách vrátil v čistých džínsách a bílé letní košili.
+S hranou, skoro _chlapeckou_ dychtivostí sešlapal domácí kalhoty na koberec (dobře věděl, že za daných okolností mu to bude prominuto) a šel do ložnice, odkud se po pár minutách vrátil v čistých džínsách a bílé letní košili.
 
 Zuzana během oblékání přistoupila k otevřenému oknu.
 
@@ -40,7 +42,7 @@ Nelze říct, že by nějak příliš přeháněla: zapadající slunce obarvilo
 
 „Tak si pospěš,“ popoháněl ji s úsměvem Oskar. „Hrdliččin zve ku lásce hlas.“
 
-Jakmile se začali oblékat, bylo už jisté, že se ven skutečně půjde – a oba proto dostávali dobrou náladu, snad jako odměnu za muka předchozí volby. Trochu jim sice stále dělalo starost, zda jim procházka bez konkrétního cíle, procházka jaksi jen tak skutečně vystačí jako plnohodnotný celovečerní program, ale když pak vyšli do teplého karmínového soumraku, jejich nepřiznané obavy se samy rychle rozptýlily. Všechno to, co za bezpočetných večerů před televizní obrazovkou zůstalo nevysloveno, se jim nyní dralo na jazyk s takovou intenzitou, až si každou chvíli vzájemně skákali do řeči: probrali postupně Zuzaniny problémy v zaměstnání, bytovou perpektivu (sháněli bydlení v Praze) i synovu nadcházející školní docházku, a přestože se i dnes jejich názory v mnohém lišily, volili oba laskavý, smířlivý tón, nepřestávajíce se držet za ruce. Šli podél řeky po liduprázdném nábřeží, přešli po mostě a stoupali vzhůru k zámeckému parku, kde pak usedli na jednu z laviček a pozorovali městečko pod sebou. Proti večernímu nebi se rýsoval celý les televizních antén a satelitních přijímačů.
+Jakmile se začali oblékat, bylo už jisté, že se ven skutečně půjde – a oba proto dostávali dobrou náladu, snad jako odměnu za muka předchozí volby. Trochu jim sice stále dělalo starost, zda jim procházka bez konkrétního cíle, procházka jaksi _jen tak_ skutečně vystačí jako plnohodnotný celovečerní program, ale když pak vyšli do teplého karmínového soumraku, jejich nepřiznané obavy se samy rychle rozptýlily. Všechno to, co za bezpočetných večerů před televizní obrazovkou zůstalo nevysloveno, se jim nyní dralo na jazyk s takovou intenzitou, až si každou chvíli vzájemně skákali do řeči: probrali postupně Zuzaniny problémy v zaměstnání, bytovou perpektivu (sháněli bydlení v Praze) i synovu nadcházející školní docházku, a přestože se i dnes jejich názory v mnohém lišily, volili oba laskavý, smířlivý tón, nepřestávajíce se držet za ruce. Šli podél řeky po liduprázdném nábřeží, přešli po mostě a stoupali vzhůru k zámeckému parku, kde pak usedli na jednu z laviček a pozorovali městečko pod sebou. Proti večernímu nebi se rýsoval celý les televizních antén a satelitních přijímačů.
 
 „Nikdy jsem si vlastně nevšimla, kolik jich tu je,“ řekla Zuzana.
 
@@ -51,6 +53,8 @@ Představil si na okamžik, že elekromagnetické vlny televizních signálů pa
 Strávili na lavičce více než půl hodiny a potom se zvolna vydali nazpět. Jak přibývalo tmy, množily se i zámlky v jejich rozhovoru, ale na atmosféře poklidné pohody, která jejich neplánovanou vycházku od počátku provázela, se tím nic nezměnilo.
 
 Když ale došli na okraj sídliště, vemlouvavá úvodní melodie již zmíněného italského seriálu, kterou bylo slyšet z desítek otevřených oken, je zastihla nepřipravené; kdyby v té chvíli měli odpovědět zcela po pravdě, oba by si museli přiznat, že onen kriminální film by vidět chtěli.
+
+  
 
 „Hrdliččin zve ku lásce hlas,“ řekl nicméně Oskar posměšně a Zuzana se krátce zasmála.
 
@@ -64,7 +68,7 @@ Zuzana se zatvářila koketně.
 
 „Opravdu ne?“
 
-„Opravdu ne.“
+„Opravdu _ne_.“
 
 Řekl to s tak přehnaným důrazem, že rázem vypadal trochu směšně, ale Zuzana se k němu přesto mazlivě přitiskla.
 
@@ -88,7 +92,7 @@ Zuzana nesouhlasně zavrtěla hlavou.
 
 Začínalo to být vážné, ale nedokázal si pomoct. Z jakéhosi důvodu, který zatím neuměl přesněji pojmenovat, mu připadalo velmi důležité tuhle vycházku dokončit.
 
-„Ty seš někdy tak protivnej!“ řekla Zuzana a znovu zavrtěla hlavou.
+„Ty seš někdy tak _protivnej_!“ řekla Zuzana a znovu zavrtěla hlavou.
 
 Oskar nevěřil svým uším.
 
@@ -100,7 +104,7 @@ Zuzanin pohled vyhasl a ztvrdl. V koutcích úst se jí objevil úšklebek, kt
 
 Oskarovi hučelo v hlavě a v uších. Na prsou pocítil známý tlak. Kdyby se nestyděl, řval by na celé sídliště.
 
-„Já to kazím?! To se mi snad zdá! Já to kazím?!“ syčel vztekle.
+„_Já_ to kazím?! To se mi snad zdá! _Já_ to kazím?!“ syčel vztekle.
 
 Zuzana ho pohrdavě pozorovala.
 
