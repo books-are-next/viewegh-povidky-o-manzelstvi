@@ -28,41 +28,23 @@
     },
     "structure": [
       {
-        "filename": "povidky_o_manzelstvi_a_o_sexu_001.md",
-        "xhtml": "povidky_o_manzelstvi_a_o_sexu_001.xhtml",
-        "id": 0,
-        "role": "break",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_o_manzelstvi_a_o_sexu_004.md",
-        "xhtml": "povidky_o_manzelstvi_a_o_sexu_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_o_manzelstvi_a_o_sexu_027.md",
-        "xhtml": "povidky_o_manzelstvi_a_o_sexu_027.xhtml",
-        "id": 26,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
         "isSection": true,
         "id": "section-1",
         "children": [
           {
+            "filename": "povidky_o_manzelstvi_a_o_sexu_001.md",
+            "xhtml": "povidky_o_manzelstvi_a_o_sexu_001.xhtml",
+            "id": 0,
+            "role": "break",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
             "filename": "povidky_o_manzelstvi_a_o_sexu_002.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -71,9 +53,18 @@
             "filename": "povidky_o_manzelstvi_a_o_sexu_003.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
             "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "povidky_o_manzelstvi_a_o_sexu_004.md",
+            "xhtml": "povidky_o_manzelstvi_a_o_sexu_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": true,
             "children": []
           },
           {
@@ -295,9 +286,25 @@
             "inToc": true,
             "children": [],
             "title": "Oskar a Terezka bez pointy (Happy End)"
+          },
+          {
+            "filename": "povidky_o_manzelstvi_a_o_sexu_027.md",
+            "xhtml": "povidky_o_manzelstvi_a_o_sexu_027.xhtml",
+            "id": 26,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
           }
         ],
         "numberedChildren": false
+      },
+      {
+        "isSection": true,
+        "inToc": true,
+        "id": "section-2",
+        "children": [],
+        "numberedChildren": true
       }
     ]
   },
@@ -307,7 +314,7 @@
       "identifier": "urn:uuid:d1b17774-60f7-4557-a630-94ececefa28f",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-09T13:36:53.108Z"
+      "modified": "2021-11-09T13:43:51.820Z"
     },
     "chapters": [
       {
@@ -537,6 +544,6 @@
       "user": "books-are-next",
       "repo": "viewegh-povidky-o-manzelstvi"
     },
-    "generatedAt": 1636465013889
+    "generatedAt": 1636465432616
   }
 }
