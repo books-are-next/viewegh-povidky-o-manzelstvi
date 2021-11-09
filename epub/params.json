@@ -19,7 +19,7 @@
       "br": "",
       "brBefore": "",
       "brAfter": "MLP-text-bez1radku MLP-text-bez1radku--0-12 MLP-text-bez1radku--12-0 MLP-text-bez1radku--I MLP-text-bez1radku--I---12-0",
-      "blockquote": "MLP-dopis-podpis ",
+      "blockquote": "MLP-dopis-podpis MLP-citat MLP-citat-autor ",
       "figure": "",
       "em": "MLP-znak-kurziva-11b",
       "strong": "",
@@ -307,7 +307,7 @@
       "identifier": "urn:uuid:d1b17774-60f7-4557-a630-94ececefa28f",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-09T13:06:08.995Z"
+      "modified": "2021-11-09T13:36:53.108Z"
     },
     "chapters": [
       {
@@ -537,6 +537,6 @@
       "user": "books-are-next",
       "repo": "viewegh-povidky-o-manzelstvi"
     },
-    "generatedAt": 1636463169748
+    "generatedAt": 1636465013889
   }
 }
