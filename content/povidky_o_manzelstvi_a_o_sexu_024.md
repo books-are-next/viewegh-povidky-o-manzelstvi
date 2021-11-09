@@ -6,6 +6,8 @@ title: |-
 
 Telefon zazvonil ve čtvrt na devět.
 
+  
+
 Oskar se rozhodl, že ho nezvedne, ale při druhém zazvonění dívka ležící vedle něj zasténala a přikryla si rozcuchanou hlavu polštářem. Všiml si, že má na nahých zádech několik červených pupínků. Posadil se na posteli a žaludek se mu zhoupl. Krk měl celý ztuhlý, vlasy zpocené (zhruba před hodinou si musel vzít dva paraleny). Hlava ho dosud bolela, ale naštěstí už ne tolik. Několikrát si odkašlal a zahýbal svaly kolem úst.
 
 „Prosím?“ řekl. „Prosím?“
@@ -42,6 +44,8 @@ Dívka nespokojeně mlaskla.
 
 Jmenovala se Andrea. Bylo jí sotva dvacet a podle Oskarova odhadu nevážila ani padesát kilo, ale včera před jeho očima postupně vypila osm zlatých tequil. Do baru přišla s trochu starší, ne právě hezkou dívkou, která brzy pochopila, jak se bude situace vyvíjet, a zhruba po půldruhé hodině se měla k odchodu.
 
+  
+
 „Nemusíte se o kamarádku bát,“ řekl Oskar, když jí pomáhal do kabátu. „Já se o ni postarám.“
 
 Lhostejně se na něho podívala.
@@ -62,7 +66,7 @@ Posypala pomeranče skořicí a cukrem, pokapala je citrónem a jeden dílek p
 
 Oskar zavrtěl hlavou, ale poslušně sklenici vypil a podle dívkou vyžadovaného rituálu ji zajedl pomerančem. Prsty měl celé upatlané, ale ona mu je vzápětí všechny olízala.
 
-„A teď už opravdu zaplatíme,“ řekl Oskar barmance, která s úsměvem přikývla.
+„A teď už _opravdu_ zaplatíme,“ řekl Oskar barmance, která s úsměvem přikývla.
 
 „Asi půjdeme spát ke mně, že?“ obrátil se k dívce. „Nebo ne?“
 
@@ -78,11 +82,13 @@ Zamlela sebou a snažila se jeho ruku setřást.
 
 Otočila se a poprvé toho rána se na něho podívala, ale nebyl to zrovna láskyplný pohled. Obličej měla zsinalý a jakoby opuchlý – nejnápadnější to bylo na očních víčkách.
 
-„Nech mě spát!“ řekla důrazně. „Prosím tě!“
+„Nech mě spát!“ řekla důrazně. „_Prosím tě!_“
 
 Její dech byl tak špatný, až musel couvnout.
 
 Asi po deseti minutách telefon zazvonil znovu. Dívka vulgárně zaklela a Oskar se přes ni natáhl pro sluchátko. Volala novinářka ze známého časopisu pro ženy: dělají prý takovou anketu, v níž se dotazují známých osobností, co jim úspěch dal – a co jim vzal.
+
+  
 
 „Mně toho tedy vzal spoustu,“ řekl okamžitě Oskar. „Úspěch ze mne udělal citového mrzáka.“
 
@@ -100,7 +106,7 @@ Dívka vedle něj otevřela oteklá víčka – a zase je přivřela.
 
 „S čím?“ nerozuměla novinářka.
 
-„S amygdalou. To je centrum citů v mozku. Když máte poškozené dráhy, které spojují amygdalu se zbytkem mozku, dojde u vás k naprosté neschopnosti posuzovat citový význam událostí. Mimo jiné přestáváte být schopna mít někoho ráda. Jednomu muži v Německu, který trpěl častými záchvaty, neurochirurgové amygdalu amputovali. Víte, co se stalo?“
+„S _amygdalou_. To je centrum citů v mozku. Když máte poškozené dráhy, které spojují amygdalu se zbytkem mozku, dojde u vás k naprosté neschopnosti posuzovat citový význam událostí. Mimo jiné přestáváte být schopna mít někoho ráda. Jednomu muži v Německu, který trpěl častými záchvaty, neurochirurgové amygdalu amputovali. Víte, co se stalo?“
 
 „Ne. Co?“ řekla novinářka.
 
@@ -138,7 +144,7 @@ Na druhé straně linky bylo nějakou dobu ticho.
 
 Zatímco v duchu hledal přesná slova, Andrea hněvivě odkopla peřinu, a aniž na Oskara pohlédla, odkráčela směrem ke koupelně. Na žlutých kalhotkách měla zaschlou krev.
 
-„Kdybych měl ony ztráty shrnout, zobecnit,“ začal Oskar, „řekl bych, že jsem příliš snadno, příliš rychle dostal to, co druzí musejí většinou dlouze, pracně a často i marně dobývat. Jenže kde není opravdové úsilí, není opravdová radost z výsledku. Kde není únava, není odpočinek.“
+„Kdybych měl ony ztráty shrnout, zobecnit,“ začal Oskar, „řekl bych, že jsem příliš snadno, příliš rychle dostal to, co druzí musejí většinou dlouze, pracně a často i marně _dobývat_. Jenže kde není opravdové úsilí, není opravdová radost z výsledku. Kde není únava, není odpočinek.“
 
 Novinářka nic neříkala.
 
@@ -154,13 +160,13 @@ Novinářka nic neříkala.
 
 „Hm,“ přemýšlela novinářka. „To nevím. Takže vaše značné finační příjmy jsou vlastně vaše ztráty? Rozuměla jsem tomu dobře?“
 
-„To není ani zdaleka všechno!“ usmíval se Oskar. „Ty nejlepší ztráty jsem vám ještě neprozradil. Ty čtenářsky nejvděčnější pecky…“
+„To není ani zdaleka všechno!“ usmíval se Oskar. „Ty _nejlepší_ ztráty jsem vám ještě neprozradil. Ty čtenářsky nejvděčnější _pecky_…“
 
 „Poslouchám vás.“
 
 Z koupelny se ozvalo šumění sprchy.
 
-„Další příklad konkrétní ztráty: jsem na volné noze, nechodím do práce, a tudíž jsem přišel o veškerou radost z víkendů, z volných dnů i z prázdnin. Mám volno pořád – a tím pádem vlastně nikdy. Často ani netuším, že nějaký svátek je. Nebo že už začaly prázdniny. Mám narušený odvěký lidský cyklus střídání práce a odpočinku. Můj rok má tři sta šedesát pět zoufale stejných dní – ani všedních, ani svátečních. Moje geny po předcích, kteří pět dní v týdnu tvrdě pracovali a dva dny měli volno, jsou zcela zmatené. Mám vlastně jakýsi doživotní jet-lag.“
+„Další příklad konkrétní ztráty: jsem na volné noze, nechodím do práce, a tudíž jsem přišel o veškerou radost z víkendů, z volných dnů i z prázdnin. Mám volno _pořád_ – a tím pádem vlastně _nikdy_. Často ani netuším, že nějaký svátek je. Nebo že už začaly prázdniny. Mám narušený odvěký lidský cyklus střídání práce a odpočinku. _Můj_ rok má tři sta šedesát pět zoufale stejných dní – ani všedních, ani svátečních. Moje geny po předcích, kteří pět dní v týdnu tvrdě pracovali a dva dny měli volno, jsou zcela zmatené. Mám vlastně jakýsi doživotní _jet-lag_.“
 
 „Na tom možná něco je,“ připustila novinářka s úsměvem – Oskar to slyšel na jejím hlase. „A co ty další ztráty?“
 
@@ -182,17 +188,17 @@ Odložil sluchátko na zmuchlané prostěradlo, téměř s elánem vstal a nah
 
 „Ale ano.“
 
-„Poslechněte si tohle: …ať jde kamkoli, její příběh kráčí před ní. Ohlašuje ji. Je natolik výmluvný, že potlačuje její pravé já. Moc by si přála být šťastná, jenže jaké má možnosti, když ji všude provází ta otřepaná historie?“ přečetl zapáleně, s důrazem na příslušných slovech. „V tom románu se to týká ženy, které se během líbánek v Paříži tragicky zabije manžel – ale nemáte pocit, že se to tak trochu týká i všech takzvaných známých osobností?“
+„Poslechněte si tohle: …_ať jde kamkoli, její příběh kráčí před ní. Ohlašuje ji. Je natolik výmluvný, že potlačuje její pravé já. Moc by si přála být šťastná, jenže jaké má možnosti, když ji všude provází ta otřepaná historie?_“ přečetl zapáleně, s důrazem na příslušných slovech. „V tom románu se to týká ženy, které se během líbánek v Paříži tragicky zabije manžel – ale nemáte pocit, že se to tak trochu týká i všech takzvaných známých osobností?“
 
 Oskar slyšel, že si novinářka dělá poznámky.
 
-„Zkuste si to představit,“ požádal ji. „Strašně moc chcete být sama sebou, ale všude, kam přijdete, už vteřinu před vámi vstoupí ta vaše mediální podoba, ta karikatura, to strašlivé klišé známý spisovatel, jehož ksicht máte navždy přilepený na vašem vlastním obličeji…“
+„Zkuste si to představit,“ požádal ji. „Strašně moc chcete být sama sebou, ale všude, kam přijdete, už vteřinu před vámi vstoupí ta vaše mediální podoba, ta karikatura, to strašlivé klišé _známý spisovatel_, jehož ksicht máte navždy přilepený na vašem vlastním obličeji…“
 
 „Ale nedělá vám to někdy naopak dobře? Ani trochu?“
 
 Oskar pocítil zklamání, jehož hloubka byla zcela neúměrná významu onoho ranního telefonátu.
 
-„Samozřejmě, že mi to někdy dělá dobře,“ řekl po chvíli. „Ale mnohem častěji mi to dělá zle – a o tom teď mluvím.“
+„Samozřejmě, že mi to _někdy_ dělá dobře,“ řekl po chvíli. „Ale _mnohem častěji_ mi to dělá zle – a o tom teď mluvím.“
 
 Uslyšel, že se dveře do koupelny otevřely. Andrea nahlédla do pokoje, postavila se mezi zárubně a pátravě Oskara pozorovala. Byla už oblečená a z jejích šatů byl i na oněch několik kroků cítit cigaretový kouř.
 
@@ -250,13 +256,13 @@ Venku už zase sněžilo. Přestože si ještě před chvílí přál, aby Andre
 
 Kdosi na druhém konci linky se na novinářku obrátil s jakýmsi dotazem; přikryla mluvítko rukou, ale Oskar i přesto slyšel, že dotyčného poměrně příkře odbyla. Potěšilo ho to.
 
-„Možná se ptám naivně,“ řekla, „ale proč to teda děláte? Proč v tom odbočování pořád pokračujete?“
+„Možná se ptám naivně,“ řekla, „ale proč to teda děláte? Proč v tom _odbočování_ pořád pokračujete?“
 
-„Podobně se počátkem padesátých let ptali soudruzi z někdejšího Svazu spisovatelů Vítězslava Nezvala – ne že bych se snad srovnával. Pozvali si ho na kobereček, aby jim vysvětlil své věčné mimomanželské úlety. Vítku, proč ty to té své ženě stále děláš? ptala se ho mateřsky Marie Majerová pořád dokola. Víte, co prý na ně nakonec Nezval zařval?“
+„Podobně se počátkem padesátých let ptali soudruzi z někdejšího Svazu spisovatelů Vítězslava Nezvala – ne že bych se snad srovnával. Pozvali si ho na kobereček, aby jim vysvětlil své věčné mimomanželské úlety. _Vítku, proč ty to té své ženě stále děláš?_ ptala se ho mateřsky Marie Majerová pořád dokola. Víte, co prý na ně nakonec Nezval zařval?“
 
 „Ne.“
 
-„Protože rád mrdám!“ zvolal Oskar.
+„_Protože rád mrdám!_“ zvolal Oskar.
 
 „Takže to je ten důvod?“ zasmála se.
 
@@ -274,7 +280,7 @@ Oskar neodpověděl.
 
 „A jste ještě vůbec schopnej strávit večer sám? Sám doma?“
 
-„Vždycky jsem rád trávil večery doma. Přiznávám ale, že poslední dobou je to pro mě čím dál těžší. Naplánuju si třeba klidný staromládenecký večer s dobrou knihou a dobrým vínem – slyšíte, jak to zní lákavě? – ale když to pak zrealizuju, když pak skutečně sedím u stolu, čtu si a piju víno, až tak velká zábava to zase není. Po pravdě řečeno je to spíš nuda. Čím to je, to mi řekněte: Tím vínem? Těmi knihami? Většinou přečtu pár stránek, vypiju víno a jdu někam pořádně zapařit.“
+„_Vždycky_ jsem rád trávil večery doma. Přiznávám ale, že poslední dobou je to pro mě čím dál těžší. Naplánuju si třeba _klidný staromládenecký večer s dobrou knihou a dobrým vínem_ – slyšíte, jak to zní lákavě? – ale když to pak _zrealizuju_, když pak skutečně sedím u stolu, čtu si a piju víno, až tak velká zábava to zase není. Po pravdě řečeno je to spíš nuda. Čím to je, to mi řekněte: Tím vínem? Těmi knihami? Většinou přečtu pár stránek, vypiju víno a jdu někam pořádně zapařit.“
 
 „Vy jste vážně ztracenej případ.“
 
@@ -282,7 +288,7 @@ Oskar neodpověděl.
 
 „To není zrovna zdvořilá –“
 
-„Nechte toho,“ řekl Oskar otráveně. „Tak kolik vám je?“
+„Nechte toho,“ řekl Oskar otráveně. „Tak _kolik_ vám je?“
 
 „Osmadvacet.“
 
@@ -302,7 +308,7 @@ Ve sluchátku bylo chvíli ticho.
 
 Oskar slyšel, že její pohotová replika vzbudila v redakci bouřlivé veselí.
 
-„Dobrý,“ pochválil ji. „Když už jsme u toho: Kolikrát jsi odbočila ty?“
+„Dobrý,“ pochválil ji. „Když už jsme u toho: Kolikrát jsi _odbočila_ ty?“
 
 „Prosím?!“ vyjekla pobaveně. „Do toho vám s prominutím nic není.“
 

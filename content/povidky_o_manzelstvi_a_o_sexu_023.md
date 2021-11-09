@@ -2,9 +2,11 @@
 title: Štafeta lidství
 ---
 
-1/
+### 1/
 
 Nyní se už ona hnědovlasá štíhlá dívka na Oskara zeširoka usmívala jako na svého dobrého známého, ale Oskar si před chvílí při svém příchodu dobře všiml, jak se v její hezké tvářičce nejprve objevilo jakési bezmála smrtelné leknutí a jak hned vzápětí cosi pošeptala své kolegyni. Líbila se mu, a tak její úsměv opětoval. I on sám měl neodbytný pocit, že ji odkudsi zná, jenomže ve stavu, v jakém se nacházel, si ji při nejlepší vůli nedokázal nikam zařadit. Nevadí, říkal si opile, všechno se v pohodě vyřeší.
+
+  
 
 Pozdravil postarší barmanku, která právě ukládala kartony s krabicovým džusem do velké vestavěné lednice, a poněkud rozverně se vyhoupl na jednu z vysokých barových stoliček; zapotácel se, ale nakonec rovnováhu udržel. Dívku prozatím ignoroval, neboť ze zkušenosti věděl, že za ním stejně přijde sama – tohle bylo v bordelu jednoduché. V sále panovalo obvyklé přítmí a ostré světlo z otevřené lednice Oskara nyní trochu bodalo do očí. Otočil se na opačnou stranu: v protějším rohu popíjel jediný další zákazník, asi šedesátiletý, německy mluvící muž s prořídlými rezavými vlasy. Byl v tmavém obleku, ale košili měl rozepnutou až na břicho a jeho kravata visela přes opěradlo křesla (její vzorek, všiml si Oskar, vůbec neladil s potahovou látkou); kolem něj seděly další čtyři dívky, z nichž přinejmenším dvě byly mladé a vcelku pohledné. Na tak malé město to tu vypadalo nečekaně dobře. Oskar se spokojeně otočil nazpět k barmance.
 
@@ -46,29 +48,29 @@ Překvapeně na něho pohlédla a on se sebevědomě zasmál.
 
 „Vy si to vážně pamatujete?“ zapochybovala.
 
-„Samozřejmě, že si to pamatuju!“ řekl ještě ukřivděněji, a dokonce se obrátil k barmance, jako by se chtěl dovolat jejího souhlasu. „Copak se vůbec dá na tak nádherný vlasy zapomenout?“
+„_Samozřejmě_, že si to pamatuju!“ řekl ještě ukřivděněji, a dokonce se obrátil k barmance, jako by se chtěl dovolat jejího souhlasu. „Copak se vůbec dá na tak nádherný vlasy zapomenout?“
 
 Příliš pozdě si uvědomil, že barmanka je na tom s vlasy naopak dost bídně – ale čert to vzal.
 
-„To máte teda pravdu,“ řekla barmanka. „Simonka je má vopravdu krásný. Hustý!“
+„To máte teda pravdu,“ řekla barmanka. „Simonka je má _vopravdu_ krásný. Hustý!“
 
 „Vážně si pamatujete, že jsem mívala jinou barvu?“ chtěla vědět dívka, ale potom si sama odpověděla. „Nepamatujete. Jenom jste to zkoušel, že jo?“
 
 „Pamatuju,“ řekl Oskar a vydržel dívčin upřený pohled.
 
-Věděl tedy, jak se jmenuje, ale nijak zvlášť mu to nepomohlo. Simona? Odkud ji mohl znát? Nejmenovala se tak náhodou ta knihkupkyně, která za ním po jakési besedě přijela na kole (s namontovanou dětskou sedačkou) v noci do hotelu? Kde tohle proboha bylo? Nedokázal si vzpomenout ani na jméno onoho města. Jména vířící hlavou v příboji rozpadlých obličejů a slabik. Na citáty si vzpomenout dokázal.
+Věděl tedy, jak se jmenuje, ale nijak zvlášť mu to nepomohlo. Simona? Odkud ji mohl znát? Nejmenovala se tak náhodou ta knihkupkyně, která za ním po jakési besedě přijela na kole (s namontovanou _dětskou_ sedačkou) v noci do hotelu? Kde tohle proboha bylo? Nedokázal si vzpomenout ani na jméno onoho města. _Jména vířící hlavou v příboji rozpadlých obličejů a slabik_. Na citáty si vzpomenout dokázal.
 
 „A tykej mi, Simono, prosím tě. Jmenuju se Oskar,“ řekl. „Přece mi po tom všem, co jsme spolu prožili, nebudeš teď vykat…“
 
-„No zase tolik jsme toho neprožili…,“ zasmála se. „Párkrát jste mě, jsi mě, akorát poslal za dveře, když jsme s Ivanou Zábřenskou v hodině moc kecaly – ale na nějaký velký zážitky si teda nevzpomínám.“
+„No zase _tolik_ jsme toho neprožili…,“ zasmála se. „Párkrát jste mě, _jsi mě_, akorát poslal za dveře, když jsme s Ivanou Zábřenskou v hodině moc kecaly – ale na nějaký _velký_ zážitky si teda nevzpomínám.“
 
 Náhlé poznání projelo Oskarovým tělem jako elektrický výboj.
 
-„Jo takže pan učitel?!“ zvolala barmanka. „Tvůj pan učitel?!“
+„Jo takže pan učitel?!“ zvolala barmanka. „_Tvůj_ pan učitel?!“
 
 To odhalení ji očividně potěšilo – zdálo se, jako by tím nad Oskarem okamžitě získala jakousi nepojmenovatelnou převahu.
 
-„Bejvalej,“ řekl Oskar s nechutí. „Bejvalej.“
+„_Bejvalej_,“ řekl Oskar s nechutí. „Bejvalej.“
 
 „A i kdyby současnej,“ řekla poněkud nelogicky barmanka. „Co je na tom? Klídek, tady jste v pohodě.“
 
@@ -86,7 +88,7 @@ Zaklonil se, aby si svou bývalou žačku mohl prohlédnout z odstupu – jako
 
 Barmanka přikývla.
 
-„A co si dá pan učitel?“ otázala se.
+„A co si dá _pan učitel_?“ otázala se.
 
 Znělo to zlomyslně.
 
@@ -104,23 +106,25 @@ Sám slyšel, že jeho výslovnost nebyla zcela bezchybná.
 
 „Jen běžte, přinesu ti to,“ řekla barmanka. Zasmála se: „Určitě si máte s panem učitelem co vyprávět…“
 
-2/
+### 2/
 
 Oskar si sedl zády ke zdi, aby viděl na bar a neztratil přehled, co se v sále děje. Simona okamžik vyčkala, zda ji Oskar vybídne, aby si sedla vedle něho, ale když se tak nestalo, sedla si naproti němu a s naučenou elegancí si přehodila nohu přes nohu – Oskar zahlédl okraj punčoch a bílé podvazky. Vždycky se domníval, že mu tyhle krajkové výmysly nic neříkají, ale nyní si překvapeně uvědomil, že ho to docela zaujalo.
+
+  
 
 „Tak kde ses tu vzal?“ zopakovala Simona svou otázku.
 
 „To víš,“ řekl Oskar a s úsměvem pokrčil rameny. „Za trochu lásky šel bych světa kraj, šel s hlavou odkrytou a šel bych bosý…“
 
-Simona odvrátila pohled stranou, a Oskar proto s recitací skončil. Vzpomněl si, jak kdysi recitovala ona: tak jako většina dětí se natáčela bokem ke třídě, aby ji nerušily posměšky, které školní přednes nutně provázejí (Nemyslete na to, před kým recitujete a jak při tom vypadáte; soustřeďte se pouze na to, co těmi verši říkáte, radil jim občas). Nosila téměř výlučně džíny a k nim nejrůznější vytahané svetry nebo bavlněné mikiny. Ruce držela spojené za zády, hleděla ven na jakýsi bod za oknem a ze samé trémy bez přestání kroutila prsty v hnědých manšestrových pantoflích. Ty její bačkory měl nyní Oskar před očima tak jasně, až se musel usmát.
+Simona odvrátila pohled stranou, a Oskar proto s recitací skončil. Vzpomněl si, jak kdysi recitovala ona: tak jako většina dětí se natáčela bokem ke třídě, aby ji nerušily posměšky, které školní přednes nutně provázejí (_Nemyslete na to, před kým recitujete a jak při tom vypadáte; soustřeďte se pouze na to, co těmi verši říkáte_, radil jim občas). Nosila téměř výlučně džíny a k nim nejrůznější vytahané svetry nebo bavlněné mikiny. Ruce držela spojené za zády, hleděla ven na jakýsi bod za oknem a ze samé trémy bez přestání kroutila prsty v hnědých manšestrových pantoflích. Ty její bačkory měl nyní Oskar před očima tak jasně, až se musel usmát.
 
-„Myslela jsem, kde ses vzal v tomhle městě?“ řekla.
+„Myslela jsem, kde ses vzal v tomhle _městě_?“ řekla.
 
 „Měl jsem tu besedu se čtenáři,“ řekl po pravdě Oskar. „V Domě umění…“
 
 Simonu to upřímně pobavilo.
 
-„A z Domu umění jsi šel rovnou sem?“
+„A z _Domu umění_ jsi šel rovnou sem?“
 
 „Ne,“ řekl Oskar. „Ještě předtím mě ředitelka zdejší knihovny společně s pěti dalšími knihovnicemi pozvaly na večeři do restaurace Stará pošta…“
 
@@ -152,7 +156,7 @@ Zamyšleně pokyvoval hlavou.
 
 Oskar se nadechl.
 
-„No,“ pokračoval, „ještě jsem ti neřek, jak to začalo: před besedou jsem seděl u nich v knihovně – kafe, chlebíčky a tak. Všechno bylo v pohodě, ale když jsem je požádal, jestli si můžu odskočit, najednou všechny zrozpačitěly. Na záchodě jsem pochopil proč: na zdi tam visel takovej látkovej kapsář s šesti kapsama, na kterejch byly ručně vyšitý jména – Zdenička, Jiřinka, Pavlínka a tak dále. Samý zdrobněliny.“
+„No,“ pokračoval, „ještě jsem ti neřek, jak to _začalo_: před besedou jsem seděl u nich v knihovně – kafe, chlebíčky a tak. Všechno bylo v pohodě, ale když jsem je požádal, jestli si můžu odskočit, najednou všechny zrozpačitěly. Na záchodě jsem pochopil proč: na zdi tam visel takovej látkovej kapsář s šesti kapsama, na kterejch byly ručně vyšitý jména – Zdenička, Jiřinka, Pavlínka a tak dále. Samý zdrobněliny.“
 
 Udělal krátkou pauzu.
 
@@ -220,7 +224,7 @@ Věděla, že zabodovala, a spokojeně se usmívala.
 
 „Samozřejmě,“ řekl Oskar.
 
-„Abych ti řekla pravdu,“ pronesla s prchavým úsměvem, který vzápětí zmizel, „koktejly jsou tu hodně drahý. Tvořej totiž součást našich nezaslouženejch příjmů.“
+„Abych ti řekla _pravdu_,“ pronesla s prchavým úsměvem, který vzápětí zmizel, „koktejly jsou tu hodně drahý. Tvořej totiž součást našich nezaslouženejch příjmů.“
 
 „I tak si klidně dej další,“ řekl Oskar. „A objednej mi mattonku, prosím tě.“
 
@@ -254,9 +258,9 @@ Oskar očekával podstatně příznivější hodnocení – toto se ho nepříj
 
 Oskar se neupřímně usmíval.
 
-„Byl jsi takovej zapálenej!“ pokračovala. „Vzpomínáš si, cos nám říkal o tý štafetě lidství?“
+„Byl jsi takovej _zapálenej_!“ pokračovala. „Vzpomínáš si, cos nám říkal o tý _štafetě lidství_?“
 
-„Samozřejmě. Podstatou učitelova poslání není naučit žáky předložky nebo kysličníky, ale předat jim cosi jako štafetu lidství. Je to jenom metafora.“
+„Samozřejmě. _Podstatou učitelova poslání není naučit žáky předložky nebo kysličníky, ale předat jim cosi jako štafetu lidství_. Je to jenom metafora.“
 
 Se zadostiučiněním přikývla.
 
@@ -264,7 +268,7 @@ Se zadostiučiněním přikývla.
 
 Simona se k němu předklonila. V koutcích úst jí cukalo.
 
-„Takys nám říkal, že učitel stojí na opačným břehu řeky než žáci – na břehu dospělosti – a že vyučovací hodiny nejsou nic jinýho než učitelovo volání, aby za ním žáci už konečně připluli.“
+„Takys nám říkal, že učitel stojí na opačným břehu řeky než žáci – _na břehu dospělosti_ – a že vyučovací hodiny nejsou nic jinýho než učitelovo volání, aby za ním žáci už konečně připluli.“
 
 Ke konci věty už to nevydržela a rozesmála se; současně ovšem natáhla ruku a pohladila Oskara po předloktí, aby ho ujistila, že jde o ryze přátelské škádlení.
 
@@ -316,9 +320,11 @@ Posadila se na samý kraj pohovky, a dokonce se už vzepřela na rukou, aby mi 
 
 S úsměvem vstala, uchopila sklenici, volnou rukou si upravila šaty a přešla k Oskarovi; když si sedala, parodicky zavrtěla zadečkem a on ji přes něj plácl.
 
-3/
+### 3/
 
 Vyprávěli si různé školní historky; Oskarovi, který pil už jen minerálku a pomalu střízlivěl, přitom neušlo, že čím hlasitější byly výbuchy Simonina smíchu a čím těsněji se k němu tiskla, tím zachmuřenější byla barmanka. Další koktejl postavila na stůl bez jediného slova, a dokonce ani nepřikývla, když jí Simona poděkovala.
+
+  
 
 „Co je jí?“ zeptal se Oskar, ale Simona mu rychle položila prst na ústa, a tak se dál nevyptával; podivuhodné proměny nálad postarších dam koneckonců nepatřily k záhadám, které by musel řešit. Na žádnou další historku si už ale nevzpomínal. Simona si opřela hlavu o jeho rameno a on ji objal kolem ramen.
 
@@ -334,7 +340,7 @@ Vyprávěli si různé školní historky; Oskarovi, který pil už jen minerálk
 
 Oskar to nekomentoval a Simona se napila. Začínala být opilá.
 
-„Pravda je, pane učiteli, že jsem sem šla především kvůli prachům.“
+„_Pravda_ je, pane učiteli, že jsem sem šla především kvůli prachům.“
 
 Pouze přikývl.
 
@@ -342,13 +348,13 @@ Pouze přikývl.
 
 Oskar ji pozoroval s neomluvitelnými sympatiemi.
 
-„Někdy se to zase tolik neliší – myslím tady a ve špitále. Dělám v noci, ale to jsem dělala i tam. Nějaký rozdíly tu samozřejmě jsou. Tam jsem odnášela dědkům jejich čůránky – a tady dědkové pro změnu chtěj, abych čůrala já na ně… Nešokuju vás náhodou, pane učiteli?“
+„Někdy se to zase tolik neliší – myslím tady a ve špitále. Dělám v noci, ale to jsem dělala i tam. Nějaký rozdíly tu samozřejmě jsou. Tam jsem odnášela dědkům _jejich_ čůránky – a tady dědkové pro změnu chtěj, abych čůrala já na ně… Nešokuju vás náhodou, pane učiteli?“
 
 Pohladil ji po vlasech, ale zároveň si ji představil, jak stojí rozkročená nad nahým, ochablým tělem nějakého starého chlapa. Byla to zneklidňující představa.
 
 „Ne, pokračuj.“
 
-„Taky jsem zjistila – ne, kecám – věděla jsem, už když jsem sem šla, že se mi ta práce bude docela líbit. Někdy je to sice trochu hnus, ale někdy se mi to docela líbí. Já to totiž, pane učiteli, ráda dělám.“
+„Taky jsem zjistila – ne, kecám – _věděla jsem_, už když jsem sem šla, že se mi ta práce bude docela líbit. Někdy je to sice trochu hnus, ale někdy se mi to docela líbí. Já to totiž, pane učiteli, _ráda dělám_.“
 
 „No tak to je skvělý,“ řekl Oskar co možná lehkovážně. „Není nad to, když se práce stane koníčkem.“
 
@@ -358,9 +364,11 @@ Ještě to nečekal – připadal si náhle příliš střízlivý.
 
 „Určitě,“ řekl a snažil se, aby to znělo co možná sebejistě. „Ale nejdřív mi objednej ještě jednoho jamesona.“
 
-4/
+### 4/
 
 Pokoj byl rohový, překvapivě velký; v narudlém přítmí se vznášela příjemná, byť samozřejmě umělá květinová vůně. Levé polovině dominovalo obrovské kruhové dvojlůžko, na stěně za ním bylo obvyklé zrcadlo. Luxusní rohová vana s vířivkami a velké bílé osušky na chromovaných věšácích v protější části pokoje alespoň trochu vysvětlovaly částku, kterou musel Oskar před chvílí barmance zaplatit.
+
+  
 
 „Vyhovuje?“ zeptala se Simona.
 
