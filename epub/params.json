@@ -1,11 +1,14 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Povídky o manželství a o sexu",
       "identifier": "urn:uuid:d1b17774-60f7-4557-a630-94ececefa28f",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-09T12:57:34.236Z"
+      "modified": "2021-11-09T12:57:34.236Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola ",
@@ -35,7 +38,7 @@
             "filename": "povidky_o_manzelstvi_a_o_sexu_001.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_001.xhtml",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": true,
             "children": []
@@ -547,3 +550,4 @@
     "generatedAt": 1636465432616
   }
 }
+
