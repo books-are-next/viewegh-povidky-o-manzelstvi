@@ -7,8 +7,9 @@ meta:
   author: Michal Viewegh
   publisher: Městská knihovna v Praze
   modified: '2021-11-09T12:57:34.236Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - povidky_o_manzelstvi_a_o_sexu_001.html
   - povidky_o_manzelstvi_a_o_sexu_002.html
   - povidky_o_manzelstvi_a_o_sexu_005.html
   - povidky_o_manzelstvi_a_o_sexu_006.html
