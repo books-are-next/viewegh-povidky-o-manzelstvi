@@ -1,35 +1,17 @@
 {
   "author": "Michal Viewegh",
-  "identifier": "viewegh-povidky-o-manzelstvi-a-o-sexu-1493741",
+  "edition": "beletrie",
+  "identifier": "viewegh-povidky-o-manzelstvi-a-o-sexu-6967db6",
   "modified": "2021-11-09T12:57:34.236Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Povídky o manželství a o sexu",
-  "revision": "1493741",
+  "revision": "6967db6",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 21:21:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638393690258
+    "date": "Wed Dec 01 2021 22:06:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638396383608
   },
   "documents": [
-    {
-      "title": "Povídky o manželství a o sexu",
-      "file": "povidky_o_manzelstvi_a_o_sexu_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "povidky_o_manzelstvi_a_o_sexu_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Povídky o manželství a o sexu",
       "file": "povidky_o_manzelstvi_a_o_sexu_002.html",
@@ -37,8 +19,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "povidky_o_manzelstvi_a_o_sexu_001.html",
+      "order": 0,
+      "prev": null,
       "next": "povidky_o_manzelstvi_a_o_sexu_005.html",
       "toc": [
         {
@@ -57,7 +39,7 @@
       "chars": 2160,
       "ideas": 12,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "povidky_o_manzelstvi_a_o_sexu_002.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_006.html",
       "toc": [
@@ -77,7 +59,7 @@
       "chars": 10435,
       "ideas": 45,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "povidky_o_manzelstvi_a_o_sexu_005.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_007.html",
       "toc": [
@@ -97,7 +79,7 @@
       "chars": 1966,
       "ideas": 14,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "povidky_o_manzelstvi_a_o_sexu_006.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_008.html",
       "toc": [
@@ -117,7 +99,7 @@
       "chars": 6375,
       "ideas": 56,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "povidky_o_manzelstvi_a_o_sexu_007.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_009.html",
       "toc": [
@@ -137,7 +119,7 @@
       "chars": 7190,
       "ideas": 55,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "povidky_o_manzelstvi_a_o_sexu_008.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_010.html",
       "toc": [
@@ -157,7 +139,7 @@
       "chars": 15888,
       "ideas": 115,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "povidky_o_manzelstvi_a_o_sexu_009.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_011.html",
       "toc": [
@@ -177,7 +159,7 @@
       "chars": 9916,
       "ideas": 58,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "povidky_o_manzelstvi_a_o_sexu_010.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_012.html",
       "toc": [
@@ -197,7 +179,7 @@
       "chars": 10883,
       "ideas": 46,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "povidky_o_manzelstvi_a_o_sexu_011.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_013.html",
       "toc": [
@@ -217,7 +199,7 @@
       "chars": 20775,
       "ideas": 86,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "povidky_o_manzelstvi_a_o_sexu_012.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_014.html",
       "toc": [
@@ -237,7 +219,7 @@
       "chars": 22099,
       "ideas": 148,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "povidky_o_manzelstvi_a_o_sexu_013.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_015.html",
       "toc": [
@@ -257,7 +239,7 @@
       "chars": 15261,
       "ideas": 122,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "povidky_o_manzelstvi_a_o_sexu_014.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_016.html",
       "toc": [
@@ -277,7 +259,7 @@
       "chars": 26511,
       "ideas": 199,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "povidky_o_manzelstvi_a_o_sexu_015.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_017.html",
       "toc": [
@@ -297,7 +279,7 @@
       "chars": 16584,
       "ideas": 124,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "povidky_o_manzelstvi_a_o_sexu_016.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_018.html",
       "toc": [
@@ -317,7 +299,7 @@
       "chars": 17230,
       "ideas": 140,
       "role": "chapter",
-      "order": 15,
+      "order": 14,
       "prev": "povidky_o_manzelstvi_a_o_sexu_017.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_019.html",
       "toc": [
@@ -337,7 +319,7 @@
       "chars": 4221,
       "ideas": 5,
       "role": "chapter",
-      "order": 16,
+      "order": 15,
       "prev": "povidky_o_manzelstvi_a_o_sexu_018.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_020.html",
       "toc": [
@@ -357,7 +339,7 @@
       "chars": 17243,
       "ideas": 192,
       "role": "chapter",
-      "order": 17,
+      "order": 16,
       "prev": "povidky_o_manzelstvi_a_o_sexu_019.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_021.html",
       "toc": [
@@ -377,7 +359,7 @@
       "chars": 44499,
       "ideas": 241,
       "role": "chapter",
-      "order": 18,
+      "order": 17,
       "prev": "povidky_o_manzelstvi_a_o_sexu_020.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_022.html",
       "toc": [
@@ -397,7 +379,7 @@
       "chars": 7746,
       "ideas": 91,
       "role": "chapter",
-      "order": 19,
+      "order": 18,
       "prev": "povidky_o_manzelstvi_a_o_sexu_021.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_023.html",
       "toc": [
@@ -417,7 +399,7 @@
       "chars": 20310,
       "ideas": 193,
       "role": "chapter",
-      "order": 20,
+      "order": 19,
       "prev": "povidky_o_manzelstvi_a_o_sexu_022.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_024.html",
       "toc": [
@@ -437,7 +419,7 @@
       "chars": 16281,
       "ideas": 161,
       "role": "chapter",
-      "order": 21,
+      "order": 20,
       "prev": "povidky_o_manzelstvi_a_o_sexu_023.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_025.html",
       "toc": [
@@ -457,7 +439,7 @@
       "chars": 10915,
       "ideas": 21,
       "role": "chapter",
-      "order": 22,
+      "order": 21,
       "prev": "povidky_o_manzelstvi_a_o_sexu_024.html",
       "next": "povidky_o_manzelstvi_a_o_sexu_026.html",
       "toc": [
@@ -477,7 +459,7 @@
       "chars": 7693,
       "ideas": 27,
       "role": "chapter",
-      "order": 23,
+      "order": 22,
       "prev": "povidky_o_manzelstvi_a_o_sexu_025.html",
       "next": "colophon.html",
       "toc": [
@@ -513,9 +495,9 @@
   ],
   "totals": {
     "all": {
-      "words": 51075,
-      "chars": 313214,
-      "ideas": 2176
+      "words": 51077,
+      "chars": 313225,
+      "ideas": 2178
     },
     "chapters": {
       "words": 50908,
