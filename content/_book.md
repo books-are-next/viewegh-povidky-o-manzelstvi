@@ -7,7 +7,32 @@ meta:
   author: Michal Viewegh
   publisher: Městská knihovna v Praze
   modified: '2021-11-09T12:57:34.236Z'
-chapters: []
+readingOrder:
+  - povidky_o_manzelstvi_a_o_sexu_001.html
+  - povidky_o_manzelstvi_a_o_sexu_002.html
+  - povidky_o_manzelstvi_a_o_sexu_005.html
+  - povidky_o_manzelstvi_a_o_sexu_006.html
+  - povidky_o_manzelstvi_a_o_sexu_007.html
+  - povidky_o_manzelstvi_a_o_sexu_008.html
+  - povidky_o_manzelstvi_a_o_sexu_009.html
+  - povidky_o_manzelstvi_a_o_sexu_010.html
+  - povidky_o_manzelstvi_a_o_sexu_011.html
+  - povidky_o_manzelstvi_a_o_sexu_012.html
+  - povidky_o_manzelstvi_a_o_sexu_013.html
+  - povidky_o_manzelstvi_a_o_sexu_014.html
+  - povidky_o_manzelstvi_a_o_sexu_015.html
+  - povidky_o_manzelstvi_a_o_sexu_016.html
+  - povidky_o_manzelstvi_a_o_sexu_017.html
+  - povidky_o_manzelstvi_a_o_sexu_018.html
+  - povidky_o_manzelstvi_a_o_sexu_019.html
+  - povidky_o_manzelstvi_a_o_sexu_020.html
+  - povidky_o_manzelstvi_a_o_sexu_021.html
+  - povidky_o_manzelstvi_a_o_sexu_022.html
+  - povidky_o_manzelstvi_a_o_sexu_023.html
+  - povidky_o_manzelstvi_a_o_sexu_024.html
+  - povidky_o_manzelstvi_a_o_sexu_025.html
+  - povidky_o_manzelstvi_a_o_sexu_026.html
+  - colophon.html
 tocBase:
   - id: section-1
     children:
@@ -55,12 +80,13 @@ tocBase:
         title: Instantní manželka
       - link: povidky_o_manzelstvi_a_o_sexu_026.html
         title: Oskar a Terezka bez pointy (Happy End)
-    numberedChildren: false
+    isSection: true
 static:
   - style
   - scripts
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
