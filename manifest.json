@@ -1,0 +1,526 @@
+{
+  "author": "Michal Viewegh",
+  "identifier": "viewegh-povidky-o-manzelstvi-a-o-sexu-1493741",
+  "modified": "2021-11-09T12:57:34.236Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Povídky o manželství a o sexu",
+  "revision": "1493741",
+  "generatedAt": {
+    "date": "Wed Dec 01 2021 21:21:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638393690258
+  },
+  "documents": [
+    {
+      "title": "Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "povidky_o_manzelstvi_a_o_sexu_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_001.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtyři poznámky na úvod\n    (které mi tentokrát připadají nezbytné) • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_005.html",
+      "words": 348,
+      "chars": 2160,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 2,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_002.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtyři poznámky na úvod\n(které mi tentokrát připadají nezbytné)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Aspoň medaili • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_006.html",
+      "words": 1667,
+      "chars": 10435,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 3,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_005.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Aspoň medaili",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otázka • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_007.html",
+      "words": 321,
+      "chars": 1966,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 4,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_006.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otázka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jeden z posledních hezkých dní • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_008.html",
+      "words": 1072,
+      "chars": 6375,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 5,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_007.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jeden z posledních hezkých dní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Běž si klidně sám! • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_009.html",
+      "words": 1156,
+      "chars": 7190,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 6,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_008.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Běž si klidně sám!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nos • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_010.html",
+      "words": 2632,
+      "chars": 15888,
+      "ideas": 115,
+      "role": "chapter",
+      "order": 7,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_009.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nos",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na oči se vyser\n    (Boccaccio po česku) • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_011.html",
+      "words": 1604,
+      "chars": 9916,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 8,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_010.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na oči se vyser\n(Boccaccio po česku)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kufr a transcendence • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_012.html",
+      "words": 1786,
+      "chars": 10883,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 9,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_011.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kufr a transcendence",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umění žít sám a šťastný • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_013.html",
+      "words": 3405,
+      "chars": 20775,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 10,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_012.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Umění žít sám a šťastný",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dva králové • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_014.html",
+      "words": 3640,
+      "chars": 22099,
+      "ideas": 148,
+      "role": "chapter",
+      "order": 11,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_013.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dva králové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úspěšný lov • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_015.html",
+      "words": 2495,
+      "chars": 15261,
+      "ideas": 122,
+      "role": "chapter",
+      "order": 12,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_014.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úspěšný lov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IKEA v naději • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_016.html",
+      "words": 4273,
+      "chars": 26511,
+      "ideas": 199,
+      "role": "chapter",
+      "order": 13,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_015.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IKEA v naději",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Fiacolata • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_017.html",
+      "words": 2711,
+      "chars": 16584,
+      "ideas": 124,
+      "role": "chapter",
+      "order": 14,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_016.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Fiacolata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Psychologie jeřábníka • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_018.html",
+      "words": 2770,
+      "chars": 17230,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 15,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_017.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Psychologie jeřábníka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Večer s opravdovým chlapem • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_019.html",
+      "words": 698,
+      "chars": 4221,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 16,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_018.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Večer s opravdovým chlapem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Představivost intelektuálů po Osvětimi • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_020.html",
+      "words": 2783,
+      "chars": 17243,
+      "ideas": 192,
+      "role": "chapter",
+      "order": 17,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_019.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Představivost intelektuálů po Osvětimi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maruška • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_021.html",
+      "words": 7226,
+      "chars": 44499,
+      "ideas": 241,
+      "role": "chapter",
+      "order": 18,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_020.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maruška",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pejskové a kočičky • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_022.html",
+      "words": 1244,
+      "chars": 7746,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 19,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_021.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pejskové a kočičky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Štafeta lidství • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_023.html",
+      "words": 3361,
+      "chars": 20310,
+      "ideas": 193,
+      "role": "chapter",
+      "order": 20,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_022.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Štafeta lidství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vliv tequily\n    na amygdalu známé osobnosti • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_024.html",
+      "words": 2687,
+      "chars": 16281,
+      "ideas": 161,
+      "role": "chapter",
+      "order": 21,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_023.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vliv tequily\nna amygdalu známé osobnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Instantní manželka • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_025.html",
+      "words": 1757,
+      "chars": 10915,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 22,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_024.html",
+      "next": "povidky_o_manzelstvi_a_o_sexu_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Instantní manželka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oskar a Terezka bez pointy\n    (Happy End) • Povídky o manželství a o sexu",
+      "file": "povidky_o_manzelstvi_a_o_sexu_026.html",
+      "words": 1272,
+      "chars": 7693,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 23,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_025.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oskar a Terezka bez pointy\n(Happy End)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Povídky o manželství a o sexu",
+      "file": "colophon.html",
+      "words": 159,
+      "chars": 990,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
+      "prev": "povidky_o_manzelstvi_a_o_sexu_026.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 51075,
+      "chars": 313214,
+      "ideas": 2176
+    },
+    "chapters": {
+      "words": 50908,
+      "chars": 312181,
+      "ideas": 2151
+    }
+  }
+}
