@@ -1,5 +1,4 @@
 {
-  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Povídky o manželství a o sexu",
@@ -24,7 +23,7 @@
       "brAfter": "MLP-text-bez1radku MLP-text-bez1radku--0-12 MLP-text-bez1radku--12-0 MLP-text-bez1radku--I MLP-text-bez1radku--I---12-0",
       "blockquote": "MLP-dopis-podpis MLP-citat MLP-citat-autor ",
       "figure": "",
-      "em": "MLP-znak-kurziva-11b",
+      "em": "MLP-znak-kurziva-11b\nMLP-text--I\n",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -33,23 +32,24 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_001.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_001.xhtml",
             "id": 0,
             "role": "cover",
-            "numberedChildren": false,
             "inToc": true,
+            "listType": "plain",
             "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_002.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_002.xhtml",
             "id": 1,
-            "role": "break",
-            "numberedChildren": false,
+            "role": "chapter",
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -57,8 +57,8 @@
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_003.xhtml",
             "id": 2,
             "role": "colophon",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -66,8 +66,8 @@
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_004.xhtml",
             "id": 3,
             "role": "colophon",
-            "numberedChildren": false,
             "inToc": true,
+            "listType": "plain",
             "children": []
           },
           {
@@ -75,239 +75,238 @@
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_005.xhtml",
             "id": 4,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Čtyři poznámky na úvod (které mi tentokrát připadají nezbytné)"
+            "title": "Čtyři poznámky na úvod (které mi tentokrát připadají nezbytné)",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_006.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_006.xhtml",
             "id": 5,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Aspoň medaili"
+            "title": "Aspoň medaili",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_007.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_007.xhtml",
             "id": 6,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Otázka"
+            "title": "Otázka",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_008.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_008.xhtml",
             "id": 7,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Jeden z posledních hezkých dní"
+            "title": "Jeden z posledních hezkých dní",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_009.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_009.xhtml",
             "id": 8,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Běž si klidně sám!"
+            "title": "Běž si klidně sám!",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_010.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_010.xhtml",
             "id": 9,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Nos"
+            "title": "Nos",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_011.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_011.xhtml",
             "id": 10,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Na oči se vyser (Boccaccio po česku)"
+            "title": "Na oči se vyser (Boccaccio po česku)",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_012.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_012.xhtml",
             "id": 11,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Kufr a transcendence"
+            "title": "Kufr a transcendence",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_013.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_013.xhtml",
             "id": 12,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Umění žít sám a šťastný"
+            "title": "Umění žít sám a šťastný",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_014.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_014.xhtml",
             "id": 13,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Dva králové"
+            "title": "Dva králové",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_015.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_015.xhtml",
             "id": 14,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Úspěšný lov"
+            "title": "Úspěšný lov",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_016.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_016.xhtml",
             "id": 15,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "IKEA v naději"
+            "title": "IKEA v naději",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_017.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_017.xhtml",
             "id": 16,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Fiacolata"
+            "title": "Fiacolata",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_018.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_018.xhtml",
             "id": 17,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Psychologie jeřábníka"
+            "title": "Psychologie jeřábníka",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_019.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_019.xhtml",
             "id": 18,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Večer s opravdovým chlapem"
+            "title": "Večer s opravdovým chlapem",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_020.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_020.xhtml",
             "id": 19,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Představivost intelektuálů po Osvětimi"
+            "title": "Představivost intelektuálů po Osvětimi",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_021.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_021.xhtml",
             "id": 20,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Maruška"
+            "title": "Maruška",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_022.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_022.xhtml",
             "id": 21,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Pejskové a kočičky"
+            "title": "Pejskové a kočičky",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_023.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_023.xhtml",
             "id": 22,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Štafeta lidství"
+            "title": "Štafeta lidství",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_024.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_024.xhtml",
             "id": 23,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Vliv tequily na amygdalu známé osobnosti"
+            "title": "Vliv tequily na amygdalu známé osobnosti",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_025.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_025.xhtml",
             "id": 24,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Instantní manželka"
+            "title": "Instantní manželka",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_026.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_026.xhtml",
             "id": 25,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Oskar a Terezka bez pointy (Happy End)"
+            "title": "Oskar a Terezka bez pointy (Happy End)",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "povidky_o_manzelstvi_a_o_sexu_027.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_027.xhtml",
             "id": 26,
             "role": "colophon",
-            "numberedChildren": false,
             "inToc": true,
+            "listType": "plain",
             "children": []
           }
-        ],
-        "numberedChildren": false
+        ]
       },
       {
         "isSection": true,
         "inToc": true,
         "id": "section-2",
-        "children": [],
-        "numberedChildren": true
+        "listType": "numbered",
+        "children": []
       }
     ]
   },
@@ -317,7 +316,7 @@
       "identifier": "urn:uuid:d1b17774-60f7-4557-a630-94ececefa28f",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-09T13:43:51.820Z"
+      "modified": "2021-12-01T22:05:29.475Z"
     },
     "chapters": [
       {
@@ -363,7 +362,7 @@
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_007.xhtml"
       },
       {
-        "titleSuggest": "Jeden z posledních hezkých dní",
+        "titleSuggest": "Jeden z posledních hezkých dní",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_008.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_008.xhtml"
@@ -387,13 +386,13 @@
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_011.xhtml"
       },
       {
-        "titleSuggest": "Kufr a transcendence",
+        "titleSuggest": "Kufr a transcendence",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_012.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_012.xhtml"
       },
       {
-        "titleSuggest": "Umění žít sám a šťastný",
+        "titleSuggest": "Umění žít sám a šťastný",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_013.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_013.xhtml"
@@ -411,7 +410,7 @@
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_015.xhtml"
       },
       {
-        "titleSuggest": "IKEA v naději",
+        "titleSuggest": "IKEA v naději",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_016.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_016.xhtml"
@@ -429,7 +428,7 @@
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_018.xhtml"
       },
       {
-        "titleSuggest": "Večer s opravdovým chlapem",
+        "titleSuggest": "Večer s opravdovým chlapem",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_019.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_019.xhtml"
@@ -447,7 +446,7 @@
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_021.xhtml"
       },
       {
-        "titleSuggest": "Pejskové a kočičky",
+        "titleSuggest": "Pejskové a kočičky",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_022.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_022.xhtml"
@@ -471,7 +470,7 @@
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_025.xhtml"
       },
       {
-        "titleSuggest": "Oskar a Terezka bez pointy\n    (Happy End)",
+        "titleSuggest": "Oskar a Terezka bez pointy\n    (Happy End)",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_026.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_026.xhtml"
@@ -547,7 +546,6 @@
       "user": "books-are-next",
       "repo": "viewegh-povidky-o-manzelstvi"
     },
-    "generatedAt": 1636465432616
+    "generatedAt": 1638396330375
   }
 }
-
