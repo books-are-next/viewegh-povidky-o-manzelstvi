@@ -1,5 +1,6 @@
 ---
 title: "Jeden z\_posledních hezkých dní"
+contentType: prose
 ---
 
 Léto prakticky skončilo. Oskar se Zuzanou byli na jezu úplně sami. Zuzana ležela na zádech; oči měla zavřené. Jez hučel.

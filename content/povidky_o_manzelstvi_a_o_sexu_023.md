@@ -1,5 +1,6 @@
 ---
 title: Štafeta lidství
+contentType: prose
 ---
 
 ### 1/

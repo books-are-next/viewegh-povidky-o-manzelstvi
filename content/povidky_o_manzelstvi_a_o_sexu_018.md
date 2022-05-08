@@ -1,5 +1,6 @@
 ---
 title: Psychologie jeřábníka
+contentType: prose
 ---
 
 ### 1/

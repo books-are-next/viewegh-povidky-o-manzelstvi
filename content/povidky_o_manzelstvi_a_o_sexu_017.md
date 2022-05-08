@@ -1,5 +1,6 @@
 ---
 title: Fiacolata
+contentType: prose
 ---
 
 ### 1/

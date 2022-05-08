@@ -1,5 +1,6 @@
 ---
 title: Aspoň medaili
+contentType: prose
 ---
 
 Stmívalo se. Když Oskar vyšel z domu, stála už na zastávce. Ani dnes neměla lyže; volné ruce ukrývala v kapsách světlého kožíšku. Podupávala v krémových kozačkách. Pocítil cosi jako spravedlivou převahu, ale jak přicházel blíž, začal si proti své vůli připadat špinavě; věděl, že má na šponovkách několik skvrn a že řídkou tkaninou jeho staré sportovní bundy hned na několika místech vyhřezají bílé chomáče vatelínu. Vzdorně překročil bariéru zahnědlého sněhu na okraji chodníku a přešel přes ulici k ní.

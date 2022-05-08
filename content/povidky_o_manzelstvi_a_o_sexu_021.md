@@ -1,5 +1,6 @@
 ---
 title: Maruška
+contentType: prose
 ---
 
 ### 1/
@@ -480,7 +481,7 @@ Potom ale objevila zajímavý inzerát.
 
   
 
-Česká kosmetická firma, hledající ženy k poloautomatizované lince na plnění krémů, nabízí mimopražským zájemkyním levné ubytování. Pracovní doba 6.00–14.30. Nástupní plat 5200 Kč, možnost odměn. Několik volných míst.
+_Česká kosmetická firma, hledající ženy k poloautomatizované lince na plnění krémů, nabízí mimopražským zájemkyním levné ubytování. Pracovní doba 6.00–14.30. Nástupní plat 5200 Kč, možnost odměn. Několik volných míst._
 
 Není divu, říkal si v duchu Oskar, ale Maruška vypadala vzrušeně: Ať tam, pěkně prosí, Oskar hned zavolá.
 

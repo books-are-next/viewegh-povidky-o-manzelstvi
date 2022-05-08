@@ -2,6 +2,7 @@
 title: |-
   Na oči se vyser
       (Boccaccio po česku)
+contentType: prose
 ---
 
 „Prosím tě, tak přijde, nebo nepřijde?“ šeptal Oskar, aby neprobudil dítě, které před chvílí usnulo. Ještě včera mu Jiřina do telefonu tvrdila, že její muž doma nebude, ale nyní se to už nezdálo tak jisté.
