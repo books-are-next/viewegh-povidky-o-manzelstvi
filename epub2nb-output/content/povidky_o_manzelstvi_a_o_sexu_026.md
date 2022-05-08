@@ -1,5 +1,6 @@
 ---
 title: "Oskar a\_Terezka bez pointy\n    (Happy End)"
+contentType: prose
 ---
 
 Oskar po pravdě řečeno vůbec neočekával, že by celá ta záležitost s Terezkou mohla vydat na nějaký delší příběh; když ji před pár měsíci zval do divadla, uměl si sice představit ledacos, ale rozhodně ne to, že by se mu po tomhle dítěti mohlo někdy v budoucnu stýskat tak, jako se mu stýská nyní (je neděle odpoledne a Terezka pobývá jako každý víkend u rodičů doma v Kadani).

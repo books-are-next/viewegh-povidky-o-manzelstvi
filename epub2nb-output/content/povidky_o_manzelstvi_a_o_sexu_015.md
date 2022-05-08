@@ -1,5 +1,6 @@
 ---
 title: Úspěšný lov
+contentType: prose
 ---
 
 ### 1/

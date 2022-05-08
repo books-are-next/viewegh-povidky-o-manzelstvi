@@ -2,6 +2,7 @@
 title: |-
   Vliv tequily
       na amygdalu známé osobnosti
+contentType: prose
 ---
 
 Telefon zazvonil ve čtvrt na devět.

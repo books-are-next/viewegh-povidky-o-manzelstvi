@@ -1,5 +1,6 @@
 ---
 title: "Umění žít sám a\_šťastný"
+contentType: prose
 ---
 
 Podobu Oskarových porozvodových večerů a lichých víkendů (každý sudý víkend měl syna) už od počátku významným způsobem ovlivňoval telefon. Většinou některá z jeho přítelkyň zavolala sama, čímž byly aby se tak řeklo karty definitivně rozdány, neboť i když Oskar neměl chuť vyrazit si právě s touto dívkou, byl příliš zdvořilý na to, aby ji odmítl (jediné, na co se výjimečně zmohl, byl alespoň krátkodobý odklad schůzky). Pokud si chtěl vybrat svobodněji, musel se tudíž angažovat sám: přitáhnout si ohmataný adresář z hladké černé kůže a listovat jím tak dlouho, dokud se nerozhodne pro tři až čtyři telefonní čísla, na která pak postupně zavolá. Ze zkušenosti věděl, že není dobré rozhodovat se pouze pro jedinou dívku, protože pokud by tato nemohla nebo nebyla doma, všechny ostatní, kterým by volal v druhém kole, by pak v jeho očích trpěly statutem pouhých náhradnic. Samozřejmě že v daný okamžik vždycky tu či onu dívku v duchu favorizoval, ale to se dalo jednoduše vyřešit tak, že si stanovil pořadí, v jakém bude zvolená čísla vytáčet (a uspěl-li hned napoprvé, na zbylá čísla už pochopitelně nevolal).

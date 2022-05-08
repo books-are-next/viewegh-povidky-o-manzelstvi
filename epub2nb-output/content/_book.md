@@ -1,6 +1,8 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
+languageCode: en
 meta:
   title: Povídky o manželství a o sexu
   identifier: urn:uuid:d1b17774-60f7-4557-a630-94ececefa28f
@@ -82,6 +84,7 @@ tocBase:
       - link: povidky_o_manzelstvi_a_o_sexu_026.html
         title: Oskar a Terezka bez pointy (Happy End)
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

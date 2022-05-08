@@ -1,5 +1,6 @@
 ---
 title: "IKEA v\_naději"
+contentType: prose
 ---
 
 ### 1/

@@ -1,5 +1,6 @@
 ---
 title: Otázka
+contentType: prose
 ---
 
 Přišlo léto, ale Oskar už byl ženatý. Kočárek tlačil jednou rukou, jako by chtěl světu naznačit, že se to všechno stalo příliš brzy.

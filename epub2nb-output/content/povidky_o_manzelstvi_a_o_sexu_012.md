@@ -1,5 +1,6 @@
 ---
 title: "Kufr a\_transcendence"
+contentType: prose
 ---
 
 ### 1/

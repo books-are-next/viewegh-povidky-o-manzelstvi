@@ -1,5 +1,6 @@
 ---
 title: Běž si klidně sám!
+contentType: prose
 ---
 
 Jednoho sobotního květnového večera někdy v polovině osmdesátých let navrhla Zuzana Oskarovi, že by se snad _alespoň dneska_ nemuseli dívat jako obvykle celý večer na televizi; řekla to s podivně naléhavým důrazem, a navíc právě ve chvíli, kdy televizní hlasatelka Marie Tomsová seznamovala diváky s přehledem večerních pořadů.

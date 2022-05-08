@@ -1,5 +1,6 @@
 ---
 title: Dva králové
+contentType: prose
 ---
 
 ### 1/

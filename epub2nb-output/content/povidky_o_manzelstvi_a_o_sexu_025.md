@@ -1,5 +1,6 @@
 ---
 title: Instantní manželka
+contentType: prose
 ---
 
 Když v sobotu asi hodinu po poledni vysypal do hrnce vroucí vody sáček s _Čínskou polévkou s houbami_, uvědomil si Oskar překvapeně, že onu nanejvýš podivnou vůni, která mu okamžitě naplnila nos, důvěrně zná. Zdálo se to neuvěřitelné, ale – Oskar ještě jednou nasál výpary z hrnce – bylo to tak: takhle byl cítit pot jeho bývalé ženy. Ano, byla to přesně ta trochu štiplavá, ale ne nepříjemná vůně, kterou ještě před třemi roky (a předtím plných dvanáct let) čichal ze Zuzaniných ručníků na aerobic, z jejího prádla visícího na dveřích v koupelně nebo z podpaží její noční košile.
