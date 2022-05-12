@@ -12,7 +12,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - povidky_o_manzelstvi_a_o_sexu_002.html
+  - promo.html
   - povidky_o_manzelstvi_a_o_sexu_005.html
   - povidky_o_manzelstvi_a_o_sexu_006.html
   - povidky_o_manzelstvi_a_o_sexu_007.html

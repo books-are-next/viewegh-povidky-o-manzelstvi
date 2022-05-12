@@ -1,7 +1,5 @@
 ---
-title: |-
-  Na oči se vyser
-      (Boccaccio po česku)
+title: Na oči se vyser     (Boccaccio po česku)
 contentType: prose
 ---
 

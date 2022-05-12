@@ -1,5 +1,5 @@
 ---
-title: "Oskar a\_Terezka bez pointy\n    (Happy End)"
+title: "Oskar a\_Terezka bez pointy     (Happy End)"
 contentType: prose
 ---
 

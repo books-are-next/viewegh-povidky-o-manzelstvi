@@ -1,7 +1,5 @@
 ---
-title: |-
-  Vliv tequily
-      na amygdalu známé osobnosti
+title: Vliv tequily     na amygdalu známé osobnosti
 contentType: prose
 ---
 
