@@ -1,7 +1,5 @@
 ---
-title: |-
-  Čtyři poznámky na úvod
-      (které mi tentokrát připadají nezbytné)
+title: Čtyři poznámky na úvod     (které mi tentokrát připadají nezbytné)
 contentType: prose
 ---
 
