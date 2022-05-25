@@ -5,11 +5,10 @@ title: Tiráž
 Michal Viewegh    
 Povídky o manželství a o sexu  
 Edice Současná česká próza  
-Ilustrace na obálce z Pixabay.com  
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
+1. vydání z 25. 5. 2022.
 
 ***
 
