@@ -1,0 +1,481 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Povídky o manželství a o sexu",
+    "identifier": "urn:uuid:d1b17774-60f7-4557-a630-94ececefa28f",
+    "author": "Michal Viewegh",
+    "publisher": "Městská knihovna v Praze",
+    "language": "en",
+    "modified": "2019-01-27T23:00:00.000Z",
+    "published": "2019-01-23T23:00:00.000Z",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.8.1"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_027.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/povidky_o__idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_povidky_o_manzel_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Čtyři poznámky na úvod (které mi tentokrát připadají nezbytné)",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Aspoň medaili",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_006.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Otázka",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_007.xhtml#toc_marker-3"
+    },
+    {
+      "title": "Jeden z posledních hezkých dní",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_008.xhtml#toc_marker-4"
+    },
+    {
+      "title": "Běž si klidně sám!",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_009.xhtml#toc_marker-5"
+    },
+    {
+      "title": "Nos",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_010.xhtml#toc_marker-6"
+    },
+    {
+      "title": "Na oči se vyser (Boccaccio po česku)",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_011.xhtml#toc_marker-7"
+    },
+    {
+      "title": "Kufr a transcendence",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_012.xhtml#toc_marker-8-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_012.xhtml#toc_marker-8-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_012.xhtml#toc_marker-8-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_012.xhtml#toc_marker-8-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_012.xhtml#toc_marker-8-5"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_012.xhtml#toc_marker-8"
+    },
+    {
+      "title": "Umění žít sám a šťastný",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_013.xhtml#toc_marker-9"
+    },
+    {
+      "title": "Dva králové",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_014.xhtml#toc_marker-10-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_014.xhtml#toc_marker-10-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_014.xhtml#toc_marker-10-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_014.xhtml#toc_marker-10-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_014.xhtml#toc_marker-10-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_014.xhtml#toc_marker-10-6"
+        },
+        {
+          "title": "7/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_014.xhtml#toc_marker-10-7"
+        },
+        {
+          "title": "8/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_014.xhtml#toc_marker-10-8"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_014.xhtml#toc_marker-10"
+    },
+    {
+      "title": "Úspěšný lov",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_015.xhtml#toc_marker-11-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_015.xhtml#toc_marker-11-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_015.xhtml#toc_marker-11-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_015.xhtml#toc_marker-11-4"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_015.xhtml#toc_marker-11"
+    },
+    {
+      "title": "IKEA v naději",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml#toc_marker-12-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml#toc_marker-12-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml#toc_marker-12-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml#toc_marker-12-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml#toc_marker-12-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml#toc_marker-12-6"
+        },
+        {
+          "title": "7/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml#toc_marker-12-7"
+        },
+        {
+          "title": "8/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml#toc_marker-12-8"
+        },
+        {
+          "title": "9/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml#toc_marker-12-9"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_016.xhtml#toc_marker-12"
+    },
+    {
+      "title": "Fiacolata",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_017.xhtml#toc_marker-13-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_017.xhtml#toc_marker-13-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_017.xhtml#toc_marker-13-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_017.xhtml#toc_marker-13-4"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_017.xhtml#toc_marker-13"
+    },
+    {
+      "title": "Psychologie jeřábníka",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_018.xhtml#toc_marker-14-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_018.xhtml#toc_marker-14-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_018.xhtml#toc_marker-14-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_018.xhtml#toc_marker-14-4"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_018.xhtml#toc_marker-14"
+    },
+    {
+      "title": "Večer s opravdovým chlapem",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_019.xhtml#toc_marker-15"
+    },
+    {
+      "title": "Představivost intelektuálů po Osvětimi",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_020.xhtml#toc_marker-16"
+    },
+    {
+      "title": "Maruška",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-6"
+        },
+        {
+          "title": "7/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-7"
+        },
+        {
+          "title": "8/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-8"
+        },
+        {
+          "title": "9/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-9"
+        },
+        {
+          "title": "10/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-10"
+        },
+        {
+          "title": "11/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-11"
+        },
+        {
+          "title": "12/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-12"
+        },
+        {
+          "title": "13/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-13"
+        },
+        {
+          "title": "14/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-14"
+        },
+        {
+          "title": "15/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-15"
+        },
+        {
+          "title": "16/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-16"
+        },
+        {
+          "title": "17/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-17"
+        },
+        {
+          "title": "18/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17-18"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_021.xhtml#toc_marker-17"
+    },
+    {
+      "title": "Pejskové a kočičky",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_022.xhtml#toc_marker-18"
+    },
+    {
+      "title": "Štafeta lidství",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_023.xhtml#toc_marker-19-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_023.xhtml#toc_marker-19-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_023.xhtml#toc_marker-19-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_023.xhtml#toc_marker-19-4"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_023.xhtml#toc_marker-19"
+    },
+    {
+      "title": "Vliv tequilyna amygdalu známé osobnosti",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_024.xhtml#toc_marker-20"
+    },
+    {
+      "title": "Instantní manželka",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_025.xhtml#toc_marker-21"
+    },
+    {
+      "title": "Oskar a Terezka bez pointy (Happy End)",
+      "href": "OEBPS/Text/povidky_o_manzelstvi_a_o_sexu_026.xhtml#toc_marker-22"
+    }
+  ]
+}

@@ -316,7 +316,7 @@
       "identifier": "urn:uuid:d1b17774-60f7-4557-a630-94ececefa28f",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T22:05:29.475Z"
+      "modified": "2019-01-27T23:00:00.000Z"
     },
     "chapters": [
       {
@@ -344,7 +344,7 @@
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_004.xhtml"
       },
       {
-        "titleSuggest": "Čtyři poznámky na úvod\n    (které mi tentokrát připadají nezbytné)",
+        "titleSuggest": "Čtyři poznámky na úvod     (které mi tentokrát připadají nezbytné)",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_005.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_005.xhtml"
@@ -380,7 +380,7 @@
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_010.xhtml"
       },
       {
-        "titleSuggest": "Na oči se vyser\n    (Boccaccio po česku)",
+        "titleSuggest": "Na oči se vyser     (Boccaccio po česku)",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_011.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_011.xhtml"
@@ -458,7 +458,7 @@
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_023.xhtml"
       },
       {
-        "titleSuggest": "Vliv tequily\n    na amygdalu známé osobnosti",
+        "titleSuggest": "Vliv tequily     na amygdalu známé osobnosti",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_024.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_024.xhtml"
@@ -470,7 +470,7 @@
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_025.xhtml"
       },
       {
-        "titleSuggest": "Oskar a Terezka bez pointy\n    (Happy End)",
+        "titleSuggest": "Oskar a Terezka bez pointy     (Happy End)",
         "subtitleSuggest": "",
         "filename": "povidky_o_manzelstvi_a_o_sexu_026.md",
         "xhtml": "povidky_o_manzelstvi_a_o_sexu_026.xhtml"
@@ -542,10 +542,7 @@
       "para-style-override-1",
       "para-style-override-2"
     ],
-    "github": {
-      "user": "books-are-next",
-      "repo": "viewegh-povidky-o-manzelstvi"
-    },
-    "generatedAt": 1638396330375
+    "github": null,
+    "generatedAt": 1653403450934
   }
 }
