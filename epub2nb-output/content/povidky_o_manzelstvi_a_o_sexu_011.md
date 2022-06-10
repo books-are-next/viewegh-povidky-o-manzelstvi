@@ -3,6 +3,8 @@ title: Na oči se vyser     (Boccaccio po česku)
 contentType: prose
 ---
 
+<section>
+
 „Prosím tě, tak přijde, nebo nepřijde?“ šeptal Oskar, aby neprobudil dítě, které před chvílí usnulo. Ještě včera mu Jiřina do telefonu tvrdila, že její muž doma nebude, ale nyní se to už nezdálo tak jisté.
 
 Když se k ní odpoledne vydal, měl skvělou náladu – po dvaceti dnech dostal konečně vycházku. Nechtělo se mu do podzemí metra, a tak jel tramvají, přestože to byla delší cesta; seděl na vyhřívaném sedadle a díval se, jak nad Vltavou krouží v mrazivém povětří rackové a jak se slabé lednové slunce opírá do zaprášených fasád domů na nábřeží, jejichž okna k němu téměř nepřetržitě vysílala oslepující záblesky. Ještě cestou od tramvaje se cítil bezmála povzneseně a na Jiřinu a dokonce i na jejího půlročního syna se upřímně těšil (také ona vůně koupelového heřmánku, která při jeho předchozích návštěvách v malé garsoniéře pokaždé dominovala, představovala vítaný protipól všem těm kasárenským smradům), ale nyní, po třech hodinách strávených v malé, přetopené a neuklizené místnosti, byla veškerá jeho euforie dávno ta tam. Celou dobu musel sedět ve značně nepohodlné pozici na rozestlané manželské posteli a poslouchat smrtící kombinaci dětského pláče a zvuků z televize.
@@ -114,3 +116,5 @@ Oskarovo leknutí bylo srovnatelné s tím předchozím. Pokusil se Jiřinu ods
 Olízla si rty a posadila se rozkročmo na okraj postele.
 
 „Vošukej mě, vojáku,“ nařídila Oskarovi hlasitě.
+
+</section>

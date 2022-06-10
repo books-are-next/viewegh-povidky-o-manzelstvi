@@ -3,6 +3,8 @@ title: Představivost intelektuálů po Osvětimi
 contentType: prose
 ---
 
+<section>
+
 Byl pátek večer a v hospodě nebyla volná už ani jediná židle, ale Oskarovi, který jako obvykle strávil celý den v samotě a tichu své pracovny, přišel všechen ten hluk docela vhod. Vrchní zrovna sbíral prázdné půllitry.
 
 „Ještě tři?“ zeptal se.
@@ -384,3 +386,5 @@ Helmut nešťastně rozhodil rukama a vyčítavě na své přátele pohlédl.
 Výčepní se zamyšleně opřel o nerezový pult.
 
 „Hlavně si, pánové, nikdy nenechávejte chcát do vočí,“ pronesl varovně.
+
+</section>

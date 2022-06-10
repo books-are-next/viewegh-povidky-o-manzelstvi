@@ -3,6 +3,8 @@ title: Dva králové
 contentType: prose
 ---
 
+<section>
+
 ### 1/
 
 Oskar vzhlédl od novin k proskleným dveřím kavárny právě ve chvíli, kdy se v nich objevila Vanda. Rozhlížela se po sále, ale zatím ho ještě nespatřila. Oskar odložil noviny, zdvihl ruku a držel ji nahoře, dokud si ho Vanda nevšimla, a potom se s úsměvem díval, jak se k němu jeho dlouholetá kamarádka blíží uličkou mezi stolky. Ve svých dvaatřiceti byla dosud velmi štíhlá, ale pořád dělala ty komické _přehlídkové_ kroky a příliš široký úsměv jí jako vždycky nehezky obnažoval dásně. Měla dlouhé nohy, ale na Oskarův vkus poněkud hubené a šlachovité, a bohužel i taková ta podivně špičatá kolena. Světlé, trochu řídké vlasy měla i dnes pečlivě uhlazené a jakoby úplně přilepené k hlavě – když si kdysi všiml, jak pod nimi Vandě prosvítá bledá kůže lebky, skoro ho to vyděsilo. Nyní ale s pozorností doslova starosvětskou vstal, políbil Vandu přátelsky na obě tváře, pomohl jí z kabátu a dvorně jí odsunul židli.
@@ -296,3 +298,5 @@ Muž pokrčil rameny.
 „Co?“ opáčil kysele Oskar. „To mě fakticky zajímá.“
 
 „Stáří,“ pravil muž. „Spása se blíží.“
+
+</section>

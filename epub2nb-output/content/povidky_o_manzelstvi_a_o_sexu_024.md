@@ -3,6 +3,8 @@ title: Vliv tequily     na amygdalu známé osobnosti
 contentType: prose
 ---
 
+<section>
+
 Telefon zazvonil ve čtvrt na devět.
 
 Oskar se rozhodl, že ho nezvedne, ale při druhém zazvonění dívka ležící vedle něj zasténala a přikryla si rozcuchanou hlavu polštářem. Všiml si, že má na nahých zádech několik červených pupínků. Posadil se na posteli a žaludek se mu zhoupl. Krk měl celý ztuhlý, vlasy zpocené (zhruba před hodinou si musel vzít dva paraleny). Hlava ho dosud bolela, ale naštěstí už ne tolik. Několikrát si odkašlal a zahýbal svaly kolem úst.
@@ -39,7 +41,9 @@ Dívka nespokojeně mlaskla.
 
 „Spi, proboha,“ řekla. „Spi a nevotravuj.“
 
-  
+</section>
+
+<section>
 
 Jmenovala se Andrea. Bylo jí sotva dvacet a podle Oskarova odhadu nevážila ani padesát kilo, ale včera před jeho očima postupně vypila osm zlatých tequil. Do baru přišla s trochu starší, ne právě hezkou dívkou, která brzy pochopila, jak se bude situace vyvíjet, a zhruba po půldruhé hodině se měla k odchodu.
 
@@ -83,7 +87,9 @@ Otočila se a poprvé toho rána se na něho podívala, ale nebyl to zrovna lá
 
 Její dech byl tak špatný, až musel couvnout.
 
-  
+</section>
+
+<section>
 
 Asi po deseti minutách telefon zazvonil znovu. Dívka vulgárně zaklela a Oskar se přes ni natáhl pro sluchátko. Volala novinářka ze známého časopisu pro ženy: dělají prý takovou anketu, v níž se dotazují známých osobností, co jim úspěch dal – a co jim vzal.
 
@@ -324,3 +330,5 @@ Oskar slyšel, že její pohotová replika vzbudila v redakci bouřlivé vesel�
 „Říkal jsem ti přece, že mám něco s amygdalou…“
 
 Ještě chvíli s novinářkou tlachal, ale potom se náhle rozloučil a zavěsil. Lehl si, odstrčil polštář, na kterém spala Andrea, přitáhl si svůj a pokusil se zaspat kocovinu ze sebe sama.
+
+</section>

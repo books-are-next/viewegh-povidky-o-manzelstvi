@@ -3,6 +3,8 @@ title: Psychologie jeřábníka
 contentType: prose
 ---
 
+<section>
+
 ### 1/
 
 Oskar chodil cvičit dvakrát týdně, pokud možno kolem poledne, protože v té době býval v posilovně téměř pokaždé sám, což mu nanejvýš vyhovovalo. Měl rád, když se mohl v klidu převléknout v prázdné šatně, rozsvítit si v sále, počkat, až všechny zářivky postupně naskočí, a založit si do magnetofonu oblíbenou kazetu. Především však měl celou posilovnu jenom pro sebe, a nemusel tudíž čekat, až se místo na jednotlivých nářadích uvolní, nebo shánět hadr a s potlačovaným odporem utírat z černé koženky čísi pot; navíc měl záruku, že k němu právě ve chvíli, kdy se pokouší dostat nad hlavu osmdesátikilovou činku, nepřistoupí některý z přítomných mladých svalovců, který ho nešťastnou náhodou poznal, a nebude se ho ptát, zda jsou jeho romány _hodně autobigrafické_.
@@ -280,3 +282,5 @@ Ještě téhož odpoledne si ji odvedl domů. Byla opilá, ale ne tolik, aby v 
 „Přestaň,“ nařídil jí a přetáhl jí přes hlavu černé tričko (trochu zklamaně si uvědomil, že její podprsenku vlastně už zná). „Upozorňuju tě, že všecky psychický kecy jsou vod týhle chvíle naprostý tabu.“
 
 V roli jeřábníka se mu líbilo čím dál tím víc – a rozhodně ji nehodlal hned tak opustit.
+
+</section>

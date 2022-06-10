@@ -3,6 +3,8 @@ title: Štafeta lidství
 contentType: prose
 ---
 
+<section>
+
 ### 1/
 
 Nyní se už ona hnědovlasá štíhlá dívka na Oskara zeširoka usmívala jako na svého dobrého známého, ale Oskar si před chvílí při svém příchodu dobře všiml, jak se v její hezké tvářičce nejprve objevilo jakési bezmála smrtelné leknutí a jak hned vzápětí cosi pošeptala své kolegyni. Líbila se mu, a tak její úsměv opětoval. I on sám měl neodbytný pocit, že ji odkudsi zná, jenomže ve stavu, v jakém se nacházel, si ji při nejlepší vůli nedokázal nikam zařadit. Nevadí, říkal si opile, všechno se v pohodě vyřeší.
@@ -386,3 +388,5 @@ Tázavě na něho hleděla.
 „Napustíš ji?“ usmála se snaživě.
 
 Přešla k nočnímu stolku, shýbla se a vyndala z něj složené prostěradlo, které zručně natáhla na postel. Zatímco se skláněla nad lůžkem, Oskar seděl na okraji vany, ruku držel pod mohutným proudem horké vody a pozoroval její hladkou kůži nad bílým okrajem punčoch a malý pevný zadek ve vysoko vykrojených kalhotkách. Věděla, že se dívá – poznal to podle jejích pohybů. Otočil se čelem k narůžovělým kachlíčkům, několikrát stiskl dávkovač na plastové láhvi s koupelovou pěnou a rozevřenou dlaní začal vodu zamyšleně míchat. Simona se postavila na dva kroky před něj, vyčkala, až se k ní jeho pohled znovu vrátí, a potom si jediným pohybem přetáhla šaty přes hlavu; měla krásně klenutá ňadra a pevné, štíhlé břicho, ale Oskarovy oči po něm sklouzly až úplně dolů – až k jejím drobným prstům, které se pod bílými punčochami bez přestání pohybovaly.
+
+</section>

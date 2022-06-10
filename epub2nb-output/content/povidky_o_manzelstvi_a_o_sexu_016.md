@@ -3,6 +3,8 @@ title: "IKEA v\_naději"
 contentType: prose
 ---
 
+<section>
+
 ### 1/
 
 Víkendy neměl Oskar nikdy příliš v lásce; dokonce i v době, kdy jeho manželství fungovalo ještě dobře, se v sobotu ráno občas probouzel s nepřekonatelnou nechutí být tím báječným manželem, který u snídaně vtipkuje s manželkou a se synem a potom pro ně vymyslí nějaký fantastický výlet… A už vůbec neměl rád _krásné, teplé a slunné víkendy_ (jak s povinným úsměvem říkávala moderátorka televizní relace o počasí), kdy se v pražských ulicích náhle vyrojily páry a rodiny oblečené tak, jako kdyby nebyly v Holešovicích nebo na Smíchově, ale na plážovém korzu někde v Bibione; barevná tílka s hlubokými průramky a krátké trenky nemilosrdně odhalovaly bledé, po zimě neopálené nohy, pihovaté paže a další kosmetické chyby. Celou tu bídu lidstva. Na jaře a v létě většina Pražáků už v pátek odjížděla na chaty a chalupy a Oskar se ženou a synem tu museli zůstat, společně s dalšími podobnými životními ztroskotanci, kteří se na chatu, natož pak chalupu, nikdy nezmohli. Nahlas to samozřejmě nikdo nevyslovil (vznikla by tak s velkou pravděpodobností hádka a na hádky si na počátku víkendu bylo třeba dávat zatraceně velký pozor), ale všichni to věděli. Předstírali sice, že je všechno v pořádku, že se docela dobře baví i v Praze, ale v duchu záviděli těm, kteří se toho času opalovali na voňavém, čerstvě posekaném trávníku někde před chatou v Brdech. Pozoroval ty rodinky, bezcílně se potulující vylidněnou Prahou, už dlouhá léta: tu jejich přehnanou vděčnost za sebemenší náznak zábavy, za každého okostýmovaného tatrmana na Karlově mostě, před kterým mohli zabít deset minut zoufale se vlekoucího sobotního času, za každou opelichanou veverku ve Stromovce, kterou bylo možno v neděli ukázat znuděným dětem… Jako by to sám neznal. Někdy se jeho oči střetly s pohledem jiných osamocených rodin či párů: Jak proboha všechny ty strašlivé víkendy snášíte _vy_? ptával se jich očima Oskar. – O čem to mluví? Co má na mysli? předstírali nechápavost, ale stejně ho neoklamali.
@@ -398,3 +400,5 @@ Oskar jim dal vizitku, ale sám nejlíp věděl, že je to jen bezobsažné gest
 Ve tváři měla podivně starostlivý výraz.
 
 Když vyšel otáčivými dveřmi ven do tmy a zamířil k zastávce autobusu, potěšeně si uvědomil, že nábytek přivezou již zítra – byla zde tudíž naděje, že jeho vybalování a rozmísťování mu snad aspoň částečně zaplní onu obvyklou nedělní prázdnotu, která už na něho doma číhala.
+
+</section>

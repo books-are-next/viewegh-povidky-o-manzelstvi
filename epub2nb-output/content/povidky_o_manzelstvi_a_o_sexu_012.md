@@ -3,6 +3,8 @@ title: "Kufr a\_transcendence"
 contentType: prose
 ---
 
+<section>
+
 ### 1/
 
 Ulice na pražské periferii, kde Oskar se Zuzanou získali před několika lety byt, vedla mezi čtyřmi stejně zaprášeně působícími paneláky, jako byl ten jejich, a mírně se svažovala k velkému oplocenému čtverci udusané černohnědé hlíny, jenž sloužil místním dětem jako hřiště. U chodníku parkovalo jen pár aut (většina obyvatel sídliště odjela jako obvykle na víkend mimo Prahu), takže přijíždějící nablýskaný taxík mohl zastavit přímo před vchodem. Taxíkář mrkl na hodiny v přístrojové desce, stisknutím knoflíku si stáhl okno (vlastnil vůz teprve tři týdny a všechny podobné drobné úkony mu stále ještě působily tichou radost) a na volant si rozložil sobotní Blesk; spíše novinami listoval, než je skutečně četl, a co chvíli vzhlédl k proskleným dveřím panelákového vchodu.
@@ -92,3 +94,5 @@ Odstrkoval ji, naoko vraštil čelo, ale jeho zachmuřeným výrazem přitom pra
 „Nastrouháš mi brambory?“
 
 Udělal otrávený obličej, ale do sestavování kuchyňského robota se pustil s viditelným elánem. S úsměvem sledovala, jak zručně nasazuje struhadlo na středový šroub, ale potom ucítila, že jí začínají vlhnout oči. Přistoupila zezadu k synovi, objala ho a přitiskla k sobě tak silně, až hlasitě vyhekl – což je naštěstí oba rozesmálo.
+
+</section>
