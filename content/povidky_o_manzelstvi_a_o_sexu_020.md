@@ -5,8 +5,6 @@ contentType: prose
 
 Byl pátek večer a v hospodě nebyla volná už ani jediná židle, ale Oskarovi, který jako obvykle strávil celý den v samotě a tichu své pracovny, přišel všechen ten hluk docela vhod. Vrchní zrovna sbíral prázdné půllitry.
 
-  
-
 „Ještě tři?“ zeptal se.
 
 Byl to zavalitý, zhruba padesátiletý muž s prošedivělými skráněmi; kolem zarudlých koutků nápadně světlých očí měl celé vějíře hlubokých vrásek.

@@ -7,15 +7,11 @@ contentType: prose
 
 Víkendy neměl Oskar nikdy příliš v lásce; dokonce i v době, kdy jeho manželství fungovalo ještě dobře, se v sobotu ráno občas probouzel s nepřekonatelnou nechutí být tím báječným manželem, který u snídaně vtipkuje s manželkou a se synem a potom pro ně vymyslí nějaký fantastický výlet… A už vůbec neměl rád _krásné, teplé a slunné víkendy_ (jak s povinným úsměvem říkávala moderátorka televizní relace o počasí), kdy se v pražských ulicích náhle vyrojily páry a rodiny oblečené tak, jako kdyby nebyly v Holešovicích nebo na Smíchově, ale na plážovém korzu někde v Bibione; barevná tílka s hlubokými průramky a krátké trenky nemilosrdně odhalovaly bledé, po zimě neopálené nohy, pihovaté paže a další kosmetické chyby. Celou tu bídu lidstva. Na jaře a v létě většina Pražáků už v pátek odjížděla na chaty a chalupy a Oskar se ženou a synem tu museli zůstat, společně s dalšími podobnými životními ztroskotanci, kteří se na chatu, natož pak chalupu, nikdy nezmohli. Nahlas to samozřejmě nikdo nevyslovil (vznikla by tak s velkou pravděpodobností hádka a na hádky si na počátku víkendu bylo třeba dávat zatraceně velký pozor), ale všichni to věděli. Předstírali sice, že je všechno v pořádku, že se docela dobře baví i v Praze, ale v duchu záviděli těm, kteří se toho času opalovali na voňavém, čerstvě posekaném trávníku někde před chatou v Brdech. Pozoroval ty rodinky, bezcílně se potulující vylidněnou Prahou, už dlouhá léta: tu jejich přehnanou vděčnost za sebemenší náznak zábavy, za každého okostýmovaného tatrmana na Karlově mostě, před kterým mohli zabít deset minut zoufale se vlekoucího sobotního času, za každou opelichanou veverku ve Stromovce, kterou bylo možno v neděli ukázat znuděným dětem… Jako by to sám neznal. Někdy se jeho oči střetly s pohledem jiných osamocených rodin či párů: Jak proboha všechny ty strašlivé víkendy snášíte _vy_? ptával se jich očima Oskar. – O čem to mluví? Co má na mysli? předstírali nechápavost, ale stejně ho neoklamali.
 
-  
-
 Po rozvodu měl každý sudý víkend syna (na něhož se po oněch dlouhých čtrnácti dnech pokaždé těšíval natolik, že mu pak vůbec nevadilo prodírat se s ním mezi turisty po Karlově mostě nebo špacírovat po Stromovce), ale liché víkendy byly tradičně mizerné – obzvlášť za pěkných jarních či letních víkendů, na které si z nějakého důvodu nedohodl žádný program, se mu ona stará averze připomínala s nečekanou intenzitou. Za okny jeho pracovny zářilo blankytně modré nebe, slunce propalovalo závěsy a v parku voněly kvetoucí magnólie – a on aby hnil doma? S pocitem porážky si oblékl krátké tílko a trenky a šel se zahanbeně připojit k rodinkám, procházejícím se v parku na Vyšehradě.
 
 ### 2/
 
 Také na nadcházející víkend Oskar žádný program neměl, ale definitivní rozhodnutí, co bude dělat, stále odkládal; koneckonců byl počátek prosince a podle předpovědi mělo pršet, takže mohl klidně zůstat doma, aniž se musel obávat, že by ho slunné počasí lákalo k toulkám v přírodě. V pátek dopoledne si četl a odpoledne odjel do centra nakupovat vánoční dárky – odjakživa měl docela rád onu zvláštní atmosféru prosincových odpolední, kdy se už po čtvrté hodině začne snášet na město tma, přecpané tramvaje se posouvají potemnělými studenými ulicemi jako nějaká obrovská akvária a davy lidí, vracející se teprve z práce, pokukují skrze vánočně vyzdobené výlohy hluboko dovnitř ostře osvětlených obchodů… Koupil pár drahých hloupostí, nechal si je elegantně zabalit, vrátil se domů, udělal si vcelku ucházející večeři a potom si více než dvě hodiny četl; ke spánku se pak ukládal s uspokojivým pocitem, že tenhle víkend nezačal tak úplně špatně.
-
-  
 
 V sobotu už od rána padal z šedivého nebe sníh s deštěm a Oskar se navíc neprobudil právě v nejlepší náladě. Došel si jako každou sobotu pro noviny, ale když se na zpáteční cestě prodíral zástupem svatebčanů před radnicí (za jejímž rohem bydlel), tvářil se nasupeně a nepřátelsky. Domů se vrátil celý mokrý. Nasnídal se, přečetl jedny noviny, uvařil si kávu, přečetl druhé noviny, ale potom začal pociťovat známou víkendovou nerozhodnost. Rukopis měl dopsaný a odevzdaný a nemělo smysl začínat teď cokoli jiného. Samozřejmě si může hodinku či dvě dělat poznámky k příští knize nebo si číst – ale co s těmi dalšími osmi či deseti prázdnými hodinami, které zbývaly do chvíle, než si bude moci jít zase lehnout? Několikrát se prošel po bytě a potom se posadil ke kuchyňskému stolu. Pod okny začala zběsile troubit auta svatebčanů.
 
@@ -29,15 +25,11 @@ Skutečnost, že za více než pět měsíců, které uplynuly od nastěhování
 
 Když ale na Zličíně vystupoval z metra, poprvé o svém nápadu zapochyboval; ze všech vagónů se hrnuly celé zástupy lidí, kteří očividně hodlali strávit pošmournou sobotu na stejném místě jako on. Parkoviště před obchodním domem bylo do posledního místa zaplněné a před otáčivými vstupními dveřmi stála dokonce fronta. Takhle si to Oskar nepředstavoval.
 
-  
-
 Více než půl hodiny se prodíral davem a prohlížel si vystavené pohovky; líbily se mu dva nebo tři typy, ale nedokázal říct, který nejvíc, a navíc se neuměl rozhodnout pro barvu potahové látky. Se stolky a křesly to bylo podobné, a kromě toho přece nemohl koupit nějaké křeslo, aniž by předtím s konečnou platností vybral pohovku; pro koberec ostatně platilo totéž. Chtěl se s někým poradit, ale všichni prodavači se věnovali někomu jinému. Prokličkoval mezi lidmi do oddělení svítidel, ale žádná stojací lampa se mu nelíbila. Podíval se na hodinky: strávil tu už téměř hodinu, začínal mít hlad a bolely ho nohy – a neměl přitom za sebou jediný konkrétní výsledek. Rozhodl se, že si nejdříve dojde na oběd, a potom to všechno naráz rozhodne.
 
 ### 4/
 
 Fronta v samoobslužné restauraci byla ještě delší než předtím fronta u vchodu. Oskar chvíli odolával pokušení všechno vzdát a okamžitě odtud zmizet, ale potom se trudnomyslně zařadil na konec; když se konečně dostal na řadu, dal si lososa se švédskou omáčkou, brokolicí a bramborem a dvě sotva dvoudecové lahvičky bílého vína. Jídlo vypadalo dobře, což mu trochu zlepšilo náladu. Nikde ovšem nebyl ani jediný volný stůl, a tak po krátké úvaze zamířil s tácem k mladé dvojici, brýlatému chlapci a dívce v žlutohnědých kostkovaných šatech, kteří na rozdíl od ostatních dvojic seděli nikoli naproti sobě, nýbrž vedle sebe, takže dvě protější místa zůstala volná. Popíjeli kávu a skláněli přitom hlavy nad Oskarovi důvěrně známým čtverečkovaným papírem, po kterém mladík soustředěně posouval malé žluté obdélníčky představující jednotlivé kusy nábytku; když se jich Oskar formálně otázal, zda si může přisednout, vzhlédli k němu nejprve trochu překvapeně, ale potom oba ochotně přikývli a udělali mu na stole místo pro tác.
-
-  
 
 „Dobrou chuť,“ popřála dokonce Oskarovi dívka.
 
@@ -74,8 +66,6 @@ Fronta byla už o něco kratší, takže se dostal na řadu poměrně brzy, ale
 ### 5/
 
 Když bez jediného slova postavil tác na stůl, dívka s chlapcem – jak Oskar předpokládal – na něho hleděli poněkud užasle.
-
-  
 
 „Dovolil jsem si přinést sekt,“ oznámil jim nenuceně. „Bude se nám lépe přemýšlet.“
 
@@ -223,8 +213,6 @@ Když dopili, navrhl chlapec, jestli si nedají s Oskarem ještě sekt; rezolut
 
 „Nepleteme se, že ne?“ řekla Oskarovi dívka, když dočasně osaměli. „Jste ten spisovatel, nebo se pletu?“
 
-  
-
 „Nepletete,“ řekl Oskar, ale žádnou radost z toho neměl.
 
 „Věděla jsem to hned od začátku,“ řekla spokojeně dívka. „Petr vás nepoznal, ale já jo.“
@@ -251,8 +239,6 @@ Dívka na chlapce tázavě pohlédla, ale potom ztěžka vstala – těhotenstv
 
 Odvedl je do jednoho z několika uměle vytvořených obývacích pokojů na patře; ten, který vybral, tvořily v podstatě jen dvě červeně natřené stěny ve tvaru písmene L: podél delšího ramene stála poloprázdná bílá knihovna, osvětlená několika bodovými reflektory; po policích bylo naaranžováno několik švédsky psaných knih a na pojízdném televizním stolku stála maketa televizoru. Na kratší stěně visela reprodukce obrazu Paula Kleea; pod ním byla sytě žlutá pohovka (jedna z těch, o které Oskar předtím uvažoval) a naproti ní stál malý konferenční stolek s vázou plnou umělých růží a dvě stejná červená křesla. Jediné volné místo v rohu zabírala prosklená černá vitrína s několika sadami skleniček; ošlapanou dřevěnou podlahu částečně zakrýval černý koberec s moderním vzorem.
 
-  
-
 „Pojďte dál a posaďte se,“ řekl Oskar. „Omluvte ten nepořádek.“
 
 Přistrčil dívce jedno z křesel a pomohl jí usednout; potom k ní přitáhl i druhé křeslo, s kamenným výrazem v obličeji vyčkal, až se dívka se smíchem vyzuje, a podsunul jí je pod nohy coby podnožku. Vzal od chlapce tác, postavil jej na konferenční stolek, otevřel obě láhve a rozlil je do skleniček. Zástupy lidí procházející uličkou ho pozorovaly – někteří s pobavenými sympatiemi, jiní nechápavě nebo i pohoršeně – ale teď už nebylo možné přestat. Sedl si vedle chlapce na pohovku, přiťukl si s ním, napil se a spokojeně se rozhlédl.
@@ -272,8 +258,6 @@ Zdálo se, že i on se dobře baví. Oskarovi byl čím dál sympatičtější.
 ### 8/
 
 Oskar právě otvíral nové dvě láhve, které před okamžikem při­nesl, když se dostavil jakýsi postarší prodavač v modrém firemním plášti; s úšklebkem pohlédl na stolek plný sklenic a láhví a oznámil jim, _že tohle je zakázáno_ a že budou muset odejít. Oskara to ovšem ani v nejmenším nevyvedlo z míry.
-
-  
 
 „Mýlíte se,“ pravil s přátelským úsměvem, sklenici v ruce. „Vyzkoušet si vystavený nábytek je samozřejmě zákazníkům dovoleno. Nechcete si mimochodem s námi připít?“
 
@@ -378,8 +362,6 @@ Pochopil už, že to Oskar s koupí nábytku myslí vážně, a jeho bojové o
 ### 9/
 
 U pokladen nábytek zaplatil a u vedlejší přepážky si pak všichni sjednali odvoz. Dívka, která si zřejmě v nestřežené chvíli vyžádala chlapcovu peněženku, se Oskarovi pokusila příslušný obnos vnutit.
-
-  
 
 „Ale no tak,“ napomenul ji Oskar. „Nezlobte mě.“
 

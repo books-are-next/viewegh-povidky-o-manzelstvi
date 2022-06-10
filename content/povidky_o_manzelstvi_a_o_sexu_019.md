@@ -13,6 +13,4 @@ Aby nedošlo k mýlce: Oskar nikdy (snad s výjimkou puberty) netrpěl žádn�
 
 Dana přišla v plačtivé náladě: ve škole to nestíhá, včera někde ztratila tramvajenku s čtvrtletním kuponem, a když si ke všemu dnes odpoledne kupovala nové džíny, jakési dvě mladé prodavačky nahlas urážlivě okomentovaly šíři jejích boků. Oskar dostal na ty káči upřímnou zlost a s Danou neméně upřímně soucítil – přivinul si ji k sobě a za pomoci několika klasických psychologických triků _(Polož si otázku: bude ti na tom záležet ode dneška za rok?)_ její žal poměrně rychle utišil. Potom jí navrhl, aby si vyšli do nějaké dobré restaurace, ale Daně se už nikam ven nechtělo, a tak pouze telefonicky objednal dvě pizzy s tuňákem a láhev vína; když diktoval do telefonu adresu, přistihl se, že mluví o něco hlubším hlasem než obvykle, ale Dana si ničeho nevšimla.
 
-  
-
 Po večeři Danu podebral v pase, zdvihl ji a odnesl do ložnice, kde se pak nebývale dlouze milovali. Nakonec mu Dana položila na mohutný hrudník svou zrudlou tvář a Oskar ji zamyšleně hladil po vlasech, prohlížeje si přitom své drobné ruce. Stejně by nemuselo být špatné, napadlo ho, kdyby se i chlapi mohli občas o někoho takzvaně opřít.

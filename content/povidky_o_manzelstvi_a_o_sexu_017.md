@@ -7,8 +7,6 @@ contentType: prose
 
 Za sedm týdnů jejich tajného vztahu to byla první společná noc, takže si nemohli dovolit ztrácet čas: svlékat se začali už na chodbě. Do pokoje se připotáceli téměř nazí, s dvěma překážejícími chumly šatstva v náručích. Oskar padl zády na postel a Monika se nad něho obkročmo postavila; vzepřel se na lokti a volnou rukou si ji stáhl na obličej. Ona ani on, jak si svěřili později, dosud nic podobného nezažili. Monika se vzpínala nad jeho ústy a křičela tak silně, jako kdyby se ve studené řece pod okny hotelového pokoje právě topil její čtyřletý syn.
 
-  
-
 Tahle jediná noc způsobila, že se v příštích dnech a týdnech oba přestali kontrolovat: Monika o Oskarovi pod nejrůznějšími záminkami mluvila přímo před Kamilem, svým manželem a Oskarovým dlouholetým kamarádem (nemůže si prý pomoct, vysvětlovala zděšenému Oskarovi, někdy prostě _musí_ jeho jméno vyslovit…), a Oskar zase nevysvětlitelně často Monice telefonoval, doufaje přitom, že Kamil nebude doma. Jednou se neovládli vůbec a v pravé poledne se líbali v přeplněné městské kavárně.
 
 Výsledek se dostavil: oba začali mít nepříjemný pocit, že Kamil cosi tuší. Oskar ho měl upřímně rád a představa, že ho přítel byť jen podezírá, byla pro něj nesnesitelná. Začali si tedy dávat pozor. Během příštích čtrnácti dnů měli pouhé dvě krátké schůzky a jednou se zcela náhodně setkali v samoobsluze Meinl (kde se pak k sobě tiskli – s kamennými výrazy v obličejích – ve frontě před pokladnou). Venku před obchodem, celá zoufalá, že se nemohou více vidět, vyslovila Monika onen nápad: jedou v únoru s Kamilem, Richardem a jeho ženou do Dolomitů lyžovat – ať jede Oskar s nimi.
@@ -27,8 +25,6 @@ Tohle je možná nejlepší ženská mého života, uvědomil si Oskar. Jenomže
 
 Společná dovolená – ukázalo se brzy – nebyl šťastný nápad. Oskar vzal s sebou Evu, docela hezkou a navíc celkem chytrou devatenáctiletou studentku, s níž se kdysi seznámil po jednom z autorských čtení; choval se k ní co možná mile, na pokoji si ji občas vesele dobíral, ale žádnou velkou lásku k ní necítil. Nejspíš vůbec nic nepoznala, ale přesto si vyčítal, že ji do toho zatáhl. S Monikou se nyní viděli šestnáct hodin denně: společně snídali, obědvali, koulovali se a dokonce spolu občas jezdili na vleku, kde se pokradmu dotýkali zkřehlými prsty, ale paradoxně se cítil spíš hůř než líp. Monice pod lyžařskou čepicí pokaždé slehl účes a nos měla od mrazu komicky červený, ale Oskarovi připadalo, že nikdy ve svém životě nepoznal krásnější ženu. Každý večer, když s Evou po boku vcházel do hotelové jídelny, ze všeho nejdříve vyhledal Moniku očima; když bylo její místo u stolu dosud prázdné, žaludek se mu sevřel žárlivostí a steskem. Za chvíli s Kamilem přišla – v čistém tričku, s čerstvě umytými, často ještě vlhkými vlasy, ústa lehce obtažená rtěnkou… Oskar ztrácel řeč a krev mu nezadržitelně stoupala do tváří.
 
-  
-
 Předposlední den se Kamil Moniky zeptal, jestli není zamilovaná.
 
 Jak na to proboha přišel? pravila Monika _pobaveně_, ale srdce se jí poplašeně rozběhlo. Kamil pokrčil rameny: Vypadá prý tak, řekl suše.
@@ -38,8 +34,6 @@ To bylo všechno, ale Oskara to upřímně vyděsilo. Slíbili si, že se pokus�
 ### 3/
 
 Závěrečný den byla na programu _fiacolata_, večerní lyžování s hořícími pochodněmi. V pět odpoledne vyjeli společně s průvodkyní a ostatními účastníky zájezdu poslední lanovkou do jedné z několika chat na samém úpatí ledovce, kde byla přichystána slavnostní večeře. Po večeři pili _chianti_ a čekali na tmu. Víno bylo dobré a nálada u stolu překvapivě uvolněná, ale Oskar umíral láskou.
-
-  
 
 Něco takového zažil v životě jen jednou – v osmnácti se Zuzanou. Od té doby se mu nikdy nic podobného nestalo. Nyní, v pětatřiceti, tím tedy procházel podruhé. Pokoušel se to vysvětlit alespoň jakž takž logicky, ale ani poté, co sečetl sklenice dosud vypitého vína, dny své sexuální abstinence, útulnou atmosféru téhle vysokohorské chaty plus příslušný sentiment plynoucí ze skutečnosti, že jde o poslední večer na tomto zájezdu, si nedokázal racionálně vysvětlit, proč se v něm při každém pohledu na Moniku neustále všechno svírá a proč se mu – prokristapána! – dokonce třesou ruce. Napadlo ho, jestli to třeba nemůže souviset s nadmořskou výškou, a připomněl si jakousi školní fyzikální úlohu, v níž šlo o to, jak dlouho se vaří hrách v nížině a jak dlouho na horách. Znovu na Moniku pohlédl, přestože věděl, že se na ni dívá příliš často: s předstíraným zájmem naslouchala další Kamilově lyžařské historce. Zatímco ji pozoroval, konsternovaně si uvědomil, že kdyby měl najít větu, která co nejpřesněji, co nejpravdivěji vystihne jeho momentální psychický stav, bylo by to nejspíš ono idiotské klišé _samou láskou by ji nejraději snědl_. Vzpomněl si, že když mu kdysi jedna dívka tuhle větu řekla, cítil – přestože to chuděra nejspíš myslela upřímně – pouze posměšnou, podrážděnou nechuť (a když ho pak skutečně bolestivě kousla a on navíc uviděl na svém rameni její sliny, musel se ovládnout, aby ji neuhodil). Nyní to byl on sám, kdo celou svou bytostí toužil jemně kousnout do té napnuté tepny na Moničině krku, kdo toužil ochutnat její štíhlé prsty, dát si do úst ty tmavé vlnité vlasy, dýchat do toho malého zčervenalého ouška pod nimi, olízat její obočí a ta chvějící se oční víčka, líbat ty maličké nosní dírky, sát její jazyk a dokonce i vdechovat vůni těch tmavých obloučků v jejím podpaží, přestože tohle bylo místo, které Oskara odjakživa spíše odpuzovalo. Musí v tom být nějaká chemie, říkal si.
 
@@ -216,8 +210,6 @@ Jakoby nesouhlasně zavrtěla hlavou, a utírajíc si mokré ruce o černé š
 ### 4/
 
 Mezi světle šedými oblaky částečně prosvítal měsíc, ale i tak byla tma o něco hlubší, než Oskar čekal. Mrzlo. Pochodně byly vyrovnané podél kamenné zdi srubu; chatařův syn je postupně zapaloval a rozdával přítomným. Všichni si radostně nasazovali čepice a rukavice a spěšně si připínali lyže, ale Oskar náhle nebyl schopen pohybu. Stál, lyže a hůlky v rukou, a třásl se zimou. Všechno mu to připadalo zcela nesmyslné, pitomé: všechny ty drahé lyže, ty pestrobarevné kombinézy, i ty jeho svítivě žluté boty… Připadal si jako kašpar.
-
-  
 
 Eva přivezla dvě hořící pochodně. Rezignovaně od ní jednu převzal.
 

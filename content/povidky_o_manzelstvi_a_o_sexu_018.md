@@ -7,8 +7,6 @@ contentType: prose
 
 Oskar chodil cvičit dvakrát týdně, pokud možno kolem poledne, protože v té době býval v posilovně téměř pokaždé sám, což mu nanejvýš vyhovovalo. Měl rád, když se mohl v klidu převléknout v prázdné šatně, rozsvítit si v sále, počkat, až všechny zářivky postupně naskočí, a založit si do magnetofonu oblíbenou kazetu. Především však měl celou posilovnu jenom pro sebe, a nemusel tudíž čekat, až se místo na jednotlivých nářadích uvolní, nebo shánět hadr a s potlačovaným odporem utírat z černé koženky čísi pot; navíc měl záruku, že k němu právě ve chvíli, kdy se pokouší dostat nad hlavu osmdesátikilovou činku, nepřistoupí některý z přítomných mladých svalovců, který ho nešťastnou náhodou poznal, a nebude se ho ptát, zda jsou jeho romány _hodně autobigrafické_.
 
-  
-
 Když ale vstoupil do šatny dnes, na jednom z věšáků už viselo dámské oblečení: semišová bunda, džínsy, krátké černé tričko a černá podprsenka. V tělocvičně se svítilo a hudba, kterou bylo odtud slyšet, se Oskarovi nelíbila. Nepatrně ho to rozladilo. Pomaleji než jindy se převlékl do volných tepláků a bílého trička s nápisem _NEW YORK RANGERS_ (které nenosil nikam jinam než právě sem) a zapnul si bederní pás. Krátce pohlédl na černou podprsenku, natáhl si kožené rukavice bez prstů, vzal plastikovou láhev s minerálkou a vstoupil do sálu. Na bližší ze dvou krátkých sklopných laviček seděla přibližně dvacetiletá světlovlasá dívka a v poněkud bezradně svěšených bledých rukách držela dvoukilové jednoručky; na sobě měla přiléhavý černobílý úbor, hodící se spíše na aerobic než do posilovny a odhalující její ne úplně štíhlé břicho; čelenka v jejích vlasech byla rovněž černobílá. Oskarův příchod pozorovala v protilehlém zrcadle.
 
 „Ahoj,“ řekl přátelsky a kývl hlavou.
@@ -28,8 +26,6 @@ Pozměnil v duchu zamýšlenou sestavu cviků tak, aby co nejdéle vystačil s�
 ### 2/
 
 „Takže všichni _kulturisté_ si tykají?“ uslyšel za sebou dívku. „To je nějaký stavovský rituál?“
-
-  
 
 Přestože mu k osmi opakováním cviku v třetí sérii chyběla ještě čtyři, zavěsil činku do stojanu. Snažil se nefunět.
 
@@ -201,8 +197,6 @@ Když se ale po cvičení unaveně přivlekl do šatny, seděla dívka stále je
 
 Vzal ji do nedaleké hospody, kde obědval poměrně často a kde mimo jiné před dvěma lety oslavoval vydání svého předposledního románu; obě přítomné servírky ho tudíž znaly, což Oskar využil, a v duchu se na chvíli pokochal představou, jak by se dívka zatvářila, kdyby si některá ze servírek právě dnes přinesla k podpisu jeho novou knihu. Byla to nedobrovolná, vynucená ješitnost: Oskar nebyl nijak nadprůměrně ješitný (někdy naopak míval sklon se podceňovat, což by mu jeho přátelé patrně dosvědčili), ale ona arogantní povýšenost, k níž se dívka znovu a znovu vracela, stejně jako její podivná potřeba mít neustále navrch ho do ješitnosti doslova zaháněly. Odolal nicméně nutkání prozradit svou totožnost, neboť se jednak chtěl přesvědčit, že stále ještě dokáže sbalit dívku, aniž by si vypomáhal berličkami mediálního věhlasu, a jednak ho ona hra na jeřábníka začínala čím dál víc bavit. Bylo to zábavné svůdnicko-stylistické cvičení, jež v sobě spojovalo dva neobvyklé úkoly: coby jeřábník musel být natolik zajímavý, aby dívku zaujal – a zároveň nesměl být coby spisovatel přespříliš rafinovaný, aby se neprozradil. Když během oběda mluvil o samotářské povaze jeřábnického povolání, o tom, jak tráví celé dny izolován od lidí (v tomto ohledu vlastně ani příliš nelhal), musel samozřejmě použít originálnější postřehy, než že – například – _být jeřábníkem je někdy pěkná nuda_, ale zároveň se musel důsledně vyhnout všem příliš knižním, příliš obratným výrazům, které ho tu a tam napadaly. Když mluvil o podivuhodných tvarech mraků, o proměnách oblohy během dne nebo o tom, jak vítr žene cáry mlhy proti prosklené kabině jeřábu, nebál se být trochu poetický, ale zároveň použil přiměřeně těžkopádný jazyk, s občasnými „bezradnými“ pauzami typu _Jak to říct?_, které pak za něho vyplňovala dívka.
 
-  
-
 Zdálo se, že to vcelku úspěšně zvládl.
 
 „Vezmete mě někdy nahoru?“ zatoužila.
@@ -282,8 +276,6 @@ Zkoumavě ho pozorovala.
 ### 4/
 
 Ještě téhož odpoledne si ji odvedl domů. Byla opilá, ale ne tolik, aby v Oskarově pracovně nepochopila, že se nenalézá v bytě jeřábníka. Když Oskar co nejšetrněji uvedl věci na pravou míru, zhroutila se mu na rameno. Oskarovi jí bylo celkem líto – ale pouze do té doby, než začala vykřikovat cosi o teorii _haló efektu_ _a efektu prvního dojmu._
-
-  
 
 „Přestaň,“ nařídil jí a přetáhl jí přes hlavu černé tričko (trochu zklamaně si uvědomil, že její podprsenku vlastně už zná). „Upozorňuju tě, že všecky psychický kecy jsou vod týhle chvíle naprostý tabu.“
 
