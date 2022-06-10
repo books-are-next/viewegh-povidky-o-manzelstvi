@@ -3,6 +3,8 @@ title: Fiacolata
 contentType: prose
 ---
 
+<section>
+
 ### 1/
 
 Za sedm týdnů jejich tajného vztahu to byla první společná noc, takže si nemohli dovolit ztrácet čas: svlékat se začali už na chodbě. Do pokoje se připotáceli téměř nazí, s dvěma překážejícími chumly šatstva v náručích. Oskar padl zády na postel a Monika se nad něho obkročmo postavila; vzepřel se na lokti a volnou rukou si ji stáhl na obličej. Ona ani on, jak si svěřili později, dosud nic podobného nezažili. Monika se vzpínala nad jeho ústy a křičela tak silně, jako kdyby se ve studené řece pod okny hotelového pokoje právě topil její čtyřletý syn.
@@ -248,3 +250,5 @@ Odepla si rázně lyže, vytrhla mu pochodeň z ruky a odhodila ji směrem k 
 Okamžitě je obklopila tma. Nezvratnost toho, co provedli, je vyděsila. Rozhlíželi se kolem a snažili se očima proniknout tmu. Udělala potřebné dva kroky, zhroutila se do jeho náruče a začala ho líbat – takovým způsobem, jako kdyby to bylo naposledy. Oskar si strhl rukavice, vedral se jí pod svetr a pod tričko a bezmála surově jí začal mačkat ňadra. Vycházela mu tělem vstříc – ale pak se mu náhle vymanila. O krok ustoupila, podívala se na něho, upravila se, přidržela se jeho ruky, aby neztratila rovnováhu, a rychle si nazula lyže.
 
 Dolů sjížděli v opatrných, ale dokonale vykroužených obloucích.
+
+</section>

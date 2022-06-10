@@ -3,6 +3,8 @@ title: Maruška
 contentType: prose
 ---
 
+<section>
+
 ### 1/
 
 Oskar Petrovi svou účast slavnostně slíbil (se známým patosem, který tak často provází pokročilou opilost) asi před třemi týdny hodinu po půlnoci ve svém oblíbeném baru Casablanca, kam dávného kamaráda z vojny při jeho pražské návštěvě na závěr zatáhl, aby si před svatbou ještě trochu užil. Teď však bylo půl sedmé ráno, Oskar byl zcela střízlivý a samozřejmě se mu nikam nechtělo. Ztratí kvůli té svatbě celé dva dny, říkal si rozespale, a další tři dny se pak bude v Praze léčit ze všech těch narychlo ohřátých párků, těžkých máslových dortů a vepřových řízků smažených na kachním sádle. Nevyspí se (znáte snad někoho, kdo se dokáže dobře vyspat pod půlmetrákovou duchnou nad sebou a ovčími kůžemi místo prostěradla pod sebou?), v koupelně nebudou čisté ručníky a na záchod bude muset chodit na dvůr do té strašlivé dřevěné _budky_, a to i v noci. Navíc tam kromě Petra a jeho rodičů nebude nikoho dalšího znát, takže většinu času prosedí v zajetí nějakého bodrého sedmdesátiletého nevěstina strýce, který mu bude několik hodin vyprávět, jak se nad údolím točí vítr a jakou by vnukovi koupil obracečku na seno, kdyby na ni měl. Jako by neznal vesnické svatby! Když mu před pár minutami zazvonil budík (o půldruhé hodiny dříve, než byl zvyklý vstávat), Oskar se za svůj neuvážený slib upřímně proklel a nějakou dobu vážně uvažoval, že bude ještě dvě hodiny spát a potom Petrovi zatelefonuje a nějak se vymluví – ale nakonec s hekáním přece jen vstal.
@@ -19,7 +21,9 @@ Potřásli si rukama.
 
 „Hyjéé!“ zakřičel spokojeně Oskar, Petr pohnul opratěmi a koně se dali do pohybu.
 
-  
+</section>
+
+<section>
 
 Po příjezdu do vsi se šel Oskar pozdravit s Petrovou rodinou: s jeho obézními, mile plachými rodiči, které si pamatoval ze své první a zároveň poslední návštěvy před osmi lety; _s dědkem a bábou_, kteří už byli v důchodu a nyní si přivydělávali domácími pracemi pro nejrůznější obskurní firmy (jejich jediný pokoj v malém přístavku za domem – s velkým obrazem Panny Marie nad vzorně ustlanou manželskou postelí – byl právě zavalený stovkami neuvěřitelně ošklivých zelených plastových žabiček, kterým staroušci do vylisovaných důlků obratně vlepovali zrůdně vypouklé pohyblivé oči). Potom byl představen dvěma vesele povykujícím tetám, které u obrovského stolu v kuchyni připravovaly nádivku do kuřat (čí to jsou tety, Oskar nepochopil), dále kvůli čemusi uražené čísi snaše, Petrovu kamarádovi, který zrovna přivezl jakési tlakové hadice, kulhavému, brunátnému strýci, jemuž nebylo slova rozumět, a konečně rozdováděné sedmičlenné skupince dětí a mládeže, v níž Oskara okamžitě zaujala jakási _Maruška z tetiny přízně_, poměrně drobná dívka v nevkusných letních šatech, se silnými boky a lýtky, ale s nápadně hezkým obličejem. Stejně jako zbylé tři dívky byla špatně, přehnaně nalíčená, ale přesto si nemohl nevšimnout, že má výrazné, hluboké oči, čistou pleť a krásně tvarovaná ústa. K Oskarovu překvapení se náhle od skupinky oddělila, přistoupila k němu a rozpačitě mu podala _malý dárek na přivítanou_ (hlas měla o něco hlubší, než by byl Oskar čekal): žluté papírové desky, obsahující – odhadl zkušeně – asi šedesát čistých kancelářských papírů. Na čelní straně desek bylo nalepeno několik hvězdiček vystřižených z modrého, červeného a zlatého staniolu.
 
@@ -484,3 +488,5 @@ Oskar postavil kufr na zem; uvědomil si, že úleva, kterou cítí, neodpovíd�
 „Konečně sami,“ řekl taxíkářovi.
 
 Požádal ho, zda by mohl pustit nějakou hudbu – ale potom ho náhle napadlo, zda to naopak není on, kdo byl právě zanechán napospas vlastnímu truchlivému osudu.
+
+</section>

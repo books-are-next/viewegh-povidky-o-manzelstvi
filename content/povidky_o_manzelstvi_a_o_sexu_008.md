@@ -3,6 +3,8 @@ title: "Jeden z\_posledních hezkých dní"
 contentType: prose
 ---
 
+<section>
+
 Léto prakticky skončilo. Oskar se Zuzanou byli na jezu úplně sami. Zuzana ležela na zádech; oči měla zavřené. Jez hučel.
 
 Oskar se obrátil na břicho, ruce si založil pod bradou a čekal, kdy se v ohybu řeky objeví některá z posledních letošních lodí. Hladina se stříbřitě leskla, takže musel mhouřit oči. Slunce už ale ztrácelo sílu, i když vůni pryskyřice z Oskarova kajaku ještě pořád uvolnit dokázalo.
@@ -51,7 +53,9 @@ Okamžitě odvrátil hlavu, ale přesto cítil její pohled. Zamrzelo ho, že j�
 
 Naházela své věci do proutěné tašky a nahněvaně odběhla.
 
-  
+</section>
+
+<section>
 
 Asi o půl hodiny později přirazila k jezu modrá kánoe; dívka sedící na háčku neměla podprsenku. Vystoupila z lodi a protahovala se. Zadák, sotva dvacetiletý hubený blonďák, vytáhl loď z vody a šel se podívat na hučící peřej. Dívka si mezitím roztírala po hezkých nohách opalovací krém.
 
@@ -114,3 +118,5 @@ Vstal, vzal kajak a spustil ho na vodu – svaly na pažích přitom napnul v�
 Když nasedala do kánoe, znovu se na Oskara podívala a s úsměvem pokrčila rameny. Bob odstrčil loď od břehu a zbytečně velkým obloukem ji navedl na levou stranu propusti. Ještě předtím, než je proud strhl na skálu, se dívka otočila, aby Oskarovi naposledy zamávala, ale Oskar ani tentokrát pozdrav neopětoval. Odrazil se pádlem od kamenitého dna a pomalými záběry se vydal proti proudu domů.
 
 Byl to jeden z posledních hezkých dní.
+
+</section>

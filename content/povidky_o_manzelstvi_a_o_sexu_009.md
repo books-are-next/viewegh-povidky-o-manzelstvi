@@ -3,6 +3,8 @@ title: Běž si klidně sám!
 contentType: prose
 ---
 
+<section>
+
 Jednoho sobotního květnového večera někdy v polovině osmdesátých let navrhla Zuzana Oskarovi, že by se snad _alespoň dneska_ nemuseli dívat jako obvykle celý večer na televizi; řekla to s podivně naléhavým důrazem, a navíc právě ve chvíli, kdy televizní hlasatelka Marie Tomsová seznamovala diváky s přehledem večerních pořadů.
 
 „A co chceš dělat ?“ otázal se Oskar celkem logicky – v místním kině promítali jen ve středu a v neděli, na vinárnu neměli peníze (Oskar ještě studoval, takže museli vystačit se Zuzaniným malým platem) a žádné jiné možnosti zábavy v jejich rodném městečku neexistovaly.
@@ -51,7 +53,9 @@ Představil si na okamžik, že elekromagnetické vlny televizních signálů pa
 
 Strávili na lavičce více než půl hodiny a potom se zvolna vydali nazpět. Jak přibývalo tmy, množily se i zámlky v jejich rozhovoru, ale na atmosféře poklidné pohody, která jejich neplánovanou vycházku od počátku provázela, se tím nic nezměnilo.
 
-  
+</section>
+
+<section>
 
 Když ale došli na okraj sídliště, vemlouvavá úvodní melodie již zmíněného italského seriálu, kterou bylo slyšet z desítek otevřených oken, je zastihla nepřipravené; kdyby v té chvíli měli odpovědět zcela po pravdě, oba by si museli přiznat, že onen kriminální film by vidět chtěli.
 
@@ -112,3 +116,5 @@ Zuzana ho pohrdavě pozorovala.
 Naposledy nechápavě zavrtěla hlavou a uraženě ho opustila.
 
 „To udělám!“ křičel za ní Oskar už zcela nepříčetně. „O to se neboj! Přesně tohle udělám!“
+
+</section>

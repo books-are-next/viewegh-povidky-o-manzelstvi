@@ -3,6 +3,8 @@ title: "Umění žít sám a\_šťastný"
 contentType: prose
 ---
 
+<section>
+
 Podobu Oskarových porozvodových večerů a lichých víkendů (každý sudý víkend měl syna) už od počátku významným způsobem ovlivňoval telefon. Většinou některá z jeho přítelkyň zavolala sama, čímž byly aby se tak řeklo karty definitivně rozdány, neboť i když Oskar neměl chuť vyrazit si právě s touto dívkou, byl příliš zdvořilý na to, aby ji odmítl (jediné, na co se výjimečně zmohl, byl alespoň krátkodobý odklad schůzky). Pokud si chtěl vybrat svobodněji, musel se tudíž angažovat sám: přitáhnout si ohmataný adresář z hladké černé kůže a listovat jím tak dlouho, dokud se nerozhodne pro tři až čtyři telefonní čísla, na která pak postupně zavolá. Ze zkušenosti věděl, že není dobré rozhodovat se pouze pro jedinou dívku, protože pokud by tato nemohla nebo nebyla doma, všechny ostatní, kterým by volal v druhém kole, by pak v jeho očích trpěly statutem pouhých náhradnic. Samozřejmě že v daný okamžik vždycky tu či onu dívku v duchu favorizoval, ale to se dalo jednoduše vyřešit tak, že si stanovil pořadí, v jakém bude zvolená čísla vytáčet (a uspěl-li hned napoprvé, na zbylá čísla už pochopitelně nevolal).
 
 „Ivetko, Ivetko,“ mumlal právě Oskar. „Ty jedna zubatá Ivetko…“
@@ -37,7 +39,9 @@ Zkusil zavolat synovi, potom kamarádovi Jiřímu, potom jinému kamarádovi, al
 
 Nakonec si řekl, že by snad přece jen mohl zavolat Žanetě – přičemž ono řekl si vystihuje stav, v němž se právě nalézal, mnohem lépe než případné _rozhodl se_, neboť jeho vynucená volba už postrádala jakoukoli rozhodnost. Telefon vzala Žanetina matka; jakmile se Oskar představil, její hlas nápadně zvlídněl, což bylo Oskarovi v dané situaci protivné: strašně litovala, ale Žaneta teď, zrovínka teď, není to ani pět minut, odjela na Spořilov ke kamarádce. Kdyby snad mohla něco vyřídit? Nebo kdyby Oskar chtěl, mohla by se podívat do Žanetina pokoje, jestli by tam nenašla číslo na tu kamarádku? Oskar s poděkováním odmítl, rozloučil se a zavěsil.
 
-  
+</section>
+
+<section>
 
 Utekl se k pocitu dotčenosti. Všichni na mě kašlou, říkal si, jakkoli věděl, že to není pravda. Měl kolem sebe přinejmenším tucet lidí, kteří by o přátelství s ním upřímně stáli, kteří mu často psali a telefonovali – a na které naopak kašlal on. Takže ať si teď nestěžuje. Nejen Woody Allen, _všichni_ chceme být členy pouze těch klubů, kde nás nechtějí, říkal si. Podíval se z okna: provoz na ulici už slábl, všichni odjeli na ty své chaty a chalupy. Chvíli bezcílně přecházel po bytě a potom si napustil vanu, vlezl dovnitř a začal si připomínat, v čem spočívá _Umění být sám a šťastný_ – jak zněl titul psychologické příručky, kterou si krátce po rozvodu zakoupil. _Přestože pořád víc a víc lidí vede samostatný život, stále se na něj pohlíží jako na politováníhodnou věc. Ale je skutečně tak politováníhodný? Není samostatný život pouze další z možností, která má své výhody a nevýhody, stejně jako život s partnerem?_ Zasmál se, což mu trochu vrátilo rovnováhu. Není ostatně potřeba to dramatizovat, říkal si. Udělá si klidný, příjemný domácký večer. Pohodlný staromládenecký život s čajem a knihami, jak říká Proust. Bude si číst, už víc než týden ostatně na knihu ani nesáhl, a – kdo ví – možná zkusí i něco napsat, třeba kratší povídku. To by bylo skvělé. Pokoušel se myslet na některá rozpracovaná témata, ale záhy zjistil, že jeho mysl dosud okupují nejrůznější obrazy dívek, kterým se v průběhu minulé hodiny marně pokoušel dovolat. Zkusmo si několik z nich přivolal, ale právě ve chvíli, kdy ho to začalo vzrušovat, zazvonil telefon. Zaklel. První zvonění ještě dokázal ignorovat, ale už při druhém souboj s vlastní hrdostí prohrál, vyskočil z vany a hnal se k aparátu, zanechávaje po sobě na podlaze mokrou spoušť.
 
@@ -75,11 +79,15 @@ Oskar zeslabil rádio, pohotově vtipkoval a Žaneta se vděčně smála, ale j
 
 Když zavěsil, samolibě se usmál. _Není pochyb, že samostatný život má své pozitivní stránky. Nadine to vysvětluje takto: „Prvních pár měsíců po rozchodu s Brianem bylo prostě senzačních. Naprosto mě nadchlo, že si můžu dělat všechno po svém.“_
 
-  
+</section>
+
+<section>
 
 Do schůzky s Klárou zbývaly téměř čtyři hodiny. Oskar telefonicky zamluvil stůl ve své oblíbené restauraci a narychlo poklidil; chvíli sice koketoval s nápadem, že využije času a uklidí důkladně celý byt, ale nakonec jenom naskládal špinavé nádobí do myčky, ustlal a umyl umývadlo a záchod. Uvařil si kávu a do kuchyně si přinesl knihu, kterou začal číst asi před deseti dny, ale později se k ní už nedostal; několikrát proto musel zalistovat stránkami nazpět, aby se v ději a postavách znovu zorientoval, ale navzdory počátečním obtížím se posléze začetl s větším zájmem, než by byl čekal. Četba mu dokonce natolik vrátila schopnost koncentrace, že se nakonec přesunul z kuchyně do pracovny, kde pak přečetl více než třicet stránek svých starých poznámek k chystaným povídkám, přičemž dostal hned několik nových a – připadalo mu – celkem zajímavých nápadů, které si podrobně zapsal. Práce ho zaujala natolik, že se mu ani nechtělo skončit. Kdyby si nyní mohl vybrat, raději by zůstal doma a pokračoval – ale musel vstát, obléknout se, jít na tramvaj a dvě nebo dokonce tři hodiny poslouchat nějaké pitomé vyprávěnky o rybičkách a morčeti.
 
-  
+</section>
+
+<section>
 
 Ještě v tramvaji seděl jakoby odevzdaně, otupěle a sbíral síly na to povinné konverzační martyrium – ale jakmile vystoupil a _uviděl_ ji, bylo všechno jinak. Samozřejmě věděl, _pamatoval si_, že je Klára mimořádně hezká, ale znovu se ukázalo, že jedna věc je doma nebo v tramvaji si její krásu pouze vybavovat či připomínat – a jiná věc je být s ní z bezprostřední blízkosti přímo _konfrontován…_ Navenek se i nadále tvářil samozřejmě, a dokonce trochu ironicky, ale kdesi uvnitř byl znovu stržen Klářiným půvabem – jejími hladce sčesanými černými vlasy, zářivýma očima, jemnou pletí. Skoro se zdráhal uvěřit, že už mu bylo několikrát dovoleno se takové krásy dotýkat, a pevně doufal, že tomu tak bude i dnes.
 
@@ -91,7 +99,9 @@ Odstrčila ho.
 
 „Nedělej si ze mě dneska srandu, protože mám strašný problémy. Fakt strašný!“
 
-  
+</section>
+
+<section>
 
 Číšník, který je zavedl ke stolu, Oskara znal a pamatoval si i Kláru; když zapaloval olejovou lampičku, znovu se na ni pokradmu podíval. Oskar se s úsměvem rozhlédl: seděli na dobrém místě, pouze velký vedlejší stůl, který obklopovala šestice lidí zhruba v Oskarově věku, čtyři ženy a dva muži, byl na jeho vkus příliš blízko. Zdálo se sice, že se jejich sousedé dobře baví (nikdo z nich, blesklo hlavou Oskarovi, přinejmenším nevypadal na to, že by tak jako on strávil polovinu odpoledne zoufalými telefonáty), ale přesto při příchodu Oskara s Klárou na okamžik ztichli.
 
@@ -173,7 +183,9 @@ Společně se tomu zasmáli.
 
 „Pro krásu,“ poznamenal potom jeden z mužů, „se holt musí trpět.“
 
-  
+</section>
+
+<section>
 
 Když se Oskar ráno vrátil z koupelny a ještě mokrými rty se jemně dotkl nahého ramene spící Kláry (když v noci přišli k němu domů, pochopitelně okamžitě usnula, ale nijak příliš ho to netrápilo, neboť věděl, že ráno mu všechno vynahradí), napadlo ho náhle, jaká je to vlastně všechno náhoda. Když teď vdechoval vůni Klářiných vlasů a hladil ji po prsou a po zádech, cítil k ní div ne lásku – jenže kdyby býval ten telefon včera nevzal nebo kdyby se ještě předtím dovolal někomu jinému, ležel by tu teď s úplně jinou dívkou, k níž by patrně cítil totéž. Hladil by ji se stejnou něhou jako teď Kláru – ale byl by to někdo úplně jiný.
 
@@ -182,3 +194,5 @@ Tohle poznání Oskara na chvíli nepříjemně zaskočilo – ale když pak pr
 „Snídaně,“ oznámil jí s úsměvem.
 
 Klára si předměty na tácu prohlížela s rostoucím zájmem.
+
+</section>

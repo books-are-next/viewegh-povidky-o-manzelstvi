@@ -3,6 +3,8 @@ title: Úspěšný lov
 contentType: prose
 ---
 
+<section>
+
 ### 1/
 
 > Být na horách sám, bez společnosti, je horší než kancelář.
@@ -241,3 +243,5 @@ Vklouzla do holinek a oblékla si plášťěnku.
 Přistoupila k němu, políbila ho, z postranní kapsy batohu vytáhla výtisk Oskarova posledního románu a podala mu ho.
 
 „Napíšeš mi tam něco hezkýho?“
+
+</section>
