@@ -11,8 +11,6 @@ contentType: prose
 
 Srub Oskarova přítele stál zcela osamoceně na samém úpatí hory, jejíž jméno Oskar stále zapomínal, přestože je měl už několik dní před očima na jednom z oněch zelených lístečků s Robertovými instrukcemi, kterými byla polepená celá místnost – kromě klíčových informací týkajících se odběru vody z potoční nádrže, poměrně složitého otevírání dřevěných okenic či doplňování petroleje do lamp tu byly i nejrůznější pokyny typu _Tu šunku sežer co nejdřív, nebo se zkazí_ (na lednici) nebo _Fernet a to červený víno klidně vypij, ale chraň tě noha otevřít tu šestnáctiletou skotskou!_ (na baru). Pod oknem na psacím stole ležel lovecký dalekohled opatřený pro změnu lístečkem _Kamzíci tu sice nejsou, ale u tý chaty dole v údolí jsem minulej tejden viděl parádní kozy!_ (Oskarovi se mimochodem nic podobného nepodařilo: v uplynulých dvou slunečných dnech sice v přestávkách mezi psaním občas pozoroval jakousi trojici žen či dívek, které se na louce před zmíněnou chatou opalovaly, ale ke svému zklamání na tu dálku nedokázal ani pořádně rozpoznat, zda mají či nemají plavky.)
 
-  
-
 Za takové průtrže mračen, jaká se strhla dnes odpoledne, byla louka před chatou pochopitelně prázdná – stejně jako hřebenová cesta, na níž ještě včera Oskar dalekohledem sledoval maličké postavy procházejících turistů. Prudký vítr hnal temná mračna spolu s přívaly deště přímo proti západním oknům srubu, ale dovnitř zatím naštěstí nepronikla ani jediná kapka. V místnosti začínala být tma, a tak Oskar zapálil petrolejku. Potom znovu přistoupil k oknu, fascinován tím přírodním divadlem: po přístupové cestě, která se svažitě obtáčela kolem srubu, se valil žlutohnědý proud plný bahna, drobného štěrku a ulámaných větví. Nebe bylo nyní už téměř černé a vichřice útočila na okraj lesa s takovou silou, až se zdálo nevyhnutelné, že se některý z těch neustále ohýbaných smrků každou chvíli s praskotem zlomí. Oskar se špičkami prstů dotýkal spár ve starém rámu okna a s potěšením vnímal všechen ten venkovní chlad a vlhkost. Díky té slotě venku působil vnitřek srubu ještě útulněji než jindy: měkké světlo začouzené lampy, prostorná válenda s přehozem z králičích kůží, ty báječně suché přikrývky na ní, propanbutanový vařič, bochník chleba, uzené maso zabalené v alobalu, krabice kostkového cukru, dobře uzavřená dózička s kávou – všechny ty obyčejné věci jako by náhle nabývaly na významu. Vytáhl se na špičky a přejel prsty po palubkovém obložení stropů – s uspokojením shledal, že dřevo je zcela suché, přestože déšť už dlouhé minuty do střechy doslova bušil. Vrátil se k psacímu stroji a znovu se zabral do práce na scénáři; psal asi půl hodiny, když jej náhle vyděsilo drnčivé zaklepání na okno.
 
 S nepředstíraným úlekem, který musel nutně působit poněkud komicky, se otočil po směru zvuku a za oknem spatřil zmáčenou dívčí tvář. Podvědomě se zaklonil mimo dosah světla petrolejky (neměl v úmyslu svou přítomnost zapírat, spíše chtěl získat čas, aby mohl náležitě reagovat), ale dívka ho mezitím už spatřila. Zaklepala na sklo znovu, s jakousi zoufalou naléhavostí, oči upřené přímo na Oskara. Ten se takovým vpádem do svého soukromí cítil v prvních vteřinách nepříjemně dotčen, ale když dívce vzápětí otevřel dveře, pochopil, že je zřejmě opravdu v tísni: po celém těle se třásla a její rty byly zimou fialové. Na sobě měla jen krátké džínsy a tričko, obojí samozřejmě skrz naskrz, a po zablácených nahých nohách jí stékaly proudy vody do rozčvachtaných sandálů. Už bez otálení ji vtáhl dovnitř a pečlivě zavřel.
@@ -26,8 +24,6 @@ S nepředstíraným úlekem, který musel nutně působit poněkud komicky, se 
 > — Zweig
 
 Zůstala stát asi metr ode dveří. Vzlykala, drkotala zuby a bezkrevnými rty Oskarovi přerývaně sdělovala, že na hřebenech zabloudila. Říkala ještě cosi, ale tomu už Oskar neporozuměl. – A ostatní? Kde jsou ostatní? chtěl pouze vědět. Nyní nerozuměla dívka. – Chce snad říct, že si vyrazila na túru úplně sama? Dívka přikývla a její pláč zesílil. – Klid, ať se ničeho nebojí, teď už bude všechno v pořádku, promluvil znovu Oskar. Teď se především potřebuje převléknout a zahřát. Pokoušel se o maximálně chlácholivý tón, ale dívka začala být paradoxně poněkud hysterická: v předklonu se schoulila do jakési téměř prenatální polohy, hlasitě sténala, a když ji chtěl Oskar pro začátek alespoň posadit na nejbližší židli, polekaně před ním uskočila.
-
-  
 
 „Klid, klid,“ konejšil ji Oskar. „Mě se opravdu nemusíte bát, věřte mi.“
 
@@ -93,8 +89,6 @@ Nakonec dívce pomohl s oblékáním – i nadále si připadal tak trochu ja
 > — Zweig
 
 Probudila se po necelé hodině a mžouravě se kolem sebe rozhlížela.
-
-  
 
 „Dobré ráno,“ pravila ironicky.
 
@@ -189,8 +183,6 @@ Ta šestnáctiletá skotská, shodli se s Monikou, byla přímo neuvěřitelně
 > — Zweig
 
 Asi po půldruhé hodině, kterou strávili ve velmi příjemném rozhovoru, se k ní naklonil a zkoumavě ji políbil.
-
-  
 
 „Vzrušuje mě to obrácené pořadí,“ řekl a začal jí velmi pomalu rozepínat zip jeho vlastní teplákové bundy. „Před pár hodinami svlékání – a teprve teď první polibek. Je to mile nezvyklé.“
 

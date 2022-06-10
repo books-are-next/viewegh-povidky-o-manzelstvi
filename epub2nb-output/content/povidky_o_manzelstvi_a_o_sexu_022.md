@@ -5,8 +5,6 @@ contentType: prose
 
 Byly zhruba dvě hodiny po půlnoci a v podniku zůstalo už jen několik hostů. Oskar a jeho nakladatel seděli se dvěma dívkami v křeslech přímo naproti baru. Vládlo tu spíše přítmí, což Oskarovi vyhovovalo; někde blízko na stropě musela být ultrafialová zářivka, protože bílý lem šatů jeho sousedky doslova zářil. Barmance bylo něco ke čtyřiceti; na nose měla velké dioptrické brýle s masivními obroučkami z červeného plastu, díky kterým působila už na pohled sebevědomě. Když před chvílí přinesla dvě irské whisky, minerálku a dva vysoké koktejly s papírovými paraplíčky, povzbudivě na Oskara mrkla. Vypadala, že ji v životě už nemůže nic překvapit. Vrátila se za bar a ztlumila hudbu, protože na vyvýšeném podiu stejně nikdo netančil.
 
-  
-
 „Ještě jste nám pořád neřekli, co děláte,“ řekla bruneta, která seděla po pravici Oskarova nakladatele. Postavu měla velmi dobrou, ale její obličej působil trochu tupě.
 
 „My jsme převaděči,“ odpověděl Oskar téměř okamžitě.

@@ -5,8 +5,6 @@ contentType: prose
 
 Jednoho sobotního květnového večera někdy v polovině osmdesátých let navrhla Zuzana Oskarovi, že by se snad _alespoň dneska_ nemuseli dívat jako obvykle celý večer na televizi; řekla to s podivně naléhavým důrazem, a navíc právě ve chvíli, kdy televizní hlasatelka Marie Tomsová seznamovala diváky s přehledem večerních pořadů.
 
-  
-
 „A co chceš dělat ?“ otázal se Oskar celkem logicky – v místním kině promítali jen ve středu a v neděli, na vinárnu neměli peníze (Oskar ještě studoval, takže museli vystačit se Zuzaniným malým platem) a žádné jiné možnosti zábavy v jejich rodném městečku neexistovaly.
 
 „Co já vím?“ řekla Zuzana a s jakousi neurčitou nespokojeností rozhodila rukama. „Co kdybychom se šli třeba jenom tak projít? Venku je krásně…“
@@ -53,9 +51,9 @@ Představil si na okamžik, že elekromagnetické vlny televizních signálů pa
 
 Strávili na lavičce více než půl hodiny a potom se zvolna vydali nazpět. Jak přibývalo tmy, množily se i zámlky v jejich rozhovoru, ale na atmosféře poklidné pohody, která jejich neplánovanou vycházku od počátku provázela, se tím nic nezměnilo.
 
-Když ale došli na okraj sídliště, vemlouvavá úvodní melodie již zmíněného italského seriálu, kterou bylo slyšet z desítek otevřených oken, je zastihla nepřipravené; kdyby v té chvíli měli odpovědět zcela po pravdě, oba by si museli přiznat, že onen kriminální film by vidět chtěli.
-
   
+
+Když ale došli na okraj sídliště, vemlouvavá úvodní melodie již zmíněného italského seriálu, kterou bylo slyšet z desítek otevřených oken, je zastihla nepřipravené; kdyby v té chvíli měli odpovědět zcela po pravdě, oba by si museli přiznat, že onen kriminální film by vidět chtěli.
 
 „Hrdliččin zve ku lásce hlas,“ řekl nicméně Oskar posměšně a Zuzana se krátce zasmála.
 

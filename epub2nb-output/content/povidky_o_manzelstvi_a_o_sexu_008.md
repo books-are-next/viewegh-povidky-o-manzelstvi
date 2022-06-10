@@ -5,8 +5,6 @@ contentType: prose
 
 Léto prakticky skončilo. Oskar se Zuzanou byli na jezu úplně sami. Zuzana ležela na zádech; oči měla zavřené. Jez hučel.
 
-  
-
 Oskar se obrátil na břicho, ruce si založil pod bradou a čekal, kdy se v ohybu řeky objeví některá z posledních letošních lodí. Hladina se stříbřitě leskla, takže musel mhouřit oči. Slunce už ale ztrácelo sílu, i když vůni pryskyřice z Oskarova kajaku ještě pořád uvolnit dokázalo.
 
 „Namažeš mě?“ řekla Zuzana, aniž otevřela oči.
@@ -53,9 +51,9 @@ Okamžitě odvrátil hlavu, ale přesto cítil její pohled. Zamrzelo ho, že j�
 
 Naházela své věci do proutěné tašky a nahněvaně odběhla.
 
-Asi o půl hodiny později přirazila k jezu modrá kánoe; dívka sedící na háčku neměla podprsenku. Vystoupila z lodi a protahovala se. Zadák, sotva dvacetiletý hubený blonďák, vytáhl loď z vody a šel se podívat na hučící peřej. Dívka si mezitím roztírala po hezkých nohách opalovací krém.
-
   
+
+Asi o půl hodiny později přirazila k jezu modrá kánoe; dívka sedící na háčku neměla podprsenku. Vystoupila z lodi a protahovala se. Zadák, sotva dvacetiletý hubený blonďák, vytáhl loď z vody a šel se podívat na hučící peřej. Dívka si mezitím roztírala po hezkých nohách opalovací krém.
 
 „Přenášíme,“ přišel jí oznámit kluk.
 

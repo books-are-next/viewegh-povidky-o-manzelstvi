@@ -9,21 +9,19 @@ contentType: prose
 
 2) Všechny povídky jsou volně propojeny postavou jménem Oskar, která vykazuje jisté podobnosti s osobou autora této knihy; z této skutečnosti nelze ovšem v žádném případě vyvozovat, že jde o „pravdivé příběhy“ z autorova života (to je samozřejmě triviální poučka, ale po opakovaných zkušenostech s dedukcemi tohoto typu považuji za nutné ji znovu připomenout).
 
-  
-
 _Pokud jde o onen snad až zbytečně často diskutovaný poměr mezi tzv. životní pravdou a tzv. fikcí, rád bych jej charakterizoval citátem z románu Lewise Nordana Hudba močálu:_
 
 _„Samozřejmě, že to není pravda, ale patří to mezi příběhy z mého života už tak dlouho, že to o mně v jistém smyslu vypovídá daleko víc než většina toho, co se opravdu stalo.“_
 
-3) K případné otázce, z jakých pochybných pohnutek jsem si zvolil právě téma sexu, bych nejprve rád uvedl několik stručných čísel (čísla nelžou): Podle Světové zdravotnické organizace myslí žena na sex v průměru třicetkrát denně, a to i v klimakteriu; muž, bez ohledu na věk, průměrně každých osm minut. Podle šetření českých sexuologů má český muž za svůj život v průměru dvanáct intimních partnerek; současná česká dívka stihne do svých devětadvaceti let vystřídat více než šest sexuálních partnerů.
-
   
+
+3) K případné otázce, z jakých pochybných pohnutek jsem si zvolil právě téma sexu, bych nejprve rád uvedl několik stručných čísel (čísla nelžou): Podle Světové zdravotnické organizace myslí žena na sex v průměru třicetkrát denně, a to i v klimakteriu; muž, bez ohledu na věk, průměrně každých osm minut. Podle šetření českých sexuologů má český muž za svůj život v průměru dvanáct intimních partnerek; současná česká dívka stihne do svých devětadvaceti let vystřídat více než šest sexuálních partnerů.
 
 _Nyní se snad už mohu odvážit říci, že jsem si téma sexu zvolil z pohnutek víceméně osobních._
 
-4) A nakonec ještě jeden citát, pro změnu z Ludvíka Vaculíka:
-
   
+
+4) A nakonec ještě jeden citát, pro změnu z Ludvíka Vaculíka:
 
 _„Napiš pokud možno dobře, cos udělal špatně, a dostane se ti rozhřešení.“_
 
