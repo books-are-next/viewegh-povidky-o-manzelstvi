@@ -11,6 +11,7 @@ meta:
   modified: '2021-11-09T12:57:34.236Z'
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2478-8
 readingOrder:
   - promo.html
   - povidky_o_manzelstvi_a_o_sexu_005.html
