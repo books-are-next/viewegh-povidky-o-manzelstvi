@@ -7,7 +7,8 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-09T12:57:34.236Z",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2478-8"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola ",
@@ -546,6 +547,6 @@
       "user": "books-are-next",
       "repo": "viewegh-povidky-o-manzelstvi"
     },
-    "generatedAt": 1654949024530
+    "generatedAt": 1655155820029
   }
 }
