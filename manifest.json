@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "viewegh-povidky-o-manzelstvi-a-o-sexu-d144518",
-  "revision": "d144518",
+  "identifier": "viewegh-povidky-o-manzelstvi-a-o-sexu-d6ed76d",
+  "revision": "d6ed76d",
   "readingOrder": [
     "promo.html",
     "povidky_o_manzelstvi_a_o_sexu_005.html",
@@ -37,8 +37,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 22:01:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157695904
+    "date": "Wed Jun 15 2022 05:59:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272793435
   },
   "documents": [
     {
@@ -496,9 +496,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 127,
-      "chars": 790,
-      "ideas": 14,
+      "words": 150,
+      "chars": 962,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "povidky_o_manzelstvi_a_o_sexu_026.html",
@@ -516,9 +516,9 @@
   ],
   "totals": {
     "all": {
-      "words": 51045,
-      "chars": 313045,
-      "ideas": 2165
+      "words": 51068,
+      "chars": 313217,
+      "ideas": 2167
     },
     "chapters": {
       "words": 50908,
