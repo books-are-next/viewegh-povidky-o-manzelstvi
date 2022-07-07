@@ -37,7 +37,7 @@ readingOrder:
   - povidky_o_manzelstvi_a_o_sexu_024.html
   - povidky_o_manzelstvi_a_o_sexu_025.html
   - povidky_o_manzelstvi_a_o_sexu_026.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
