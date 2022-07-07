@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "viewegh-povidky-o-manzelstvi-a-o-sexu-12abe0f",
-  "revision": "12abe0f",
+  "identifier": "viewegh-povidky-o-manzelstvi-a-o-sexu-c005a8d",
+  "revision": "c005a8d",
   "readingOrder": [
     "promo.html",
     "povidky_o_manzelstvi_a_o_sexu_005.html",
@@ -34,11 +34,11 @@
     "povidky_o_manzelstvi_a_o_sexu_024.html",
     "povidky_o_manzelstvi_a_o_sexu_025.html",
     "povidky_o_manzelstvi_a_o_sexu_026.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:32:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980346202
+    "date": "Thu Jul 07 2022 08:42:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183343083
   },
   "documents": [
     {
@@ -67,7 +67,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Čtyři poznámky na úvod     (které mi tentokrát připadají nezbytné)",
+          "name": "Čtyři poznámky na úvod     (které mi tentokrát připadají nezbytné)",
           "id": null,
           "children": []
         }
@@ -147,7 +147,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Běž si klidně sám!",
+          "name": "Běž si klidně sám!",
           "id": null,
           "children": []
         }
@@ -187,7 +187,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Na oči se vyser     (Boccaccio po česku)",
+          "name": "Na oči se vyser     (Boccaccio po česku)",
           "id": null,
           "children": []
         }
@@ -367,7 +367,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Představivost intelektuálů po Osvětimi",
+          "name": "Představivost intelektuálů po Osvětimi",
           "id": null,
           "children": []
         }
@@ -447,7 +447,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vliv tequily     na amygdalu známé osobnosti",
+          "name": "Vliv tequily     na amygdalu známé osobnosti",
           "id": null,
           "children": []
         }
@@ -482,7 +482,7 @@
       "role": "chapter",
       "order": 22,
       "prev": "povidky_o_manzelstvi_a_o_sexu_025.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -495,11 +495,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 150,
-      "chars": 962,
+      "chars": 961,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "povidky_o_manzelstvi_a_o_sexu_026.html",
       "next": null,
@@ -516,9 +516,9 @@
   ],
   "totals": {
     "all": {
-      "words": 51068,
-      "chars": 313217,
-      "ideas": 2167
+      "words": 51198,
+      "chars": 314049,
+      "ideas": 2182
     },
     "chapters": {
       "words": 50908,

@@ -58,7 +58,7 @@
             "filename": "povidky_o_manzelstvi_a_o_sexu_003.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -67,7 +67,7 @@
             "filename": "povidky_o_manzelstvi_a_o_sexu_004.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": []
@@ -296,7 +296,7 @@
             "filename": "povidky_o_manzelstvi_a_o_sexu_027.md",
             "xhtml": "povidky_o_manzelstvi_a_o_sexu_027.xhtml",
             "id": 26,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": []
@@ -548,6 +548,6 @@
       "user": "books-are-next",
       "repo": "viewegh-povidky-o-manzelstvi"
     },
-    "generatedAt": 1655980017135
+    "generatedAt": 1657182636992
   }
 }
