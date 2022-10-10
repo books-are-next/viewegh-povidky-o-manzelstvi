@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "viewegh-povidky-o-manzelstvi-a-o-sexu-ab7fd57",
-  "revision": "ab7fd57",
+  "identifier": "viewegh-povidky-o-manzelstvi-a-o-sexu-884deff",
+  "revision": "884deff",
   "readingOrder": [
     "promo.html",
     "povidky_o_manzelstvi_a_o_sexu_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:09:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151748978
+    "date": "Mon Oct 10 2022 16:01:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417708530
   },
   "documents": [
     {
@@ -497,7 +497,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 150,
-      "chars": 962,
+      "chars": 963,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -517,7 +517,7 @@
   "totals": {
     "all": {
       "words": 51200,
-      "chars": 314040,
+      "chars": 314041,
       "ideas": 2182
     },
     "chapters": {
